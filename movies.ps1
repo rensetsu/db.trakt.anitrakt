@@ -3,7 +3,7 @@
 Import-Module -Name PowerHTML
 
 # $iwr = Invoke-WebRequest -Uri $uri -UseBasicParsing -OutFile 'movies.html'
-$iwr = Get-Content -Path 'index.html' -Raw
+$iwr = Get-Content -Path 'movies.html' -Raw
 $iwr = $iwr -replace "`t", '' -Replace "`n", ' ' -Replace "`r", ''
 $iwr = $iwr -replace '  ', ' '
 
