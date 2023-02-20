@@ -1,6 +1,10 @@
 #!/usr/bin/env pwsh
 
-# Import-Module -Name PowerHTML
+If (!(Get-Module PowerHTML -ErrorAction SilentlyContinue)) {
+  Install-Module PowerHTML -Scope CurrentUser
+}
+
+Import-Module -Name PowerHTML
 
 Invoke-WebRequest -Uri "https://anitrakt.huere.net/db/db_index_movies.php" -UseBasicParsing -OutFile 'movies.html'
 
