@@ -1,6 +1,7 @@
 #!/usr/bin/env pwsh
 
 If (!(Get-Module PowerHTML -ErrorAction SilentlyContinue)) {
+  Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted
   Install-Module PowerHTML -Scope CurrentUser
 }
 
