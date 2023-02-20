@@ -1,0 +1,21 @@
+name: Run parser
+on:
+  schedule:
+    - 0 0 * * 5
+  push:
+jobs:
+  RunParser:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run parser
+        shell: pwsh
+        run: |
+          ./main.ps1
+      - name: Commit changes
+        run: |
+          git config --local user.email "nattadasu@noreply.users.github.com"
+          git config --local user.name "nattadasu"
+          git add .
+          git commit -m "Update data"
+          git push
