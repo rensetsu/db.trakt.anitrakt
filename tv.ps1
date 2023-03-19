@@ -2,7 +2,6 @@
 
 Import-Module -Name PowerHTML
 
-# $iwr = Invoke-WebRequest -Uri $uri -UseBasicParsing -OutFile 'movies.html'
 $iwr = Get-Content -Path 'tv.html' -Raw
 $iwr = $iwr -replace "`t", '' -Replace "`n", ' ' -Replace "`r", ''
 $iwr = $iwr -replace '    ', ' '
@@ -14,13 +13,13 @@ $tvs = $xml.SelectNodes('//table/tbody/tr')
 
 $js = @(); $n = 1
 foreach ($tv in $tvs) {
-    $trakt = $tv.ChildNodes[1].ChildNodes[0].Attributes[0].value
+    $trakt = $tv.ChildNodes[0].ChildNodes[0].Attributes[0].value
     $trakt_id = $trakt -split '/' | Select-Object -Last 1
     $trakt_type = $trakt -split '/' | Select-Object -Last 2 | Select-Object -First 1
 
     Try {
         # Split MAL by br
-        $malBr = $tv.ChildNodes[3]
+        $malBr = $tv.ChildNodes[1]
         # the hashtable above has 3 nodes each with a single br:
         # #text = Contains season number
         # a = Contains MAL link and title
@@ -31,7 +30,7 @@ foreach ($tv in $tvs) {
 
         # Loop through each node, on 1st, grab the season number, on 2nd, grab the MAL link and title, on 3rd, skip
         for ($i = 0; $i -lt $malBrCount; $i += 3) {
-            if ($malBr.ChildNodes[$i].Name -ne 'br') {
+            if (($malBr.ChildNodes[$i].Name -ne 'br') -or ($malBr.ChildNodes[$i].Name -ne 'a')) {
                 # Get the season number
                 $season = $malBr.ChildNodes[$i].InnerText
                 # Get the MAL link and title
@@ -39,7 +38,7 @@ foreach ($tv in $tvs) {
                 $mal_id = $mal -split '/' | Select-Object -Last 1
                 $title = $malBr.ChildNodes[$i + 1].ChildNodes[0].InnerText
                 # Write the movie to the database
-                Write-Host "`r[$n/$($tvs.Count)] Adding $title to the database" -NoNewline
+                Write-Host "`e[2K`r[$n/$($tvs.Count)] Adding $title" -NoNewline
                 $js += [PSCustomObject][Ordered]@{
                     title = $title
                     mal_id = [int]$mal_id
@@ -48,7 +47,9 @@ foreach ($tv in $tvs) {
                     season = [int]$season.Replace("S", "").Trim()
                 }
             }
-            else {}
+            else {
+                Write-Error "Something went wrong with $title"
+            }
         }
     }
     Catch {

@@ -26,12 +26,12 @@ $movies = $xml.SelectNodes('//table/tbody/tr')
 $js = @(); $n = 1
 ForEach ($mv in $movies) {
     # Get the trakt link
-    $trakt = $mv.ChildNodes[1].ChildNodes[0].Attributes[0].value
+    $trakt = $mv.ChildNodes[0].ChildNodes[0].Attributes[0].value
     Try {
         # Get the MAL link
-        $mal = $mv.ChildNodes[3].ChildNodes[0].Attributes[1].value
+        $mal = $mv.ChildNodes[1].ChildNodes[0].Attributes[1].value
         # Get the title
-        $title = $mv.SelectSingleNode('td[1]/a').InnerText
+        $title = $mv.ChildNodes[1].InnerText
         # Get the MAL ID
         $mal_id = $mal -split '/' | Select-Object -Last 1
         # Get the trakt ID
@@ -39,11 +39,11 @@ ForEach ($mv in $movies) {
         $trakt_type = $trakt -split '/' | Select-Object -Last 2 | Select-Object -First 1
 
         # Write the movie to the database
-        Write-Host "`r[$n/$($movies.Count)] Adding $title to the database" -NoNewline
+        Write-Host "`e[2K`r[$n/$($movies.Count)] Adding $title" -NoNewline
         $js += [PSCustomObject][Ordered]@{
             title = $title
-            mal_id = $mal_id
-            trakt_id = $trakt_id
+            mal_id = [int]$mal_id
+            trakt_id = [int]$trakt_id
             type = $trakt_type
         }
     }
