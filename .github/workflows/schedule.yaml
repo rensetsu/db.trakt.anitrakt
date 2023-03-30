@@ -12,11 +12,14 @@ jobs:
       - name: Run parser
         shell: pwsh
         run: |
-          ./main.ps1
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update data"
-          git push
+          try {
+            ./main.ps1
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add .
+            git commit -m "Update data"
+            git push
+          }
+          catch {
+            write-host "No changes made"
+          }
