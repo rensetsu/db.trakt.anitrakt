@@ -546,6 +546,12 @@
     "type": "movies"
   },
   {
+    "title": "Biohazard 4D-Executer",
+    "mal_id": 5624,
+    "trakt_id": 886584,
+    "type": "movies"
+  },
+  {
     "title": "Tori no Uta",
     "mal_id": 5819,
     "trakt_id": 44872,
@@ -960,6 +966,12 @@
     "type": "movies"
   },
   {
+    "title": "City Hunter Movie: Tenshi no Namida",
+    "mal_id": 51585,
+    "trakt_id": 849921,
+    "type": "movies"
+  },
+  {
     "title": "City Hunter Movie: Shinjuku Private Eyes",
     "mal_id": 37516,
     "trakt_id": 391258,
@@ -1140,6 +1152,12 @@
     "type": "movies"
   },
   {
+    "title": "Crayon Shin-chan Movie 19: Arashi wo Yobu Ougon no Spy Daisakusen",
+    "mal_id": 10116,
+    "trakt_id": 105419,
+    "type": "movies"
+  },
+  {
     "title": "Crayon Shin-chan Movie 04: Henderland no Daibouken",
     "mal_id": 8359,
     "trakt_id": 88120,
@@ -1149,6 +1167,12 @@
     "title": "Crayon Shin-chan Movie 27: Shinkon Ryokou Hurricane - Ushinawareta Hiroshi",
     "mal_id": 38629,
     "trakt_id": 442374,
+    "type": "movies"
+  },
+  {
+    "title": "Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri",
+    "mal_id": 34244,
+    "trakt_id": 300082,
     "type": "movies"
   },
   {
@@ -1170,6 +1194,12 @@
     "type": "movies"
   },
   {
+    "title": "Crayon Shin-chan Movie 16: Chou Arashi wo Yobu Kinpoko no Yuusha",
+    "mal_id": 8367,
+    "trakt_id": 88117,
+    "type": "movies"
+  },
+  {
     "title": "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
     "mal_id": 50562,
     "trakt_id": 767997,
@@ -1185,6 +1215,12 @@
     "title": "Crayon Shin-chan Movie 05: Ankoku Tamatama Daitsuiseki",
     "mal_id": 6460,
     "trakt_id": 66741,
+    "type": "movies"
+  },
+  {
+    "title": "Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku",
+    "mal_id": 8368,
+    "trakt_id": 88133,
     "type": "movies"
   },
   {
@@ -1674,6 +1710,12 @@
     "type": "movies"
   },
   {
+    "title": "Doraemon Movie 34: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai",
+    "mal_id": 19645,
+    "trakt_id": 182999,
+    "type": "movies"
+  },
+  {
     "title": "Doraemon Movie 36: Shin Nobita no Nippon Tanjou",
     "mal_id": 31201,
     "trakt_id": 246896,
@@ -1683,6 +1725,12 @@
     "title": "Doraemon Movie 04: Nobita no Kaitei Kiganjou",
     "mal_id": 2667,
     "trakt_id": 97511,
+    "type": "movies"
+  },
+  {
+    "title": "Doraemon Movie 17: Nobita to Ginga Express",
+    "mal_id": 2675,
+    "trakt_id": 75470,
     "type": "movies"
   },
   {
@@ -1701,6 +1749,24 @@
     "title": "Doraemon Movie 13: Nobita to Kumo no Oukoku",
     "mal_id": 2661,
     "trakt_id": 90745,
+    "type": "movies"
+  },
+  {
+    "title": "Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+    "mal_id": 10534,
+    "trakt_id": 92303,
+    "type": "movies"
+  },
+  {
+    "title": "Doraemon Movie 23: Nobita to Robot Kingdom",
+    "mal_id": 2655,
+    "trakt_id": 104629,
+    "type": "movies"
+  },
+  {
+    "title": "Doraemon Movie 35: Nobita no Space Heroes",
+    "mal_id": 25383,
+    "trakt_id": 237981,
     "type": "movies"
   },
   {
@@ -1815,6 +1881,12 @@
     "title": "Doraemon Movie 38: Nobita no Takarajima",
     "mal_id": 35740,
     "trakt_id": 342789,
+    "type": "movies"
+  },
+  {
+    "title": "Doraemon Movie 29: Shin Nobita no Uchuu Kaitakushi",
+    "mal_id": 6930,
+    "trakt_id": 69994,
     "type": "movies"
   },
   {
@@ -2232,6 +2304,12 @@
     "type": "movies"
   },
   {
+    "title": "Fate/Prototype",
+    "mal_id": 12565,
+    "trakt_id": 260537,
+    "type": "movies"
+  },
+  {
     "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
     "mal_id": 25537,
     "trakt_id": 181245,
@@ -2253,6 +2331,12 @@
     "title": "Fate/stay night Movie: Unlimited Blade Works",
     "mal_id": 6922,
     "trakt_id": 31739,
+    "type": "movies"
+  },
+  {
+    "title": "Hajime no Ippo: Mashiba vs. Kimura",
+    "mal_id": 265,
+    "trakt_id": 30880,
     "type": "movies"
   },
   {
@@ -2292,9 +2376,21 @@
     "type": "movies"
   },
   {
+    "title": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+    "mal_id": 2174,
+    "trakt_id": 80038,
+    "type": "movies"
+  },
+  {
     "title": "Hokuto no Ken Zero: Kenshirou Den",
     "mal_id": 5291,
     "trakt_id": 74928,
+    "type": "movies"
+  },
+  {
+    "title": "Hokuto no Ken: Toki-den",
+    "mal_id": 4312,
+    "trakt_id": 80037,
     "type": "movies"
   },
   {
@@ -2706,6 +2802,12 @@
     "type": "movies"
   },
   {
+    "title": "Golgo 13: Queen Bee",
+    "mal_id": 1761,
+    "trakt_id": 32846,
+    "type": "movies"
+  },
+  {
     "title": "Golgo 13",
     "mal_id": 1760,
     "trakt_id": 10966,
@@ -2841,12 +2943,6 @@
     "title": "Hairpin Double",
     "mal_id": 48954,
     "trakt_id": 661571,
-    "type": "movies"
-  },
-  {
-    "title": "Hajime no Ippo: Mashiba vs. Kimura",
-    "mal_id": 265,
-    "trakt_id": 30880,
     "type": "movies"
   },
   {
@@ -3069,6 +3165,12 @@
     "title": "Idol Bu Show Movie",
     "mal_id": 51147,
     "trakt_id": 758747,
+    "type": "movies"
+  },
+  {
+    "title": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
+    "mal_id": 54118,
+    "trakt_id": 891612,
     "type": "movies"
   },
   {
@@ -3528,12 +3630,6 @@
     "type": "movies"
   },
   {
-    "title": "Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari",
-    "mal_id": 32869,
-    "trakt_id": 244086,
-    "type": "movies"
-  },
-  {
     "title": "Kuroko no Basket Movie 2: Winter Cup - Namida no Saki e",
     "mal_id": 32870,
     "trakt_id": 295650,
@@ -3543,6 +3639,12 @@
     "title": "Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou",
     "mal_id": 32871,
     "trakt_id": 295652,
+    "type": "movies"
+  },
+  {
+    "title": "Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari",
+    "mal_id": 32869,
+    "trakt_id": 244086,
     "type": "movies"
   },
   {
@@ -3804,18 +3906,6 @@
     "type": "movies"
   },
   {
-    "title": "Lupin the IIIrd: Mine Fujiko no Uso",
-    "mal_id": 39487,
-    "trakt_id": 435029,
-    "type": "movies"
-  },
-  {
-    "title": "Lupin the IIIrd: Chikemuri no Ishikawa Goemon",
-    "mal_id": 34021,
-    "trakt_id": 260453,
-    "type": "movies"
-  },
-  {
     "title": "Lupin III vs. Detective Conan",
     "mal_id": 6115,
     "trakt_id": 31504,
@@ -3879,6 +3969,24 @@
     "title": "Lupin III: Russia yori Ai wo Komete",
     "mal_id": 1420,
     "trakt_id": 60271,
+    "type": "movies"
+  },
+  {
+    "title": "Lupin the IIIrd: Mine Fujiko no Uso",
+    "mal_id": 39487,
+    "trakt_id": 435029,
+    "type": "movies"
+  },
+  {
+    "title": "Lupin the IIIrd: Chikemuri no Ishikawa Goemon",
+    "mal_id": 34021,
+    "trakt_id": 260453,
+    "type": "movies"
+  },
+  {
+    "title": "Lupin III: Goodbye Partner",
+    "mal_id": 38720,
+    "trakt_id": 423491,
     "type": "movies"
   },
   {
@@ -4176,12 +4284,6 @@
     "type": "movies"
   },
   {
-    "title": "Make My Day",
-    "mal_id": 49164,
-    "trakt_id": 670167,
-    "type": "movies"
-  },
-  {
     "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
     "mal_id": 35851,
     "trakt_id": 323569,
@@ -4476,6 +4578,12 @@
     "type": "movies"
   },
   {
+    "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission - Tabidachi",
+    "mal_id": 50532,
+    "trakt_id": 798270,
+    "type": "movies"
+  },
+  {
     "title": "Tonari no Totoro",
     "mal_id": 523,
     "trakt_id": 4169,
@@ -4545,6 +4653,18 @@
     "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
     "mal_id": 442,
     "trakt_id": 10347,
+    "type": "movies"
+  },
+  {
+    "title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+    "mal_id": 594,
+    "trakt_id": 257782,
+    "type": "movies"
+  },
+  {
+    "title": "Nasu: Andalusia no Natsu",
+    "mal_id": 1209,
+    "trakt_id": 43599,
     "type": "movies"
   },
   {
@@ -4932,6 +5052,12 @@
     "type": "movies"
   },
   {
+    "title": "Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai",
+    "mal_id": 49120,
+    "trakt_id": 692622,
+    "type": "movies"
+  },
+  {
     "title": "Tooi Sekai",
     "mal_id": 2210,
     "trakt_id": 54266,
@@ -5067,6 +5193,12 @@
     "title": "Persona 4 the Animation: The Factor of Hope",
     "mal_id": 14267,
     "trakt_id": 362907,
+    "type": "movies"
+  },
+  {
+    "title": "Persona 5 the Animation: The Day Breakers",
+    "mal_id": 31645,
+    "trakt_id": 259169,
     "type": "movies"
   },
   {
@@ -5259,6 +5391,12 @@
     "title": "Pokemon Movie 01: Mewtwo no Gyakushuu",
     "mal_id": 528,
     "trakt_id": 5440,
+    "type": "movies"
+  },
+  {
+    "title": "Pokemon: Senritsu no Mirage Pokemon",
+    "mal_id": 1527,
+    "trakt_id": 92619,
     "type": "movies"
   },
   {
@@ -5478,6 +5616,12 @@
     "type": "movies"
   },
   {
+    "title": "Rain Town",
+    "mal_id": 10448,
+    "trakt_id": 140669,
+    "type": "movies"
+  },
+  {
     "title": "Nijiiro Hotaru: Eien no Natsuyasumi",
     "mal_id": 6219,
     "trakt_id": 117113,
@@ -5505,6 +5649,12 @@
     "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
     "mal_id": 38329,
     "trakt_id": 423004,
+    "type": "movies"
+  },
+  {
+    "title": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+    "mal_id": 53129,
+    "trakt_id": 850180,
     "type": "movies"
   },
   {
@@ -5553,6 +5703,12 @@
     "title": "Biohazard: Degeneration",
     "mal_id": 3446,
     "trakt_id": 90277,
+    "type": "movies"
+  },
+  {
+    "title": "Biohazard: Death Island",
+    "mal_id": 54398,
+    "trakt_id": 871250,
     "type": "movies"
   },
   {
@@ -5751,6 +5907,12 @@
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
     "mal_id": 44,
     "trakt_id": 20172,
+    "type": "movies"
+  },
+  {
+    "title": "Sand Land",
+    "mal_id": 53882,
+    "trakt_id": 854551,
     "type": "movies"
   },
   {
@@ -5958,6 +6120,12 @@
     "type": "movies"
   },
   {
+    "title": "Hibike! Euphonium: Ensemble Contest-hen",
+    "mal_id": 51995,
+    "trakt_id": 891614,
+    "type": "movies"
+  },
+  {
     "title": "Toe! Space Attendant Aoi",
     "mal_id": 38012,
     "trakt_id": 421772,
@@ -6021,6 +6189,12 @@
     "title": "Spriggan",
     "mal_id": 420,
     "trakt_id": 10273,
+    "type": "movies"
+  },
+  {
+    "title": "Spy x Family Movie: Code: White",
+    "mal_id": 53888,
+    "trakt_id": 854702,
     "type": "movies"
   },
   {
@@ -6384,6 +6558,12 @@
     "type": "movies"
   },
   {
+    "title": "Unico",
+    "mal_id": 2427,
+    "trakt_id": 24925,
+    "type": "movies"
+  },
+  {
     "title": "Amrita no Kyouen",
     "mal_id": 41029,
     "trakt_id": 567438,
@@ -6735,6 +6915,12 @@
     "title": "Sekaiichi Hatsukoi: Propose-hen",
     "mal_id": 40314,
     "trakt_id": 492653,
+    "type": "movies"
+  },
+  {
+    "title": "11-nin Iru!",
+    "mal_id": 1901,
+    "trakt_id": 17542,
     "type": "movies"
   },
   {
@@ -7140,6 +7326,12 @@
     "type": "movies"
   },
   {
+    "title": "Uchuu Show e Youkoso",
+    "mal_id": 8115,
+    "trakt_id": 44183,
+    "type": "movies"
+  },
+  {
     "title": "Omoide no Marnie",
     "mal_id": 21557,
     "trakt_id": 147870,
@@ -7263,6 +7455,12 @@
     "title": "Yowamushi Pedal Movie",
     "mal_id": 30413,
     "trakt_id": 215080,
+    "type": "movies"
+  },
+  {
+    "title": "Yuu☆Yuu☆Hakusho (Movie)",
+    "mal_id": 882,
+    "trakt_id": 30871,
     "type": "movies"
   },
   {
