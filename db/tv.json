@@ -7,13 +7,6 @@
     "season": 1
   },
   {
-    "title": "\"Oshi no Ko\"",
-    "mal_id": 52034,
-    "trakt_id": 196091,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": ".hack//Sign",
     "mal_id": 48,
     "trakt_id": 8818,
@@ -1636,6 +1629,13 @@
     "trakt_id": 1420,
     "type": "shows",
     "season": 5
+  },
+  {
+    "title": "Shingeki no Kyojin: The Final Season Part 2",
+    "mal_id": 48583,
+    "trakt_id": 1420,
+    "type": "shows",
+    "season": 6
   },
   {
     "title": "Shingeki! Kyojin Chuugakkou",
@@ -6272,6 +6272,13 @@
     "season": 1
   },
   {
+    "title": "Generator Gawl",
+    "mal_id": 1022,
+    "trakt_id": 33936,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Geneshaft",
     "mal_id": 909,
     "trakt_id": 42512,
@@ -8813,6 +8820,13 @@
     "season": 4
   },
   {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen",
+    "mal_id": 53111,
+    "trakt_id": 94090,
+    "type": "shows",
+    "season": 5
+  },
+  {
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
     "mal_id": 32887,
     "trakt_id": 114608,
@@ -9821,13 +9835,6 @@
     "season": 1
   },
   {
-    "title": "Ousama Game The Animation",
-    "mal_id": 36027,
-    "trakt_id": 122648,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "King's Raid: Ishi wo Tsugumono-tachi",
     "mal_id": 41834,
     "trakt_id": 166073,
@@ -10185,7 +10192,7 @@
     "season": 1
   },
   {
-    "title": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
+    "title": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
     "mal_id": 33263,
     "trakt_id": 112923,
     "type": "shows",
@@ -13986,6 +13993,13 @@
     "season": 1
   },
   {
+    "title": "\"Oshi no Ko\"",
+    "mal_id": 52034,
+    "trakt_id": 196091,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Edomae Elf",
     "mal_id": 52081,
     "trakt_id": 196271,
@@ -14038,6 +14052,13 @@
     "title": "Ouran Koukou Host Club",
     "mal_id": 853,
     "trakt_id": 1038,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Ousama Game The Animation",
+    "mal_id": 36027,
+    "trakt_id": 122648,
     "type": "shows",
     "season": 1
   },
@@ -15375,6 +15396,13 @@
     "title": "Revisions",
     "mal_id": 37436,
     "trakt_id": 133963,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": null,
+    "mal_id": 440,
+    "trakt_id": 1037,
     "type": "shows",
     "season": 1
   },
@@ -17211,6 +17239,13 @@
     "trakt_id": 155669,
     "type": "shows",
     "season": 3
+  },
+  {
+    "title": null,
+    "mal_id": 54738,
+    "trakt_id": 155669,
+    "type": "shows",
+    "season": 4
   },
   {
     "title": "Soul Buster",
@@ -19467,13 +19502,6 @@
     "season": 2
   },
   {
-    "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
-    "mal_id": 52308,
-    "trakt_id": 199599,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "The Reflection",
     "mal_id": 34449,
     "trakt_id": 118269,
@@ -19740,7 +19768,7 @@
     "season": 2
   },
   {
-    "title": null,
+    "title": "Gokushufudou Season 2",
     "mal_id": 53148,
     "trakt_id": 168851,
     "type": "shows",
@@ -21497,6 +21525,13 @@
     "season": 1
   },
   {
+    "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+    "mal_id": 52308,
+    "trakt_id": 199599,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Nande Koko ni Sensei ga!?",
     "mal_id": 38397,
     "trakt_id": 144193,
@@ -21973,6 +22008,20 @@
     "season": 5
   },
   {
+    "title": null,
+    "mal_id": 975,
+    "trakt_id": 62157,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": null,
+    "mal_id": 976,
+    "trakt_id": 62157,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Yomigaeru Sora: Rescue Wings",
     "mal_id": 798,
     "trakt_id": 34611,
@@ -22382,13 +22431,6 @@
     "title": "C: The Money of Soul and Possibility Control",
     "mal_id": 10163,
     "trakt_id": 39268,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Generator Gawl",
-    "mal_id": 1022,
-    "trakt_id": 33936,
     "type": "shows",
     "season": 1
   },

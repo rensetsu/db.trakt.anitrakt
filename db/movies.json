@@ -1392,6 +1392,12 @@
     "type": "movies"
   },
   {
+    "title": "Detective Conan Movie 26: Kurogane no Submarine",
+    "mal_id": 53540,
+    "trakt_id": 842500,
+    "type": "movies"
+  },
+  {
     "title": "Detective Conan Movie 04: Captured in Her Eyes",
     "mal_id": 1363,
     "trakt_id": 12701,
@@ -1425,12 +1431,6 @@
     "title": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
     "mal_id": 2171,
     "trakt_id": 25442,
-    "type": "movies"
-  },
-  {
-    "title": "Detective Conan Movie 26: Kurogane no Submarine",
-    "mal_id": 53540,
-    "trakt_id": 842500,
     "type": "movies"
   },
   {
@@ -5772,6 +5772,12 @@
     "type": "movies"
   },
   {
+    "title": "",
+    "mal_id": 2250,
+    "trakt_id": 106828,
+    "type": "movies"
+  },
+  {
     "title": "Roujin Z",
     "mal_id": 2000,
     "trakt_id": 22602,
@@ -7251,12 +7257,6 @@
     "title": "Violence Jack: Hell's Wind-hen",
     "mal_id": 1343,
     "trakt_id": 70395,
-    "type": "movies"
-  },
-  {
-    "title": "Violence Voyager",
-    "mal_id": 38781,
-    "trakt_id": 367284,
     "type": "movies"
   },
   {
