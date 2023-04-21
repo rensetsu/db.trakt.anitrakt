@@ -12103,7 +12103,7 @@
     "season": 1
   },
   {
-    "title": "Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e",
+    "title": "Mix: Meisei Story 2nd Season - Nidome no Natsu, Sora no Mukou e",
     "mal_id": 52614,
     "trakt_id": 145068,
     "type": "shows",
@@ -15400,7 +15400,7 @@
     "season": 1
   },
   {
-    "title": null,
+    "title": "Shoujo Kakumei Utena",
     "mal_id": 440,
     "trakt_id": 1037,
     "type": "shows",
@@ -17241,7 +17241,7 @@
     "season": 3
   },
   {
-    "title": null,
+    "title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
     "mal_id": 54738,
     "trakt_id": 155669,
     "type": "shows",
@@ -17580,6 +17580,13 @@
     "title": "Steins;Gate 0",
     "mal_id": 30484,
     "trakt_id": 126083,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "World Dai Star",
+    "mal_id": 53698,
+    "trakt_id": 200477,
     "type": "shows",
     "season": 1
   },
@@ -21700,13 +21707,6 @@
     "season": 1
   },
   {
-    "title": "World Dai Star",
-    "mal_id": 53698,
-    "trakt_id": 200477,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "World Fool News (TV)",
     "mal_id": 18205,
     "trakt_id": 78704,
@@ -22008,14 +22008,14 @@
     "season": 5
   },
   {
-    "title": null,
+    "title": "Yokohama Kaidashi Kikou",
     "mal_id": 975,
     "trakt_id": 62157,
     "type": "shows",
     "season": 1
   },
   {
-    "title": null,
+    "title": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
     "mal_id": 976,
     "trakt_id": 62157,
     "type": "shows",
