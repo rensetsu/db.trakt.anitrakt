@@ -558,12 +558,6 @@
     "type": "movies"
   },
   {
-    "title": "Birthday Wonderland",
-    "mal_id": 38985,
-    "trakt_id": 424591,
-    "type": "movies"
-  },
-  {
     "title": "Black Clover: Mahou Tei no Ken",
     "mal_id": 48585,
     "trakt_id": 645981,
@@ -1548,15 +1542,15 @@
     "type": "movies"
   },
   {
-    "title": "Digimon Adventure 02 Movies",
-    "mal_id": 2962,
-    "trakt_id": 71247,
-    "type": "movies"
-  },
-  {
     "title": "Digimon Adventure 02: Diablomon no Gyakushuu",
     "mal_id": 2398,
     "trakt_id": 22975,
+    "type": "movies"
+  },
+  {
+    "title": "Digimon Adventure 02 Movies",
+    "mal_id": 2962,
+    "trakt_id": 71247,
     "type": "movies"
   },
   {
@@ -4530,6 +4524,12 @@
     "type": "movies"
   },
   {
+    "title": "Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai",
+    "mal_id": 49120,
+    "trakt_id": 692622,
+    "type": "movies"
+  },
+  {
     "title": "Muramasa",
     "mal_id": 3475,
     "trakt_id": 53418,
@@ -5052,12 +5052,6 @@
     "type": "movies"
   },
   {
-    "title": "Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai",
-    "mal_id": 49120,
-    "trakt_id": 692622,
-    "type": "movies"
-  },
-  {
     "title": "Tooi Sekai",
     "mal_id": 2210,
     "trakt_id": 54266,
@@ -5280,6 +5274,12 @@
     "type": "movies"
   },
   {
+    "title": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+    "mal_id": 1117,
+    "trakt_id": 7366,
+    "type": "movies"
+  },
+  {
     "title": "Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram",
     "mal_id": 10740,
     "trakt_id": 80506,
@@ -5397,12 +5397,6 @@
     "title": "Pokemon: Senritsu no Mirage Pokemon",
     "mal_id": 1527,
     "trakt_id": 92619,
-    "type": "movies"
-  },
-  {
-    "title": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
-    "mal_id": 1117,
-    "trakt_id": 7366,
     "type": "movies"
   },
   {
@@ -6003,6 +5997,12 @@
     "title": "Crayon Shin-chan Movie 31: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
     "mal_id": 53810,
     "trakt_id": 852859,
+    "type": "movies"
+  },
+  {
+    "title": "Shinkansen Henkei Robo Shinkalion: Mirai kara Kita Shinsoku no ALFA-X",
+    "mal_id": 39967,
+    "trakt_id": 474865,
     "type": "movies"
   },
   {
@@ -6918,6 +6918,12 @@
     "type": "movies"
   },
   {
+    "title": "Birthday Wonderland",
+    "mal_id": 38985,
+    "trakt_id": 424591,
+    "type": "movies"
+  },
+  {
     "title": "Sekaiichi Hatsukoi: Propose-hen",
     "mal_id": 40314,
     "trakt_id": 492653,
@@ -7032,12 +7038,6 @@
     "type": "movies"
   },
   {
-    "title": "Shinkansen Henkei Robo Shinkalion: Mirai kara Kita Shinsoku no ALFA-X",
-    "mal_id": 39967,
-    "trakt_id": 474865,
-    "type": "movies"
-  },
-  {
     "title": "Trava: Fist Planet",
     "mal_id": 1980,
     "trakt_id": 64401,
@@ -7056,12 +7056,6 @@
     "type": "movies"
   },
   {
-    "title": "Trinity Seven Movie 2: Heavens Library to Crimson Lord",
-    "mal_id": 37986,
-    "trakt_id": 421426,
-    "type": "movies"
-  },
-  {
     "title": "Trinity Seven: Nanatsu no Taizai to Nana Madoushi",
     "mal_id": 28285,
     "trakt_id": 314531,
@@ -7071,6 +7065,12 @@
     "title": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
     "mal_id": 33581,
     "trakt_id": 272349,
+    "type": "movies"
+  },
+  {
+    "title": "Trinity Seven Movie 2: Heavens Library to Crimson Lord",
+    "mal_id": 37986,
+    "trakt_id": 421426,
     "type": "movies"
   },
   {

@@ -2709,14 +2709,14 @@
     "season": 1
   },
   {
-    "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+    "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
     "mal_id": 38790,
     "trakt_id": 156244,
     "type": "shows",
     "season": 1
   },
   {
-    "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2",
+    "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2",
     "mal_id": 41514,
     "trakt_id": 156244,
     "type": "shows",
@@ -8267,7 +8267,7 @@
     "season": 2
   },
   {
-    "title": "Akuyaku Reijou nano de Last Boss wo Kattemimashita",
+    "title": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
     "mal_id": 49979,
     "trakt_id": 190421,
     "type": "shows",
@@ -8911,7 +8911,7 @@
     "season": 1
   },
   {
-    "title": "Island",
+    "title": "Island (TV)",
     "mal_id": 33012,
     "trakt_id": 130106,
     "type": "shows",
@@ -14553,7 +14553,7 @@
     "season": 1
   },
   {
-    "title": "Pokemon (Shinsaku Anime)",
+    "title": "Pokemon (2023)",
     "mal_id": 53876,
     "trakt_id": 202481,
     "type": "shows",
@@ -18284,13 +18284,6 @@
     "season": 1
   },
   {
-    "title": "Temple",
-    "mal_id": 54275,
-    "trakt_id": 201763,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Shin Tenchi Muyou!",
     "mal_id": 538,
     "trakt_id": 20391,
@@ -18357,6 +18350,13 @@
     "title": "Tenka Hyakken: Meiji-kan e Youkoso!",
     "mal_id": 40320,
     "trakt_id": 152926,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Temple",
+    "mal_id": 54275,
+    "trakt_id": 201763,
     "type": "shows",
     "season": 1
   },
