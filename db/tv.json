@@ -336,7 +336,7 @@
     "season": 1
   },
   {
-    "title": "A.I.C.O.: Incarnation",
+    "title": "A.I.C.O. Incarnation",
     "mal_id": 36039,
     "trakt_id": 126899,
     "type": "shows",
@@ -931,6 +931,13 @@
     "season": 1
   },
   {
+    "title": "Jitsu wa Ore, Saikyou deshita?",
+    "mal_id": 52969,
+    "trakt_id": 198017,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Amagami SS",
     "mal_id": 8676,
     "trakt_id": 61015,
@@ -1183,6 +1190,13 @@
     "season": 1
   },
   {
+    "title": "Ao Oni The Animation",
+    "mal_id": 33814,
+    "trakt_id": 111489,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Midara na Ao-chan wa Benkyou ga Dekinai",
     "mal_id": 38778,
     "trakt_id": 144486,
@@ -1214,13 +1228,6 @@
     "title": "Ao no Kanata no Four Rhythm",
     "mal_id": 28391,
     "trakt_id": 101243,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Ao Oni The Animation",
-    "mal_id": 33814,
-    "trakt_id": 111489,
     "type": "shows",
     "season": 1
   },
@@ -1820,6 +1827,13 @@
     "season": 1
   },
   {
+    "title": "Hanma Baki: Son of Ogre 2nd Season",
+    "mal_id": 51318,
+    "trakt_id": 183474,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Grappler Baki (TV)",
     "mal_id": 287,
     "trakt_id": 56069,
@@ -1960,6 +1974,13 @@
     "season": 3
   },
   {
+    "title": "BanG Dream! It's MyGO!!!!!",
+    "mal_id": 54959,
+    "trakt_id": 206460,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
     "mal_id": 44037,
     "trakt_id": 178617,
@@ -2028,6 +2049,13 @@
     "trakt_id": 193213,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Bastard!! Ankoku no Hakaishin Season 2 (ONA)",
+    "mal_id": 54141,
+    "trakt_id": 193213,
+    "type": "shows",
+    "season": 3
   },
   {
     "title": "Battery",
@@ -2443,7 +2471,7 @@
     "season": 1
   },
   {
-    "title": "Blade of the Immortal",
+    "title": "Mugen no Juunin",
     "mal_id": 4151,
     "trakt_id": 34548,
     "type": "shows",
@@ -2497,6 +2525,13 @@
     "trakt_id": 30850,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "mal_id": 53998,
+    "trakt_id": 30850,
+    "type": "shows",
+    "season": 3
   },
   {
     "title": "Blend S",
@@ -2940,11 +2975,18 @@
     "season": 3
   },
   {
-    "title": null,
-    "mal_id": 0,
+    "title": "Bungou Stray Dogs 4th Season",
+    "mal_id": 50330,
     "trakt_id": 104307,
     "type": "shows",
     "season": 4
+  },
+  {
+    "title": "Bungou Stray Dogs 5th Season",
+    "mal_id": 54898,
+    "trakt_id": 104307,
+    "type": "shows",
+    "season": 5
   },
   {
     "title": "Bungou Stray Dogs Wan!",
@@ -3619,6 +3661,13 @@
     "season": 1
   },
   {
+    "title": "Eiyuu Kyoushitsu",
+    "mal_id": 49894,
+    "trakt_id": 198259,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
     "mal_id": 35507,
     "trakt_id": 120748,
@@ -3918,6 +3967,13 @@
     "trakt_id": 171444,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": null,
+    "mal_id": 53079,
+    "trakt_id": 171444,
+    "type": "shows",
+    "season": 2
   },
   {
     "title": "Binan Koukou Chikyuu Bouei-bu Happy Kiss!",
@@ -4501,7 +4557,7 @@
     "season": 1
   },
   {
-    "title": "Digimon Adventure: 20 Shuunen Memorial Story",
+    "title": "Digimon Adventure: 20-shuunen Memorial Story",
     "mal_id": 41206,
     "trakt_id": 160425,
     "type": "shows",
@@ -6223,7 +6279,7 @@
     "season": 1
   },
   {
-    "title": "Gatchaman Crowds: Insight",
+    "title": "Gatchaman Crowds Insight",
     "mal_id": 21039,
     "trakt_id": 70752,
     "type": "shows",
@@ -6282,13 +6338,6 @@
     "title": "Geneshaft",
     "mal_id": 909,
     "trakt_id": 42512,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
-    "mal_id": 52214,
-    "trakt_id": 203743,
     "type": "shows",
     "season": 1
   },
@@ -6751,6 +6800,13 @@
     "title": "Goshuushou-sama Ninomiya-kun",
     "mal_id": 2494,
     "trakt_id": 35320,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Kochouki: Wakaki Nobunaga",
+    "mal_id": 38920,
+    "trakt_id": 145937,
     "type": "shows",
     "season": 1
   },
@@ -7581,13 +7637,6 @@
     "season": 1
   },
   {
-    "title": "Eiyuu Kyoushitsu",
-    "mal_id": 49894,
-    "trakt_id": 198259,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Hero Mask",
     "mal_id": 38628,
     "trakt_id": 139516,
@@ -7969,6 +8018,13 @@
     "title": "Horimiya: Piece",
     "mal_id": 54856,
     "trakt_id": 203744,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Horimiya: Piece",
+    "mal_id": 54856,
+    "trakt_id": 206654,
     "type": "shows",
     "season": 1
   },
@@ -10017,13 +10073,6 @@
     "season": 2
   },
   {
-    "title": "Kochouki: Wakaki Nobunaga",
-    "mal_id": 38920,
-    "trakt_id": 145937,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Kodomo no Omocha (TV)",
     "mal_id": 1486,
     "trakt_id": 36613,
@@ -10311,6 +10360,13 @@
     "season": 1
   },
   {
+    "title": "Kyoukai Senki: Kyokkou no Souki",
+    "mal_id": 54495,
+    "trakt_id": 207044,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Kyousou Giga (TV)",
     "mal_id": 19703,
     "trakt_id": 65231,
@@ -10540,6 +10596,13 @@
     "trakt_id": 176384,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Lv1 Maou to One Room Yuusha",
+    "mal_id": 51458,
+    "trakt_id": 194733,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Level E",
@@ -11548,6 +11611,13 @@
     "trakt_id": 195880,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": "Mononogatari 2nd Season",
+    "mal_id": 54883,
+    "trakt_id": 195880,
+    "type": "shows",
+    "season": 2
   },
   {
     "title": "Mamekichi Mameko NEET no Nichijou",
@@ -12649,6 +12719,13 @@
     "season": 2
   },
   {
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+    "mal_id": 51179,
+    "trakt_id": 156460,
+    "type": "shows",
+    "season": 3
+  },
+  {
     "title": "Ongaku Shoujo (TV)",
     "mal_id": 37481,
     "trakt_id": 130150,
@@ -12920,6 +12997,13 @@
     "trakt_id": 70013,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+    "mal_id": 53379,
+    "trakt_id": 203746,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Level 1 dakedo Unique Skill de Saikyou desu",
@@ -13489,6 +13573,13 @@
     "season": 1
   },
   {
+    "title": "Hyakushou Kizoku",
+    "mal_id": 53426,
+    "trakt_id": 204789,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Noblesse",
     "mal_id": 41345,
     "trakt_id": 165556,
@@ -13748,6 +13839,13 @@
     "season": 1
   },
   {
+    "title": "Odekake Kozame",
+    "mal_id": 55463,
+    "trakt_id": 207042,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Odoru Mowai-kun",
     "mal_id": 40040,
     "trakt_id": 149947,
@@ -13895,6 +13993,13 @@
     "season": 1
   },
   {
+    "title": "Oooku",
+    "mal_id": 54850,
+    "trakt_id": 203518,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Hangyakusei Million Arthur",
     "mal_id": 37555,
     "trakt_id": 136141,
@@ -14003,6 +14108,13 @@
     "title": "Edomae Elf",
     "mal_id": 52081,
     "trakt_id": 196271,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Otaku-chans",
+    "mal_id": 54919,
+    "trakt_id": 207043,
     "type": "shows",
     "season": 1
   },
@@ -15232,6 +15344,13 @@
     "season": 2
   },
   {
+    "title": "Shuumatsu no Walküre II Part 2",
+    "mal_id": 55454,
+    "trakt_id": 171086,
+    "type": "shows",
+    "season": 3
+  },
+  {
     "title": "Recorder to Randoseru Do?",
     "mal_id": 11491,
     "trakt_id": 52535,
@@ -15342,6 +15461,13 @@
     "trakt_id": 160825,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Kanojo, Okarishimasu 3rd Season",
+    "mal_id": 53050,
+    "trakt_id": 160825,
+    "type": "shows",
+    "season": 3
   },
   {
     "title": "Rental Magica",
@@ -17465,6 +17591,13 @@
     "season": 1
   },
   {
+    "title": "Spy Kyoushitsu 2nd Season",
+    "mal_id": 54947,
+    "trakt_id": 194271,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Spy x Family",
     "mal_id": 50265,
     "trakt_id": 190742,
@@ -18683,6 +18816,13 @@
     "season": 2
   },
   {
+    "title": "Hataraku Maou-sama!! 2nd Season",
+    "mal_id": 53200,
+    "trakt_id": 45743,
+    "type": "shows",
+    "season": 3
+  },
+  {
     "title": "Nagato Yuki-chan no Shoushitsu",
     "mal_id": 26351,
     "trakt_id": 96680,
@@ -18730,6 +18870,13 @@
     "trakt_id": 175275,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": "Shinigami Bocchan to Kuro Maid 2nd Season",
+    "mal_id": 49858,
+    "trakt_id": 175275,
+    "type": "shows",
+    "season": 2
   },
   {
     "title": "Meikyuu Black Company",
@@ -19346,6 +19493,13 @@
     "trakt_id": 157522,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
+    "mal_id": 48418,
+    "trakt_id": 157522,
+    "type": "shows",
+    "season": 3
   },
   {
     "title": "Fukigen na Mononokean",
@@ -20622,13 +20776,6 @@
     "season": 1
   },
   {
-    "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
-    "mal_id": 53379,
-    "trakt_id": 203746,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
     "mal_id": 39942,
     "trakt_id": 156719,
@@ -20725,6 +20872,13 @@
     "trakt_id": 128783,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Uma Musume: Pretty Derby - Road to the Top",
+    "mal_id": 51761,
+    "trakt_id": 204286,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Umayon",
@@ -22006,6 +22160,13 @@
     "trakt_id": 74180,
     "type": "shows",
     "season": 5
+  },
+  {
+    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+    "mal_id": 52214,
+    "trakt_id": 203743,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Yokohama Kaidashi Kikou",

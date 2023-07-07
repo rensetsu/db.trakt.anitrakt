@@ -198,6 +198,12 @@
     "type": "movies"
   },
   {
+    "title": "Alice to Therese no Maboroshi Koujou",
+    "mal_id": 49303,
+    "trakt_id": 675276,
+    "type": "movies"
+  },
+  {
     "title": "Heart no Kuni no Alice: Wonderful Wonder World",
     "mal_id": 4713,
     "trakt_id": 82382,
@@ -1074,6 +1080,12 @@
     "type": "movies"
   },
   {
+    "title": "Mirai Shounen Conan (Movie)",
+    "mal_id": 7308,
+    "trakt_id": 344669,
+    "type": "movies"
+  },
+  {
     "title": "Corpse Party: Missing Footage",
     "mal_id": 13807,
     "trakt_id": 261889,
@@ -1416,12 +1428,6 @@
     "type": "movies"
   },
   {
-    "title": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
-    "mal_id": 53780,
-    "trakt_id": 852380,
-    "type": "movies"
-  },
-  {
     "title": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
     "mal_id": 2171,
     "trakt_id": 25442,
@@ -1521,6 +1527,12 @@
     "title": "Detective Conan Movie 24: The Scarlet Bullet",
     "mal_id": 39764,
     "trakt_id": 496299,
+    "type": "movies"
+  },
+  {
+    "title": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+    "mal_id": 53780,
+    "trakt_id": 852380,
     "type": "movies"
   },
   {
@@ -5946,12 +5958,6 @@
     "type": "movies"
   },
   {
-    "title": "Seitokai Yakuindomo Movie 2",
-    "mal_id": 40814,
-    "trakt_id": 488473,
-    "type": "movies"
-  },
-  {
     "title": "Selector Destructed WIXOSS Movie",
     "mal_id": 31280,
     "trakt_id": 224369,
@@ -6102,7 +6108,7 @@
     "type": "movies"
   },
   {
-    "title": "Soukyuu no Fafner: Behind the Line",
+    "title": "Soukyuu no Fafner: Dead Aggressor - Behind the Line",
     "mal_id": 50675,
     "trakt_id": 828796,
     "type": "movies"
@@ -6273,6 +6279,12 @@
     "title": "Strike Witches Movie",
     "mal_id": 9751,
     "trakt_id": 30346,
+    "type": "movies"
+  },
+  {
+    "title": "Seitokai Yakuindomo Movie 2",
+    "mal_id": 40814,
+    "trakt_id": 488473,
     "type": "movies"
   },
   {
