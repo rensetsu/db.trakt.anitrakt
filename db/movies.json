@@ -5952,12 +5952,6 @@
     "type": "movies"
   },
   {
-    "title": "Seitokai Yakuindomo Movie",
-    "mal_id": 34504,
-    "trakt_id": 285974,
-    "type": "movies"
-  },
-  {
     "title": "Selector Destructed WIXOSS Movie",
     "mal_id": 31280,
     "trakt_id": 224369,
@@ -6285,6 +6279,12 @@
     "title": "Seitokai Yakuindomo Movie 2",
     "mal_id": 40814,
     "trakt_id": 488473,
+    "type": "movies"
+  },
+  {
+    "title": "Seitokai Yakuindomo Movie",
+    "mal_id": 34504,
+    "trakt_id": 285974,
     "type": "movies"
   },
   {
