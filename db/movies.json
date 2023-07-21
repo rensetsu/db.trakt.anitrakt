@@ -792,7 +792,7 @@
     "type": "movies"
   },
   {
-    "title": "Oshiri Tantei Movie 2: Tentou Mushi Iseki no Nazo",
+    "title": "Oshiri Tantei Movie 2: Tentoumushi Iseki no Nazo",
     "mal_id": 40863,
     "trakt_id": 661948,
     "type": "movies"
@@ -1344,7 +1344,7 @@
     "type": "movies"
   },
   {
-    "title": "DC Super Heroes vs Taka no Tsume-dan",
+    "title": "DC Super Heroes vs Taka no Tsumedan",
     "mal_id": 35219,
     "trakt_id": 314335,
     "type": "movies"
@@ -2466,6 +2466,18 @@
     "type": "movies"
   },
   {
+    "title": "Free! Movie 4: The Final Stroke - Zenpen",
+    "mal_id": 38400,
+    "trakt_id": 579447,
+    "type": "movies"
+  },
+  {
+    "title": "Free! Movie 5: The Final Stroke - Kouhen",
+    "mal_id": 48830,
+    "trakt_id": 656260,
+    "type": "movies"
+  },
+  {
     "title": "Free! Take Your Marks",
     "mal_id": 35198,
     "trakt_id": 307553,
@@ -2481,18 +2493,6 @@
     "title": "Free! Movie 2: Timeless Medley - Yakusoku",
     "mal_id": 35191,
     "trakt_id": 307550,
-    "type": "movies"
-  },
-  {
-    "title": "Free! Movie 4: The Final Stroke - Zenpen",
-    "mal_id": 38400,
-    "trakt_id": 579447,
-    "type": "movies"
-  },
-  {
-    "title": "Free! Movie 5: The Final Stroke - Kouhen",
-    "mal_id": 48830,
-    "trakt_id": 656260,
     "type": "movies"
   },
   {
@@ -3099,12 +3099,6 @@
     "title": "Hotarubi no Mori e",
     "mal_id": 10408,
     "trakt_id": 68271,
-    "type": "movies"
-  },
-  {
-    "title": "Kimitachi wa Dou Ikiru ka",
-    "mal_id": 36699,
-    "trakt_id": 356368,
     "type": "movies"
   },
   {
@@ -4650,7 +4644,7 @@
     "type": "movies"
   },
   {
-    "title": "Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
+    "title": "Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panic Dattebayo!",
     "mal_id": 2144,
     "trakt_id": 11581,
     "type": "movies"
@@ -6507,6 +6501,12 @@
     "title": "Bakemono no Ko",
     "mal_id": 28805,
     "trakt_id": 196069,
+    "type": "movies"
+  },
+  {
+    "title": "Kimitachi wa Dou Ikiru ka",
+    "mal_id": 36699,
+    "trakt_id": 356368,
     "type": "movies"
   },
   {

@@ -1904,6 +1904,13 @@
     "season": 1
   },
   {
+    "title": "Bakutsuri Bar Hunter",
+    "mal_id": 37117,
+    "trakt_id": 137020,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Baldr Force Exe Resolution",
     "mal_id": 1682,
     "trakt_id": 61138,
@@ -19264,7 +19271,7 @@
     "season": 4
   },
   {
-    "title": "The IDOLM@STER Cinderella Girls: U149",
+    "title": "The iDOLM@STER Cinderella Girls: U149",
     "mal_id": 51536,
     "trakt_id": 201226,
     "type": "shows",
@@ -22071,6 +22078,20 @@
     "season": 9
   },
   {
+    "title": "Yami Shibai 10",
+    "mal_id": 50599,
+    "trakt_id": 71821,
+    "type": "shows",
+    "season": 10
+  },
+  {
+    "title": "Yami Shibai 11",
+    "mal_id": 55166,
+    "trakt_id": 71821,
+    "type": "shows",
+    "season": 11
+  },
+  {
     "title": "Yarichin?Bitch-bu",
     "mal_id": 37585,
     "trakt_id": 133660,
@@ -22592,13 +22613,6 @@
     "title": "C: The Money of Soul and Possibility Control",
     "mal_id": 10163,
     "trakt_id": 39268,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Bakutsuri Bar Hunter",
-    "mal_id": 37117,
-    "trakt_id": 137020,
     "type": "shows",
     "season": 1
   }
