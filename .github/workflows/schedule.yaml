@@ -2,7 +2,7 @@ name: Run parser
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 5 * * 5"
+    - cron: "30 4 * * 5"
   push:
 jobs:
   RunParser:
