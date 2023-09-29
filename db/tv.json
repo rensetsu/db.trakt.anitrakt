@@ -70,6 +70,13 @@
     "season": 1
   },
   {
+    "title": "16bit Sensation: Another Layer",
+    "mal_id": 54041,
+    "trakt_id": 201291,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "18if",
     "mal_id": 35248,
     "trakt_id": 118265,
@@ -294,9 +301,23 @@
     "season": 1
   },
   {
+    "title": "Toaru Ossan no VRMMO Katsudouki",
+    "mal_id": 54431,
+    "trakt_id": 207557,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Skirt no Naka wa Kedamono deshita.",
     "mal_id": 35629,
     "trakt_id": 120926,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Kikansha no Mahou wa Tokubetsu desu",
+    "mal_id": 54852,
+    "trakt_id": 207143,
     "type": "shows",
     "season": 1
   },
@@ -511,32 +532,18 @@
     "season": 1
   },
   {
+    "title": "Houkago Shounen Hanako-kun",
+    "mal_id": 56425,
+    "trakt_id": 208359,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Shoumetsu Toshi",
     "mal_id": 37952,
     "trakt_id": 144538,
     "type": "shows",
     "season": 1
-  },
-  {
-    "title": "AIKa",
-    "mal_id": 366,
-    "trakt_id": 43020,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "AIKa R-16: Virgin Mission",
-    "mal_id": 2163,
-    "trakt_id": 43020,
-    "type": "shows",
-    "season": 2
-  },
-  {
-    "title": "AIKa Zero",
-    "mal_id": 6443,
-    "trakt_id": 43020,
-    "type": "shows",
-    "season": 3
   },
   {
     "title": "Aggressive Retsuko",
@@ -691,6 +698,27 @@
     "trakt_id": 79667,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": "AIKa",
+    "mal_id": 366,
+    "trakt_id": 43020,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "AIKa R-16: Virgin Mission",
+    "mal_id": 2163,
+    "trakt_id": 43020,
+    "type": "shows",
+    "season": 2
+  },
+  {
+    "title": "AIKa Zero",
+    "mal_id": 6443,
+    "trakt_id": 43020,
+    "type": "shows",
+    "season": 3
   },
   {
     "title": "Aikatsu Friends!",
@@ -854,6 +882,13 @@
     "season": 1
   },
   {
+    "title": "Akuma-kun (ONA)",
+    "mal_id": 48425,
+    "trakt_id": 203121,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
     "mal_id": 31764,
     "trakt_id": 106528,
@@ -971,6 +1006,13 @@
     "trakt_id": 180045,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Kyoukai Senki: Kyokkou no Souki",
+    "mal_id": 54495,
+    "trakt_id": 207044,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Amanchu!",
@@ -1365,6 +1407,20 @@
     "season": 2
   },
   {
+    "title": "Arknights: Reimei Zensou",
+    "mal_id": 50205,
+    "trakt_id": 192868,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Arknights: Fuyukomori Kaerimichi",
+    "mal_id": 53881,
+    "trakt_id": 192868,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Busou Shoujo Machiavellianism",
     "mal_id": 33475,
     "trakt_id": 114609,
@@ -1720,6 +1776,13 @@
     "trakt_id": 108674,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "B-Project: Netsuretsu*Love Call",
+    "mal_id": 44081,
+    "trakt_id": 108674,
+    "type": "shows",
+    "season": 3
   },
   {
     "title": "B: The Beginning",
@@ -2226,6 +2289,13 @@
     "season": 2
   },
   {
+    "title": "Boushoku no Berserk",
+    "mal_id": 53439,
+    "trakt_id": 200970,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Sora to Umi no Aida",
     "mal_id": 36000,
     "trakt_id": 136779,
@@ -2294,6 +2364,13 @@
     "trakt_id": 125972,
     "type": "shows",
     "season": 6
+  },
+  {
+    "title": "Beyblade X",
+    "mal_id": 56566,
+    "trakt_id": 207316,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Kyoukai no Kanata",
@@ -2954,6 +3031,13 @@
     "season": 2
   },
   {
+    "title": "Bullbuster",
+    "mal_id": 53633,
+    "trakt_id": 199948,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Bungou to Alchemist: Shinpan no Haguruma",
     "mal_id": 40934,
     "trakt_id": 158926,
@@ -3034,6 +3118,13 @@
     "title": "Busou Shinki",
     "mal_id": 14237,
     "trakt_id": 93923,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Buta no Liver wa Kanetsu Shiro",
+    "mal_id": 50583,
+    "trakt_id": 191762,
     "type": "shows",
     "season": 1
   },
@@ -3169,6 +3260,13 @@
     "trakt_id": 126036,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+    "mal_id": 54803,
+    "trakt_id": 126036,
+    "type": "shows",
+    "season": 2
   },
   {
     "title": "Captain Tsubasa: Road to 2002",
@@ -4298,6 +4396,13 @@
     "season": 1
   },
   {
+    "title": "Dead Mount Death Play Part 2",
+    "mal_id": 54743,
+    "trakt_id": 199847,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Deadman Wonderland",
     "mal_id": 6880,
     "trakt_id": 42279,
@@ -4753,6 +4858,13 @@
     "season": 3
   },
   {
+    "title": "Dog Signal",
+    "mal_id": 54294,
+    "trakt_id": 207555,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Dogs: Bullets & Carnage",
     "mal_id": 5593,
     "trakt_id": 62809,
@@ -4898,6 +5010,13 @@
     "trakt_id": 140133,
     "type": "shows",
     "season": 3
+  },
+  {
+    "title": "Dr. Stone: New World Part 2",
+    "mal_id": 55644,
+    "trakt_id": 140133,
+    "type": "shows",
+    "season": 4
   },
   {
     "title": "Dragon Ball",
@@ -5288,6 +5407,13 @@
     "title": "Ensemble Stars!",
     "mal_id": 32212,
     "trakt_id": 142889,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Ensemble Stars!! Tsuioku Selection Crossroad",
+    "mal_id": 55125,
+    "trakt_id": 210085,
     "type": "shows",
     "season": 1
   },
@@ -5724,6 +5850,20 @@
     "trakt_id": 5857,
     "type": "shows",
     "season": 3
+  },
+  {
+    "title": "FLCL: Grunge",
+    "mal_id": 51304,
+    "trakt_id": 5857,
+    "type": "shows",
+    "season": 4
+  },
+  {
+    "title": "FLCL: Shoegaze",
+    "mal_id": 51305,
+    "trakt_id": 5857,
+    "type": "shows",
+    "season": 5
   },
   {
     "title": "Jikuu Tantei Genshi-kun",
@@ -6552,7 +6692,7 @@
     "season": 1
   },
   {
-    "title": "Kanojo mo Kanojo 2nd Season",
+    "title": "Kanojo mo Kanojo Season 2",
     "mal_id": 53040,
     "trakt_id": 172553,
     "type": "shows",
@@ -6676,6 +6816,13 @@
     "trakt_id": 134037,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": "Goblin Slayer II",
+    "mal_id": 47160,
+    "trakt_id": 134037,
+    "type": "shows",
+    "season": 2
   },
   {
     "title": "God Eater",
@@ -6807,6 +6954,13 @@
     "title": "Goshuushou-sama Ninomiya-kun",
     "mal_id": 2494,
     "trakt_id": 35320,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Good Night World",
+    "mal_id": 56146,
+    "trakt_id": 207683,
     "type": "shows",
     "season": 1
   },
@@ -7033,6 +7187,13 @@
     "trakt_id": 72705,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Gundam Build Metaverse",
+    "mal_id": 54902,
+    "trakt_id": 208507,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Gundam: G no Reconguista",
@@ -7812,6 +7973,13 @@
     "season": 1
   },
   {
+    "title": "Joshikausei",
+    "mal_id": 38295,
+    "trakt_id": 144316,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Highschool of the Dead",
     "mal_id": 8074,
     "trakt_id": 56632,
@@ -7861,7 +8029,7 @@
     "season": 1
   },
   {
-    "title": "Hiiro no Kakera 2",
+    "title": "Hiiro no Kakera 2nd Season",
     "mal_id": 14645,
     "trakt_id": 44757,
     "type": "shows",
@@ -8225,6 +8393,13 @@
     "season": 1
   },
   {
+    "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima +",
+    "mal_id": 54858,
+    "trakt_id": 155965,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Kuro Gal ni Natta kara Shinyuu to shitemita.",
     "mal_id": 47591,
     "trakt_id": 174483,
@@ -8274,6 +8449,13 @@
     "season": 1
   },
   {
+    "title": "Potion-danomi de Ikinobimasu!",
+    "mal_id": 54616,
+    "trakt_id": 202785,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Dogeza de Tanondemita",
     "mal_id": 42571,
     "trakt_id": 167143,
@@ -8291,6 +8473,13 @@
     "title": "Jimoto ga Japan",
     "mal_id": 38881,
     "trakt_id": 145089,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+    "mal_id": 52934,
+    "trakt_id": 203779,
     "type": "shows",
     "season": 1
   },
@@ -8522,6 +8711,13 @@
     "title": "Iketeru Futari",
     "mal_id": 637,
     "trakt_id": 62187,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Ikimono-san",
+    "mal_id": 54847,
+    "trakt_id": 206342,
     "type": "shows",
     "season": 1
   },
@@ -9023,6 +9219,13 @@
     "season": 1
   },
   {
+    "title": "Watashi no Oshi wa Akuyaku Reijou.",
+    "mal_id": 53833,
+    "trakt_id": 205697,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "I?Chu: Halfway Through the Idol",
     "mal_id": 39725,
     "trakt_id": 170554,
@@ -9093,7 +9296,7 @@
     "season": 7
   },
   {
-    "title": "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!",
+    "title": "Jimihen!! Jimiko wo Kaechau Jun Isei Kouyuu!!",
     "mal_id": 44044,
     "trakt_id": 171032,
     "type": "shows",
@@ -9217,13 +9420,6 @@
     "trakt_id": 66167,
     "type": "shows",
     "season": 2
-  },
-  {
-    "title": "Joshikausei",
-    "mal_id": 38295,
-    "trakt_id": 144316,
-    "type": "shows",
-    "season": 1
   },
   {
     "title": "Joshiraku",
@@ -9688,6 +9884,13 @@
     "season": 1
   },
   {
+    "title": "Kawagoe Boys Sing",
+    "mal_id": 54638,
+    "trakt_id": 202912,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Kaze no Stigma",
     "mal_id": 1691,
     "trakt_id": 60829,
@@ -9770,6 +9973,20 @@
     "trakt_id": 138247,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Kengan Ashura Season 2",
+    "mal_id": 51369,
+    "trakt_id": 138247,
+    "type": "shows",
+    "season": 3
+  },
+  {
+    "title": "Kengan Ashura Season 2 Part 2",
+    "mal_id": 56704,
+    "trakt_id": 138247,
+    "type": "shows",
+    "season": 4
   },
   {
     "title": "Kenka Banchou Otome: Girl Beats Boys",
@@ -10022,6 +10239,13 @@
     "trakt_id": 202869,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": "Kizuna no Allele Season 2",
+    "mal_id": 55775,
+    "trakt_id": 202869,
+    "type": "shows",
+    "season": 2
   },
   {
     "title": "KJ File",
@@ -10367,13 +10591,6 @@
     "season": 1
   },
   {
-    "title": "Kyoukai Senki: Kyokkou no Souki",
-    "mal_id": 54495,
-    "trakt_id": 207044,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Kyousou Giga (TV)",
     "mal_id": 19703,
     "trakt_id": 65231,
@@ -10701,6 +10918,13 @@
     "trakt_id": 67795,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Odekake Kozame",
+    "mal_id": 55463,
+    "trakt_id": 207042,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Little Witch Academia (TV)",
@@ -11802,9 +12026,23 @@
     "season": 1
   },
   {
+    "title": "Mask Danshi wa Koishitakunai noni",
+    "mal_id": 54792,
+    "trakt_id": 207523,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Soushin Shoujo Matoi",
     "mal_id": 33668,
     "trakt_id": 110250,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Matsuinu",
+    "mal_id": 56487,
+    "trakt_id": 210081,
     "type": "shows",
     "season": 1
   },
@@ -11956,6 +12194,13 @@
     "season": 1
   },
   {
+    "title": "MF Ghost",
+    "mal_id": 50695,
+    "trakt_id": 198279,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Micchiri Neko",
     "mal_id": 36982,
     "trakt_id": 126552,
@@ -11994,6 +12239,13 @@
     "title": "Mieruko-chan",
     "mal_id": 48483,
     "trakt_id": 175750,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Migi to Dali",
+    "mal_id": 50586,
+    "trakt_id": 207556,
     "type": "shows",
     "season": 1
   },
@@ -12796,6 +13048,13 @@
     "season": 1
   },
   {
+    "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
+    "mal_id": 53494,
+    "trakt_id": 207183,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Sono Bisque Doll wa Koi wo Suru",
     "mal_id": 48736,
     "trakt_id": 190379,
@@ -12932,6 +13191,13 @@
     "title": "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",
     "mal_id": 19221,
     "trakt_id": 72236,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Atarashii Joushi wa Do Tennen",
+    "mal_id": 55310,
+    "trakt_id": 209414,
     "type": "shows",
     "season": 1
   },
@@ -13636,7 +13902,7 @@
     "season": 2
   },
   {
-    "title": "Nodame Cantabile: Finale",
+    "title": "Nodame Cantabile Finale",
     "mal_id": 5690,
     "trakt_id": 62171,
     "type": "shows",
@@ -13846,13 +14112,6 @@
     "season": 1
   },
   {
-    "title": "Odekake Kozame",
-    "mal_id": 55463,
-    "trakt_id": 207042,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Odoru Mowai-kun",
     "mal_id": 40040,
     "trakt_id": 149947,
@@ -13989,6 +14248,13 @@
     "title": "Oniichan wa Oshimai!",
     "mal_id": 51678,
     "trakt_id": 194931,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Onimusha",
+    "mal_id": 53150,
+    "trakt_id": 198484,
     "type": "shows",
     "season": 1
   },
@@ -14150,6 +14416,13 @@
     "title": "Ouji no Honmei wa Akuyaku Reijou",
     "mal_id": 49223,
     "trakt_id": 192094,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+    "mal_id": 52990,
+    "trakt_id": 203284,
     "type": "shows",
     "season": 1
   },
@@ -14644,6 +14917,13 @@
     "season": 1
   },
   {
+    "title": "Pluto",
+    "mal_id": 35737,
+    "trakt_id": 202543,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Poccolies",
     "mal_id": 41101,
     "trakt_id": 160288,
@@ -14654,6 +14934,13 @@
     "title": "Udon no Kuni no Kiniro Kemari",
     "mal_id": 32673,
     "trakt_id": 110244,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Pokemon Concierge",
+    "mal_id": 54633,
+    "trakt_id": 202847,
     "type": "shows",
     "season": 1
   },
@@ -14686,6 +14973,13 @@
     "season": 1
   },
   {
+    "title": "Houkago no Breath",
+    "mal_id": 56218,
+    "trakt_id": 207844,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Hakumei no Tsubasa",
     "mal_id": 40861,
     "trakt_id": 156422,
@@ -14696,6 +14990,13 @@
     "title": "Shirokuma Cafe",
     "mal_id": 12815,
     "trakt_id": 45603,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Pole Princess!!",
+    "mal_id": 53680,
+    "trakt_id": 202908,
     "type": "shows",
     "season": 1
   },
@@ -14724,13 +15025,6 @@
     "title": "Porphy no Nagai Tabi",
     "mal_id": 3424,
     "trakt_id": 43599,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Potemayo",
-    "mal_id": 2744,
-    "trakt_id": 56469,
     "type": "shows",
     "season": 1
   },
@@ -14885,6 +15179,13 @@
     "title": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?",
     "mal_id": 15315,
     "trakt_id": 68741,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Bokura no Ameiro Protocol",
+    "mal_id": 55894,
+    "trakt_id": 207211,
     "type": "shows",
     "season": 1
   },
@@ -15064,6 +15365,13 @@
     "season": 2
   },
   {
+    "title": "Ragna Crimson",
+    "mal_id": 51297,
+    "trakt_id": 199863,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Ragnarök The Animation",
     "mal_id": 417,
     "trakt_id": 45363,
@@ -15090,6 +15398,13 @@
     "trakt_id": 165370,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": "Rail Romanesque 2",
+    "mal_id": 44583,
+    "trakt_id": 165370,
+    "type": "shows",
+    "season": 2
   },
   {
     "title": "Rail Wars!",
@@ -16149,7 +16464,7 @@
     "season": 2
   },
   {
-    "title": "Saki Zenkoku-hen",
+    "title": "Saki: Zenkoku-hen",
     "mal_id": 16123,
     "trakt_id": 61994,
     "type": "shows",
@@ -16499,14 +16814,14 @@
     "season": 1
   },
   {
-    "title": "Nogizaka Haruka no Himitsu: Purezza",
+    "title": "Nogizaka Haruka no Himitsu Purezza ♪",
     "mal_id": 6023,
     "trakt_id": 61392,
     "type": "shows",
     "season": 2
   },
   {
-    "title": "Nogizaka Haruka no Himitsu: Finale",
+    "title": "Nogizaka Haruka no Himitsu Finale ♪",
     "mal_id": 10928,
     "trakt_id": 61392,
     "type": "shows",
@@ -17129,6 +17444,13 @@
     "season": 1
   },
   {
+    "title": "Shy",
+    "mal_id": 53237,
+    "trakt_id": 198741,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Ginga Nagareboshi Gin",
     "mal_id": 589,
     "trakt_id": 64301,
@@ -17619,6 +17941,13 @@
     "season": 2
   },
   {
+    "title": "Spy x Family Season 2",
+    "mal_id": 53887,
+    "trakt_id": 190742,
+    "type": "shows",
+    "season": 3
+  },
+  {
     "title": "Shinryaku! Ika Musume",
     "mal_id": 8557,
     "trakt_id": 35295,
@@ -17671,6 +18000,13 @@
     "title": "Star Wars: Visions",
     "mal_id": 49357,
     "trakt_id": 170569,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Hoshikuzu Telepath",
+    "mal_id": 53262,
+    "trakt_id": 201456,
     "type": "shows",
     "season": 1
   },
@@ -18305,6 +18641,13 @@
     "season": 1
   },
   {
+    "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+    "mal_id": 52962,
+    "trakt_id": 198014,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Tears to Tiara",
     "mal_id": 3594,
     "trakt_id": 60945,
@@ -18599,6 +18942,13 @@
     "season": 1
   },
   {
+    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+    "mal_id": 54714,
+    "trakt_id": 207030,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Hachi-nan tte, Sore wa Nai deshou!",
     "mal_id": 38830,
     "trakt_id": 156902,
@@ -18641,6 +18991,13 @@
     "season": 2
   },
   {
+    "title": "Mahoutsukai no Yome Season 2 Part 2",
+    "mal_id": 55742,
+    "trakt_id": 111203,
+    "type": "shows",
+    "season": 3
+  },
+  {
     "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
     "mal_id": 48438,
     "trakt_id": 195004,
@@ -18658,6 +19015,13 @@
     "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
     "mal_id": 50739,
     "trakt_id": 192246,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Kusuriya no Hitorigoto",
+    "mal_id": 54492,
+    "trakt_id": 202569,
     "type": "shows",
     "season": 1
   },
@@ -18802,6 +19166,13 @@
     "season": 2
   },
   {
+    "title": "Seiken Gakuin no Makentsukai",
+    "mal_id": 50184,
+    "trakt_id": 207510,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Tantei wa Mou, Shindeiru.",
     "mal_id": 46471,
     "trakt_id": 174122,
@@ -18828,6 +19199,13 @@
     "trakt_id": 45743,
     "type": "shows",
     "season": 3
+  },
+  {
+    "title": "Ochibi-san",
+    "mal_id": 56588,
+    "trakt_id": 210080,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Nagato Yuki-chan no Shoushitsu",
@@ -18914,6 +19292,13 @@
     "season": 1
   },
   {
+    "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+    "mal_id": 54595,
+    "trakt_id": 188929,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Shokei Shoujo no Virgin Road",
     "mal_id": 47162,
     "trakt_id": 180365,
@@ -18949,11 +19334,25 @@
     "season": 4
   },
   {
+    "title": "Dekoboko Majo no Oyako Jijou",
+    "mal_id": 52985,
+    "trakt_id": 199950,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Saihate no Paladin",
     "mal_id": 48761,
     "trakt_id": 179524,
     "type": "shows",
     "season": 1
+  },
+  {
+    "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+    "mal_id": 50664,
+    "trakt_id": 179524,
+    "type": "shows",
+    "season": 2
   },
   {
     "title": "Kindaichi Shounen no Jikenbo",
@@ -19740,6 +20139,13 @@
     "season": 1
   },
   {
+    "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
+    "mal_id": 51215,
+    "trakt_id": 173707,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Nanatsu no Taizai",
     "mal_id": 23755,
     "trakt_id": 79352,
@@ -19766,6 +20172,13 @@
     "trakt_id": 79352,
     "type": "shows",
     "season": 4
+  },
+  {
+    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+    "mal_id": 51794,
+    "trakt_id": 207554,
+    "type": "shows",
+    "season": 1
   },
   {
     "title": "Nanatsu no Bitoku",
@@ -20384,6 +20797,13 @@
     "season": 2
   },
   {
+    "title": "Tokyo Revengers: Tenjiku-hen",
+    "mal_id": 54918,
+    "trakt_id": 170863,
+    "type": "shows",
+    "season": 3
+  },
+  {
     "title": "Tokyo Tribe 2",
     "mal_id": 1703,
     "trakt_id": 64606,
@@ -20879,6 +21299,13 @@
     "trakt_id": 128783,
     "type": "shows",
     "season": 2
+  },
+  {
+    "title": "Uma Musume: Pretty Derby Season 3",
+    "mal_id": 53526,
+    "trakt_id": 128783,
+    "type": "shows",
+    "season": 3
   },
   {
     "title": "Uma Musume: Pretty Derby - Road to the Top",
@@ -22505,6 +22932,13 @@
     "season": 1
   },
   {
+    "title": "Yuzuki-san Chi no Yonkyoudai.",
+    "mal_id": 55153,
+    "trakt_id": 207318,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Z/X: Code Reunion",
     "mal_id": 37268,
     "trakt_id": 151944,
@@ -22613,6 +23047,13 @@
     "title": "C: The Money of Soul and Possibility Control",
     "mal_id": 10163,
     "trakt_id": 39268,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Potemayo",
+    "mal_id": 2744,
+    "trakt_id": 56469,
     "type": "shows",
     "season": 1
   }
