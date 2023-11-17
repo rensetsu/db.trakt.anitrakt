@@ -1414,7 +1414,7 @@
     "season": 1
   },
   {
-    "title": "Arknights: Fuyukomori Kaerimichi",
+    "title": "Arknights: Touin Kiro",
     "mal_id": 53881,
     "trakt_id": 192868,
     "type": "shows",
@@ -2849,6 +2849,13 @@
     "season": 1
   },
   {
+    "title": "Bokura ga Ita",
+    "mal_id": 1222,
+    "trakt_id": 22476,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Bokura no",
     "mal_id": 1690,
     "trakt_id": 34616,
@@ -3398,6 +3405,13 @@
     "title": "Hataraku Saibou Black",
     "mal_id": 41694,
     "trakt_id": 160640,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Seisen Cerberus: Ryuukoku no Fatalités",
+    "mal_id": 32595,
+    "trakt_id": 105280,
     "type": "shows",
     "season": 1
   },
@@ -8491,6 +8505,13 @@
     "season": 1
   },
   {
+    "title": "Watashi no Oshi wa Akuyaku Reijou.",
+    "mal_id": 53833,
+    "trakt_id": 205697,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Atasha Kawashiri Kodama da yo: Dangerous Lifehacker no Tadareta Seikatsu",
     "mal_id": 49780,
     "trakt_id": 188746,
@@ -9215,13 +9236,6 @@
     "title": "Shuumatsu no Izetta",
     "mal_id": 33433,
     "trakt_id": 108865,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Watashi no Oshi wa Akuyaku Reijou.",
-    "mal_id": 53833,
-    "trakt_id": 205697,
     "type": "shows",
     "season": 1
   },
@@ -12264,6 +12278,13 @@
     "season": 1
   },
   {
+    "title": "Hangyakusei Million Arthur",
+    "mal_id": 37555,
+    "trakt_id": 136141,
+    "type": "shows",
+    "season": 1
+  },
+  {
     "title": "Million Doll",
     "mal_id": 29941,
     "trakt_id": 99148,
@@ -13461,20 +13482,6 @@
     "season": 1
   },
   {
-    "title": "Nanbaka",
-    "mal_id": 30016,
-    "trakt_id": 110252,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Nanbaka 2",
-    "mal_id": 34414,
-    "trakt_id": 110252,
-    "type": "shows",
-    "season": 2
-  },
-  {
     "title": "Nandaka Velonica",
     "mal_id": 22381,
     "trakt_id": 76454,
@@ -14273,13 +14280,6 @@
     "season": 1
   },
   {
-    "title": "Hangyakusei Million Arthur",
-    "mal_id": 37555,
-    "trakt_id": 136141,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Opus.COLORs",
     "mal_id": 51415,
     "trakt_id": 200965,
@@ -15025,6 +15025,13 @@
     "title": "Porphy no Nagai Tabi",
     "mal_id": 3424,
     "trakt_id": 43599,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Potemayo",
+    "mal_id": 2744,
+    "trakt_id": 56469,
     "type": "shows",
     "season": 1
   },
@@ -16845,13 +16852,6 @@
     "title": "Seiren",
     "mal_id": 33836,
     "trakt_id": 112975,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Seisen Cerberus: Ryuukoku no Fatalités",
-    "mal_id": 32595,
-    "trakt_id": 105280,
     "type": "shows",
     "season": 1
   },
@@ -19957,6 +19957,20 @@
     "season": 1
   },
   {
+    "title": "Nanbaka",
+    "mal_id": 30016,
+    "trakt_id": 110252,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Nanbaka 2",
+    "mal_id": 34414,
+    "trakt_id": 110252,
+    "type": "shows",
+    "season": 2
+  },
+  {
     "title": "Nakanohito Genome [Jikkyouchuu]",
     "mal_id": 37926,
     "trakt_id": 145893,
@@ -20139,7 +20153,7 @@
     "season": 1
   },
   {
-    "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
+    "title": "Seijo no Maryoku wa Bannou desu Season 2",
     "mal_id": 51215,
     "trakt_id": 173707,
     "type": "shows",
@@ -20422,6 +20436,13 @@
     "title": "Kumichou Musume to Sewagakari",
     "mal_id": 49776,
     "trakt_id": 187666,
+    "type": "shows",
+    "season": 1
+  },
+  {
+    "title": "Yuzuki-san Chi no Yonkyoudai.",
+    "mal_id": 55153,
+    "trakt_id": 207318,
     "type": "shows",
     "season": 1
   },
@@ -21987,13 +22008,6 @@
     "season": 1
   },
   {
-    "title": "Bokura ga Ita",
-    "mal_id": 1222,
-    "trakt_id": 22476,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Ai Tenshi Densetsu Wedding Peach",
     "mal_id": 1533,
     "trakt_id": 46017,
@@ -22932,13 +22946,6 @@
     "season": 1
   },
   {
-    "title": "Yuzuki-san Chi no Yonkyoudai.",
-    "mal_id": 55153,
-    "trakt_id": 207318,
-    "type": "shows",
-    "season": 1
-  },
-  {
     "title": "Z/X: Code Reunion",
     "mal_id": 37268,
     "trakt_id": 151944,
@@ -23047,13 +23054,6 @@
     "title": "C: The Money of Soul and Possibility Control",
     "mal_id": 10163,
     "trakt_id": 39268,
-    "type": "shows",
-    "season": 1
-  },
-  {
-    "title": "Potemayo",
-    "mal_id": 2744,
-    "trakt_id": 56469,
     "type": "shows",
     "season": 1
   }

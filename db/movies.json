@@ -852,6 +852,12 @@
     "type": "movies"
   },
   {
+    "title": "Detective Conan Movie 02: The Fourteenth Target",
+    "mal_id": 780,
+    "trakt_id": 13133,
+    "type": "movies"
+  },
+  {
     "title": "Detective Conan Movie 22: Zero the Enforcer",
     "mal_id": 35798,
     "trakt_id": 339999,
@@ -1482,12 +1488,6 @@
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 02: The Fourteenth Target",
-    "mal_id": 780,
-    "trakt_id": 13133,
-    "type": "movies"
-  },
-  {
     "title": "Detective Conan Movie 03: The Last Wizard of the Century",
     "mal_id": 781,
     "trakt_id": 18041,
@@ -1620,6 +1620,12 @@
     "type": "movies"
   },
   {
+    "title": "Digimon Frontier: Ornismon Fukkatsu!!",
+    "mal_id": 3031,
+    "trakt_id": 22972,
+    "type": "movies"
+  },
+  {
     "title": "Digimon Savers 3D: Digital World Kiki Ippatsu!",
     "mal_id": 8491,
     "trakt_id": 98157,
@@ -1647,12 +1653,6 @@
     "title": "Digimon Tamers: Bousou Digimon Tokkyuu",
     "mal_id": 3033,
     "trakt_id": 22973,
-    "type": "movies"
-  },
-  {
-    "title": "Digimon Frontier: Ornismon Fukkatsu!!",
-    "mal_id": 3031,
-    "trakt_id": 22972,
     "type": "movies"
   },
   {
@@ -2976,6 +2976,12 @@
     "type": "movies"
   },
   {
+    "title": "Kowarekake no Orgel (Movie)",
+    "mal_id": 10918,
+    "trakt_id": 229443,
+    "type": "movies"
+  },
+  {
     "title": "Hanasaku Iroha Movie: Home Sweet Home",
     "mal_id": 14175,
     "trakt_id": 140271,
@@ -3639,12 +3645,6 @@
     "title": "Koro-sensei Q!",
     "mal_id": 33511,
     "trakt_id": 257800,
-    "type": "movies"
-  },
-  {
-    "title": "Kowarekake no Orgel (Movie)",
-    "mal_id": 10918,
-    "trakt_id": 229443,
     "type": "movies"
   },
   {
@@ -5526,7 +5526,7 @@
     "type": "movies"
   },
   {
-    "title": "Shiranpuri (Movie)",
+    "title": "Shiranpuri (Special)",
     "mal_id": 13175,
     "trakt_id": 104389,
     "type": "movies"
@@ -6330,7 +6330,13 @@
     "type": "movies"
   },
   {
-    "title": "Sumikko Gurashi Movie 2",
+    "title": "Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko",
+    "mal_id": 53936,
+    "trakt_id": 925239,
+    "type": "movies"
+  },
+  {
+    "title": "Sumikko Gurashi Movie 2: Aoi Tsukiyo no Mahou no Ko",
     "mal_id": 43780,
     "trakt_id": 702498,
     "type": "movies"
@@ -6864,12 +6870,6 @@
     "type": "movies"
   },
   {
-    "title": "Oshie to Tabi Suru Otoko",
-    "mal_id": 37365,
-    "trakt_id": 383872,
-    "type": "movies"
-  },
-  {
     "title": "Suki ni Naru Sono Shunkan wo. Kokuhaku Jikkou Iinkai",
     "mal_id": 33036,
     "trakt_id": 319948,
@@ -6969,6 +6969,12 @@
     "title": "Hakujaden",
     "mal_id": 4513,
     "trakt_id": 46807,
+    "type": "movies"
+  },
+  {
+    "title": "Oshie to Tabi Suru Otoko",
+    "mal_id": 37365,
+    "trakt_id": 383872,
     "type": "movies"
   },
   {
@@ -7548,6 +7554,12 @@
     "type": "movies"
   },
   {
+    "title": "Yuru Yuri Nachuyachumi!",
+    "mal_id": 23225,
+    "trakt_id": 222943,
+    "type": "movies"
+  },
+  {
     "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 1 - Tomodachi",
     "mal_id": 34374,
     "trakt_id": 272348,
@@ -7563,12 +7575,6 @@
     "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku",
     "mal_id": 34376,
     "trakt_id": 308776,
-    "type": "movies"
-  },
-  {
-    "title": "Yuru Yuri Nachuyachumi!",
-    "mal_id": 23225,
-    "trakt_id": 222943,
     "type": "movies"
   },
   {
@@ -7605,12 +7611,6 @@
     "title": "Count Down",
     "mal_id": 29957,
     "trakt_id": 281954,
-    "type": "movies"
-  },
-  {
-    "title": "Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko",
-    "mal_id": 53936,
-    "trakt_id": 925239,
     "type": "movies"
   }
 ]
