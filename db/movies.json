@@ -198,12 +198,6 @@
     "type": "movies"
   },
   {
-    "title": "Alice to Therese no Maboroshi Koujou",
-    "mal_id": 49303,
-    "trakt_id": 675276,
-    "type": "movies"
-  },
-  {
     "title": "Heart no Kuni no Alice: Wonderful Wonder World",
     "mal_id": 4713,
     "trakt_id": 82382,
@@ -642,6 +636,12 @@
     "type": "movies"
   },
   {
+    "title": "Bloody Escape: Jigoku no Tousou Geki",
+    "mal_id": 54793,
+    "trakt_id": 887658,
+    "type": "movies"
+  },
+  {
     "title": "Blossom",
     "mal_id": 13253,
     "trakt_id": 112881,
@@ -834,13 +834,13 @@
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 05: Countdown to Heaven",
+    "title": "Meitantei Conan Movie 05: Tengoku e no Countdown",
     "mal_id": 1364,
     "trakt_id": 20553,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 21: The Crimson Love Letter",
+    "title": "Meitantei Conan Movie 21: Karakurenai no Love Letter",
     "mal_id": 34430,
     "trakt_id": 284280,
     "type": "movies"
@@ -852,13 +852,13 @@
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 02: The Fourteenth Target",
+    "title": "Meitantei Conan Movie 02: 14-banme no Target",
     "mal_id": 780,
     "trakt_id": 13133,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 22: Zero the Enforcer",
+    "title": "Meitantei Conan Movie 22: Zero no Shikkounin",
     "mal_id": 35798,
     "trakt_id": 339999,
     "type": "movies"
@@ -1053,6 +1053,12 @@
     "title": "Koi☆Sento",
     "mal_id": 9333,
     "trakt_id": 82217,
+    "type": "movies"
+  },
+  {
+    "title": "Collar x Malice Movie: Deep Cover",
+    "mal_id": 39905,
+    "trakt_id": 820549,
     "type": "movies"
   },
   {
@@ -1356,6 +1362,12 @@
     "type": "movies"
   },
   {
+    "title": "Dead Dead Demons Dededede Destruction",
+    "mal_id": 51358,
+    "trakt_id": 944966,
+    "type": "movies"
+  },
+  {
     "title": "Dead Leaves",
     "mal_id": 974,
     "trakt_id": 9775,
@@ -1404,139 +1416,139 @@
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 26: Kurogane no Submarine",
+    "title": "Meitantei Conan Movie 26: Kurogane no Submarine",
     "mal_id": 53540,
     "trakt_id": 842500,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 04: Captured in Her Eyes",
+    "title": "Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha",
     "mal_id": 1363,
     "trakt_id": 12701,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 07: Crossroad in the Ancient Capital",
+    "title": "Meitantei Conan Movie 07: Meikyuu no Crossroad",
     "mal_id": 1366,
     "trakt_id": 25438,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 18: The Sniper from Another Dimension",
+    "title": "Meitantei Conan Movie 18: Ijigen no Sniper",
     "mal_id": 21419,
     "trakt_id": 157232,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 12: Full Score of Fear",
+    "title": "Meitantei Conan Movie 12: Senritsu no Full Score",
     "mal_id": 4447,
     "trakt_id": 25443,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
+    "title": "Meitantei Conan Movie 11: Konpeki no Jolly Roger",
     "mal_id": 2171,
     "trakt_id": 25442,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 08: Magician of the Silver Sky",
+    "title": "Meitantei Conan Movie 08: Ginyoku no Magician",
     "mal_id": 1367,
     "trakt_id": 25439,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 17: Private Eye in the Distant Sea",
+    "title": "Meitantei Conan Movie 17: Zekkai no Private Eye",
     "mal_id": 14735,
     "trakt_id": 139786,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 15: Quarter of Silence",
+    "title": "Meitantei Conan Movie 15: Chinmoku no Quarter",
     "mal_id": 9963,
     "trakt_id": 57399,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 09: Strategy Above the Depths",
+    "title": "Meitantei Conan Movie 09: Suihei Senjou no Strategy",
     "mal_id": 1505,
     "trakt_id": 25440,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 19: The Hellfire Sunflowers",
+    "title": "Meitantei Conan Movie 19: Gouka no Himawari",
     "mal_id": 28479,
     "trakt_id": 197737,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 25: Halloween no Hanayome",
+    "title": "Meitantei Conan Movie 25: Halloween no Hanayome",
     "mal_id": 49320,
     "trakt_id": 724481,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 20: The Darkest Nightmare",
+    "title": "Meitantei Conan Movie 20: Junkoku no Nightmare",
     "mal_id": 32005,
     "trakt_id": 224645,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 16: The Eleventh Striker",
+    "title": "Meitantei Conan Movie 16: 11-ninme no Striker",
     "mal_id": 12117,
     "trakt_id": 84732,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 03: The Last Wizard of the Century",
+    "title": "Meitantei Conan Movie 03: Seikimatsu no Majutsushi",
     "mal_id": 781,
     "trakt_id": 18041,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 14: The Lost Ship in the Sky",
+    "title": "Meitantei Conan Movie 14: Tenkuu no Lost Ship",
     "mal_id": 6467,
     "trakt_id": 70757,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 06: The Phantom of Baker Street",
+    "title": "Meitantei Conan Movie 06: Baker Street no Bourei",
     "mal_id": 1365,
     "trakt_id": 16249,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 10: Requiem of the Detectives",
+    "title": "Meitantei Conan Movie 10: Tantei-tachi no Requiem",
     "mal_id": 1506,
     "trakt_id": 25441,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 13: The Raven Chaser",
+    "title": "Meitantei Conan Movie 13: Shikkoku no Chaser",
     "mal_id": 5460,
     "trakt_id": 18002,
     "type": "movies"
   },
   {
-    "title": "Detective Conan: The Scarlet Alibi",
+    "title": "Meitantei Conan: Hiiro no Fuzai Shoumei",
     "mal_id": 47413,
     "trakt_id": 636259,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 24: The Scarlet Bullet",
+    "title": "Meitantei Conan Movie 24: Hiiro no Dangan",
     "mal_id": 39764,
     "trakt_id": 496299,
     "type": "movies"
   },
   {
-    "title": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+    "title": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
     "mal_id": 53780,
     "trakt_id": 852380,
     "type": "movies"
   },
   {
-    "title": "Detective Conan Movie 01: The Timed Skyscraper",
+    "title": "Meitantei Conan Movie 01: Tokei Jikake no Matenrou",
     "mal_id": 779,
     "trakt_id": 13117,
     "type": "movies"
@@ -1836,6 +1848,12 @@
     "type": "movies"
   },
   {
+    "title": "Doraemon Movie 43: Nobita no Chikyuu Symphony",
+    "mal_id": 55874,
+    "trakt_id": 925288,
+    "type": "movies"
+  },
+  {
     "title": "Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken",
     "mal_id": 33672,
     "trakt_id": 309838,
@@ -2106,6 +2124,12 @@
     "type": "movies"
   },
   {
+    "title": "Tansu Warashi.",
+    "mal_id": 10502,
+    "trakt_id": 158787,
+    "type": "movies"
+  },
+  {
     "title": "Ame wo Tsugeru Hyouryuu Danchi",
     "mal_id": 49938,
     "trakt_id": 702765,
@@ -2208,19 +2232,19 @@
     "type": "movies"
   },
   {
-    "title": "Evangelion: 1.0 You Are (Not) Alone",
+    "title": "Evangelion Movie 1: Jo",
     "mal_id": 2759,
     "trakt_id": 9186,
     "type": "movies"
   },
   {
-    "title": "Evangelion: 2.0 You Can (Not) Advance",
+    "title": "Evangelion Movie 2: Ha",
     "mal_id": 3784,
     "trakt_id": 13878,
     "type": "movies"
   },
   {
-    "title": "Evangelion: 3.0 You Can (Not) Redo",
+    "title": "Evangelion Movie 3: Q",
     "mal_id": 3785,
     "trakt_id": 55762,
     "type": "movies"
@@ -2940,6 +2964,12 @@
     "type": "movies"
   },
   {
+    "title": "Haikyuu!! Movie: Gomisuteba no Kessen",
+    "mal_id": 52742,
+    "trakt_id": 813602,
+    "type": "movies"
+  },
+  {
     "title": "Haikyuu!! Movie 2: Shousha to Haisha",
     "mal_id": 30364,
     "trakt_id": 221722,
@@ -3606,6 +3636,12 @@
     "type": "movies"
   },
   {
+    "title": "Kizumonogatari: Koyomi Vamp",
+    "mal_id": 56609,
+    "trakt_id": 959145,
+    "type": "movies"
+  },
+  {
     "title": "Kizumonogatari I: Tekketsu-hen",
     "mal_id": 9260,
     "trakt_id": 223206,
@@ -3942,13 +3978,13 @@
     "type": "movies"
   },
   {
-    "title": "Lupin III vs. Detective Conan",
+    "title": "Lupin III vs. Meitantei Conan",
     "mal_id": 6115,
     "trakt_id": 31504,
     "type": "movies"
   },
   {
-    "title": "Lupin III vs. Detective Conan: The Movie",
+    "title": "Lupin III vs. Meitantei Conan: The Movie",
     "mal_id": 18429,
     "trakt_id": 146163,
     "type": "movies"
@@ -4182,6 +4218,12 @@
     "type": "movies"
   },
   {
+    "title": "Alice to Therese no Maboroshi Koujou",
+    "mal_id": 49303,
+    "trakt_id": 675276,
+    "type": "movies"
+  },
+  {
     "title": "Macross 7 Movie: Ginga ga Ore wo Yondeiru!",
     "mal_id": 1400,
     "trakt_id": 31412,
@@ -4380,6 +4422,12 @@
     "type": "movies"
   },
   {
+    "title": "Boku to Roboko Movie",
+    "mal_id": 55709,
+    "trakt_id": 970307,
+    "type": "movies"
+  },
+  {
     "title": "Mei to Koneko Bus",
     "mal_id": 2488,
     "trakt_id": 102742,
@@ -4416,7 +4464,7 @@
     "type": "movies"
   },
   {
-    "title": "Milky Panic twelve",
+    "title": "Milky Panic: Twelve",
     "mal_id": 35682,
     "trakt_id": 342783,
     "type": "movies"
@@ -4491,6 +4539,12 @@
     "title": "Kidou Senshi Gundam NT",
     "mal_id": 37764,
     "trakt_id": 404770,
+    "type": "movies"
+  },
+  {
+    "title": "Kidou Senshi Gundam SEED Freedom",
+    "mal_id": 49073,
+    "trakt_id": 923893,
     "type": "movies"
   },
   {
@@ -4752,13 +4806,13 @@
     "type": "movies"
   },
   {
-    "title": "Neon Genesis Evangelion: Death & Rebirth",
+    "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
     "mal_id": 31,
     "trakt_id": 13347,
     "type": "movies"
   },
   {
-    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
     "mal_id": 32,
     "trakt_id": 11325,
     "type": "movies"
@@ -4863,6 +4917,12 @@
     "title": "Omoi no Kakera",
     "mal_id": 32190,
     "trakt_id": 261426,
+    "type": "movies"
+  },
+  {
+    "title": "Oomuro-ke",
+    "mal_id": 56175,
+    "trakt_id": 949162,
     "type": "movies"
   },
   {
@@ -5538,6 +5598,18 @@
     "type": "movies"
   },
   {
+    "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+    "mal_id": 51716,
+    "trakt_id": 778707,
+    "type": "movies"
+  },
+  {
+    "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+    "mal_id": 51716,
+    "trakt_id": 778727,
+    "type": "movies"
+  },
+  {
     "title": "Bishoujo Senshi Sailor Moon Eternal Movie 1",
     "mal_id": 40024,
     "trakt_id": 461622,
@@ -5625,6 +5697,12 @@
     "title": "Psycho-Pass Movie",
     "mal_id": 21339,
     "trakt_id": 194995,
+    "type": "movies"
+  },
+  {
+    "title": "Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten",
+    "mal_id": 48820,
+    "trakt_id": 655647,
     "type": "movies"
   },
   {
@@ -6612,7 +6690,7 @@
     "type": "movies"
   },
   {
-    "title": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+    "title": "Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan",
     "mal_id": 21867,
     "trakt_id": 397225,
     "type": "movies"
@@ -7374,12 +7452,6 @@
     "type": "movies"
   },
   {
-    "title": "Tansu Warashi.",
-    "mal_id": 10502,
-    "trakt_id": 158787,
-    "type": "movies"
-  },
-  {
     "title": "Wasure-boshi",
     "mal_id": 21591,
     "trakt_id": 276770,
@@ -7467,6 +7539,12 @@
     "title": "xxxHOLiC Movie: Manatsu no Yoru no Yume",
     "mal_id": 793,
     "trakt_id": 24928,
+    "type": "movies"
+  },
+  {
+    "title": "Paripi Koumei: Road to Summer Sonia",
+    "mal_id": 57369,
+    "trakt_id": 976879,
     "type": "movies"
   },
   {
