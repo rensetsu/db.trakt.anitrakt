@@ -19,7 +19,7 @@ To get the scraped data, go to [`db/`](db/) folder and download as raw.
 | `title` | `string` | The title of the anime |
 | `mal_id` | `int` | MyAnimeList ID of the anime |
 | `trakt_id` | `int` | Trakt ID of the show/movie |
-| `guessed_slug` | `string` | Guessed slug of the anime, Trakt mainly uses this for human-readable URL |
+| `guessed_slug` | `string | None` | Guessed slug of the anime, see [comments](#additional-comment) for additional context |
 | `type` | `Enum["shows", "movies"]` | Type of the anime |
 | `season` | `int` | Season number of the anime, only for `type == "shows"` |
 
@@ -63,6 +63,22 @@ To get the scraped data, go to [`db/`](db/) folder and download as raw.
 ```
 
 ## Additional Comment
+
+### Guessed Slug
+
+* Slug was guessed based on the English title of the anime from TMDB/Trakt end.
+* If you're unsure about the slug, you can use the `trakt_id` to get the correct
+  slug from the Trakt website. It's still works anyhow.
+* Title that is purely numerical will be nulled in the `guessed_slug` to avoid
+  unnecessary clash with Trakt server.
+* Guessed slug **won't work** for movies unless you suffixed `-{year}` to the
+  slug manually. For example, if in the guessed slug is `your-name`, you should
+  change it to `your-name-2016` to get the correct movie.
+* Guessed slug generally works for shows, but it might not work for some shows
+  that have a similar name on Trakt. Please follow steps mentioned in the above
+  point to get the correct slug, or use the `trakt_id` instead.
+
+### Additional File
 
 In `db/` folder, you might encounter some files started with `overwrite_`. This
 file contains pure rules from this repo to overwrite the existing data in the database.
