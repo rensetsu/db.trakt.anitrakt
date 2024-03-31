@@ -19,7 +19,7 @@ To get the scraped data, go to [`db/`](db/) folder and download as raw.
 | `title` | `string` | The title of the anime |
 | `mal_id` | `int` | MyAnimeList ID of the anime |
 | `trakt_id` | `int` | Trakt ID of the show/movie |
-| `guessed_slug` | `string | None` | Guessed slug of the anime, see [comments](#additional-comment) for additional context |
+| `guessed_slug` | `string \| null` | Guessed slug of the anime, see [comments](#additional-comment) for additional context |
 | `type` | `Enum["shows", "movies"]` | Type of the anime |
 | `season` | `int` | Season number of the anime, only for `type == "shows"` |
 
