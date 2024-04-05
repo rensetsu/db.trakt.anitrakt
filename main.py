@@ -60,7 +60,7 @@ def slugify(title: str) -> str | None:
     # replace characters from langmap
     for k, v in char_maps.items():
         lower = lower.replace(k, v)
-    alpha = re.sub(r"[^\w\s]", "", lower)
+    alpha = re.sub(r"[^\w\s]", "-", lower)
     dash = re.sub(r"[\s_\-]+", "-", alpha)
     trim_corner = re.sub(r"^-+|-+$", "", dash)
     return trim_corner
