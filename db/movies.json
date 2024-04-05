@@ -441,6 +441,13 @@
     "type": "movies"
   },
   {
+    "title": "Bakeneko Anzu-chan",
+    "mal_id": 54603,
+    "trakt_id": 829097,
+    "guessed_slug": "ghost-cat-anzu",
+    "type": "movies"
+  },
+  {
     "title": "Bakuten Shoot Beyblade the Movie: Gekitou!! Takao vs. Daichi",
     "mal_id": 1670,
     "trakt_id": 106893,
@@ -612,7 +619,7 @@
     "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
     "mal_id": 51716,
     "trakt_id": 778707,
-    "guessed_slug": "pretty-guardian-sailor-moon-cosmos-the-movie-part-1",
+    "guessed_slug": "pretty-guardian-sailor-moon-cosmos-the-movie",
     "type": "movies"
   },
   {
@@ -770,6 +777,13 @@
     "type": "movies"
   },
   {
+    "title": "Blue Lock: Episode Nagi",
+    "mal_id": 54866,
+    "trakt_id": 888801,
+    "guessed_slug": "bluelock-episode-nagi",
+    "type": "movies"
+  },
+  {
     "title": "Blue Thermal",
     "mal_id": 49665,
     "trakt_id": 692351,
@@ -812,6 +826,13 @@
     "type": "movies"
   },
   {
+    "title": "Boku no Hero Academia the Movie 4: You're Next",
+    "mal_id": 56196,
+    "trakt_id": 934153,
+    "guessed_slug": "my-hero-academia-youre-next",
+    "type": "movies"
+  },
+  {
     "title": "Boku to Roboko Movie",
     "mal_id": 55709,
     "trakt_id": 970307,
@@ -837,6 +858,13 @@
     "mal_id": 28755,
     "trakt_id": 221717,
     "guessed_slug": "boruto-naruto-the-movie",
+    "type": "movies"
+  },
+  {
+    "title": "Boukyaku Battery (TV)",
+    "mal_id": 56165,
+    "trakt_id": 865306,
+    "guessed_slug": "boukyaku-battery",
     "type": "movies"
   },
   {
@@ -1197,6 +1225,13 @@
     "type": "movies"
   },
   {
+    "title": "Code Geass: Dakkan no Roz\u00e9",
+    "mal_id": 56835,
+    "trakt_id": 995943,
+    "guessed_slug": "code-geass-roz\u00e9-of-the-recapture",
+    "type": "movies"
+  },
+  {
     "title": "Code Geass: Fukkatsu no Lelouch",
     "mal_id": 34437,
     "trakt_id": 404784,
@@ -1498,6 +1533,13 @@
     "type": "movies"
   },
   {
+    "title": "Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki",
+    "mal_id": 57499,
+    "trakt_id": 1027683,
+    "guessed_slug": "crayon-shinchan-movie-32-oratachi-no-kyouyuu-nikki",
+    "type": "movies"
+  },
+  {
     "title": "Cross Road",
     "mal_id": 22839,
     "trakt_id": 174783,
@@ -1592,7 +1634,7 @@
     "title": "Dead Dead Demons Dededede Destruction",
     "mal_id": 51358,
     "trakt_id": 944966,
-    "guessed_slug": "dead-dead-demons-dededededestruction-part-1",
+    "guessed_slug": "dead-dead-demons-dededede-destruction-part-1",
     "type": "movies"
   },
   {
@@ -1760,7 +1802,7 @@
     "title": "Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!",
     "mal_id": 2606,
     "trakt_id": 22971,
-    "guessed_slug": "digimon-savers-ultimate-power-activate-burst-mode",
+    "guessed_slug": "digimon-savers-the-movie-ultimate-power-activate-burst-mode",
     "type": "movies"
   },
   {
@@ -2054,7 +2096,7 @@
     "title": "Doraemon Movie 43: Nobita no Chikyuu Symphony",
     "mal_id": 55874,
     "trakt_id": 925288,
-    "guessed_slug": "doraemon-nobitas-earth-symphony",
+    "guessed_slug": "doraemon-the-movie-nobitas-earth-symphony",
     "type": "movies"
   },
   {
@@ -2940,6 +2982,13 @@
     "type": "movies"
   },
   {
+    "title": "Gintama on Theater 2D: Ikkoku Keisei-hen",
+    "mal_id": 58091,
+    "trakt_id": 1027312,
+    "guessed_slug": "gintama-on-theater-2d-ikkoku-keiseihen",
+    "type": "movies"
+  },
+  {
     "title": "Gintama: The Final",
     "mal_id": 39486,
     "trakt_id": 573903,
@@ -3209,7 +3258,7 @@
     "title": "Haikyuu!! Movie: Gomisuteba no Kessen",
     "mal_id": 52742,
     "trakt_id": 813602,
-    "guessed_slug": "haikyu-the-movie-decisive-battle-at-the-garbage-dump",
+    "guessed_slug": "haikyu-the-dumpster-battle",
     "type": "movies"
   },
   {
@@ -3273,6 +3322,13 @@
     "mal_id": 14175,
     "trakt_id": 140271,
     "guessed_slug": "hanasaku-iroha-home-sweet-home",
+    "type": "movies"
+  },
+  {
+    "title": "Hanma Baki vs. Kengan Ashura",
+    "mal_id": 58510,
+    "trakt_id": 1025249,
+    "guessed_slug": "baki-hanma-vs-kengan-ashura",
     "type": "movies"
   },
   {
@@ -3573,7 +3629,7 @@
     "title": "Hug tto! Precure\u2661Futari wa Precure Movie: All Stars Memories",
     "mal_id": 37501,
     "trakt_id": 401171,
-    "guessed_slug": "hugtto-precure-x-futari-wa-precure-all-stars-memories",
+    "guessed_slug": "hugtto-precurefutari-wa-precure-all-stars-memories",
     "type": "movies"
   },
   {
@@ -3643,7 +3699,7 @@
     "title": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
     "mal_id": 9032,
     "trakt_id": 82377,
-    "guessed_slug": "inazuma-eleven-the-movie",
+    "guessed_slug": "inazuma-eleven-the-movie-the-invasion-of-the-strongest-army-corps-ogre",
     "type": "movies"
   },
   {
@@ -3699,7 +3755,7 @@
     "title": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
     "mal_id": 731,
     "trakt_id": 6186,
-    "guessed_slug": "interstella5555-the-5tory-of-the-5ecret-5tar-5ystem",
+    "guessed_slug": "interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem",
     "type": "movies"
   },
   {
@@ -4704,6 +4760,20 @@
     "type": "movies"
   },
   {
+    "title": "Kuramerukagari",
+    "mal_id": 57478,
+    "trakt_id": 1013534,
+    "guessed_slug": "kuramerukagari",
+    "type": "movies"
+  },
+  {
+    "title": "Kurayukaba",
+    "mal_id": 56553,
+    "trakt_id": 542626,
+    "guessed_slug": "kurayukaba",
+    "type": "movies"
+  },
+  {
     "title": "Kurenai no Buta",
     "mal_id": 416,
     "trakt_id": 6697,
@@ -4844,6 +4914,13 @@
     "type": "movies"
   },
   {
+    "title": "Look Back",
+    "mal_id": 58125,
+    "trakt_id": 1007732,
+    "guessed_slug": "look-back",
+    "type": "movies"
+  },
+  {
     "title": "Loups=Garous",
     "mal_id": 7598,
     "trakt_id": 40168,
@@ -4876,6 +4953,13 @@
     "mal_id": 17293,
     "trakt_id": 276769,
     "guessed_slug": "love-like-aliens",
+    "type": "movies"
+  },
+  {
+    "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai Kanketsu-hen",
+    "mal_id": 55748,
+    "trakt_id": 921290,
+    "guessed_slug": "love-live-nijigasaki-high-school-idol-club-final-chapter-part-1",
     "type": "movies"
   },
   {
@@ -5099,7 +5183,7 @@
     "title": "Lupin III: Princess of the Breeze - Kakusareta Kuuchuu Toshi",
     "mal_id": 20141,
     "trakt_id": 149656,
-    "guessed_slug": "lupin-the-third-princess-of-the-breeze-hidden-city-in-the-sky",
+    "guessed_slug": "lupin-the-third-princess-of-the-breeze",
     "type": "movies"
   },
   {
@@ -5148,7 +5232,7 @@
     "title": "Lupin III: Touhou Kenbunroku - Another Page",
     "mal_id": 15783,
     "trakt_id": 152477,
-    "guessed_slug": "lupin-the-third-record-of-observations-of-the-east-another-page",
+    "guessed_slug": "lupin-the-third-the-secret-page-of-marco-polo",
     "type": "movies"
   },
   {
@@ -5663,6 +5747,13 @@
     "type": "movies"
   },
   {
+    "title": "Meitantei Conan Movie 27: 100-man Dollar no Michishirube",
+    "mal_id": 56785,
+    "trakt_id": 974368,
+    "guessed_slug": "case-closed-the-milliondollar-pentagram",
+    "type": "movies"
+  },
+  {
     "title": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
     "mal_id": 53780,
     "trakt_id": 852380,
@@ -5793,6 +5884,13 @@
     "mal_id": 164,
     "trakt_id": 96,
     "guessed_slug": "princess-mononoke",
+    "type": "movies"
+  },
+  {
+    "title": "Mononoke Movie: Karakasa",
+    "mal_id": 52107,
+    "trakt_id": 795305,
+    "guessed_slug": "mononoke-movie-paper-umbrella",
     "type": "movies"
   },
   {
@@ -6394,7 +6492,7 @@
     "title": "One Piece: Taose! Kaizoku Ganzack",
     "mal_id": 466,
     "trakt_id": 81165,
-    "guessed_slug": "one-piece-defeat-the-pirate-ganzak",
+    "guessed_slug": "one-piece-defeat-the-pirate-ganzack",
     "type": "movies"
   },
   {
@@ -6447,14 +6545,21 @@
     "type": "movies"
   },
   {
-    "title": "Ookii 1 Nensei to Chiisana 2 Nensei",
+    "title": "Ookii 1-nensei to Chiisana 2-nensei",
     "mal_id": 20907,
     "trakt_id": 157193,
     "guessed_slug": "the-big-firstgrader-and-the-small-secondgrader",
     "type": "movies"
   },
   {
-    "title": "Oomuro-ke",
+    "title": "Oomuro-ke: Dear Friends",
+    "mal_id": 57993,
+    "trakt_id": 976797,
+    "guessed_slug": "\u014dmuroke-dear-friends",
+    "type": "movies"
+  },
+  {
+    "title": "Oomuro-ke: Dear Sisters",
     "mal_id": 56175,
     "trakt_id": 949162,
     "guessed_slug": "\u014dmuroke-dear-sisters",
@@ -6646,42 +6751,42 @@
     "title": "Persona 3 the Movie 1: Spring of Birth",
     "mal_id": 14407,
     "trakt_id": 131224,
-    "guessed_slug": "persona-3-the-movie-1-spring-of-birth",
+    "guessed_slug": "persona3-the-movie-1-spring-of-birth",
     "type": "movies"
   },
   {
     "title": "Persona 3 the Movie 2: Midsummer Knight's Dream",
     "mal_id": 21473,
     "trakt_id": 194994,
-    "guessed_slug": "persona-3-the-movie-2-midsummer-knights-dream",
+    "guessed_slug": "persona3-the-movie-2-midsummer-knights-dream",
     "type": "movies"
   },
   {
     "title": "Persona 3 the Movie 3: Falling Down",
     "mal_id": 24543,
     "trakt_id": 213028,
-    "guessed_slug": "persona-3-the-movie-3-falling-down",
+    "guessed_slug": "persona3-the-movie-3-falling-down",
     "type": "movies"
   },
   {
     "title": "Persona 3 the Movie 4: Winter of Rebirth",
     "mal_id": 31149,
     "trakt_id": 224363,
-    "guessed_slug": "persona-3-the-movie-4-winter-of-rebirth",
+    "guessed_slug": "persona3-the-movie-4-winter-of-rebirth",
     "type": "movies"
   },
   {
     "title": "Persona 4 the Animation: The Factor of Hope",
     "mal_id": 14267,
     "trakt_id": 362907,
-    "guessed_slug": "persona-4-the-animation-the-factor-of-hope",
+    "guessed_slug": "persona4-the-animation-the-factor-of-hope",
     "type": "movies"
   },
   {
     "title": "Persona 5 the Animation: The Day Breakers",
     "mal_id": 31645,
     "trakt_id": 259169,
-    "guessed_slug": "persona-5-the-animation-the-day-breakers",
+    "guessed_slug": "persona5-the-animation-the-day-breakers",
     "type": "movies"
   },
   {
@@ -7063,6 +7168,13 @@
     "type": "movies"
   },
   {
+    "title": "Rabbits Kingdom the Movie",
+    "mal_id": 51539,
+    "trakt_id": 777371,
+    "guessed_slug": "rabbits-kingdom-the-movie",
+    "type": "movies"
+  },
+  {
     "title": "RahXephon: Tagen Hensoukyoku",
     "mal_id": 758,
     "trakt_id": 10315,
@@ -7409,7 +7521,7 @@
     "title": "Sekaiichi Hatsukoi: Propose-hen",
     "mal_id": 40314,
     "trakt_id": 492653,
-    "guessed_slug": "the-worlds-first-love-proposal",
+    "guessed_slug": "the-worlds-greatest-first-love-proposal",
     "type": "movies"
   },
   {
@@ -7515,6 +7627,13 @@
     "mal_id": 2098,
     "trakt_id": 89867,
     "guessed_slug": "new-kimagure-orange-road-summers-beginning",
+    "type": "movies"
+  },
+  {
+    "title": "Shin Yaranai ka",
+    "mal_id": 54907,
+    "trakt_id": 891866,
+    "guessed_slug": "shin-yaranai-ka",
     "type": "movies"
   },
   {
@@ -7724,7 +7843,7 @@
     "title": "Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni",
     "mal_id": 41028,
     "trakt_id": 535569,
-    "guessed_slug": "go-anpanman-fluffy-fuwari-and-the-country-of-clouds",
+    "guessed_slug": "go-anpanman-fluffy-flurry-and-the-land-of-clouds",
     "type": "movies"
   },
   {
@@ -7833,6 +7952,13 @@
     "type": "movies"
   },
   {
+    "title": "Suki demo Kirai na Amanojaku",
+    "mal_id": 58449,
+    "trakt_id": 995934,
+    "guessed_slug": "my-oni-girl",
+    "type": "movies"
+  },
+  {
     "title": "Suki ni Naru Sono Shunkan wo. Kokuhaku Jikkou Iinkai",
     "mal_id": 33036,
     "trakt_id": 319948,
@@ -7843,7 +7969,7 @@
     "title": "Sumikko Gurashi",
     "mal_id": 39250,
     "trakt_id": 475920,
-    "guessed_slug": "sumikkogurashi-the-movie",
+    "guessed_slug": "sumikkogurashi-the-unexpected-picture-book-and-the-secret-child",
     "type": "movies"
   },
   {
@@ -7872,6 +7998,20 @@
     "mal_id": 5681,
     "trakt_id": 18089,
     "guessed_slug": "summer-wars",
+    "type": "movies"
+  },
+  {
+    "title": "SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!",
+    "mal_id": 58522,
+    "trakt_id": 1027684,
+    "guessed_slug": "sutopuri-movie-hajimari-no-monogatari-strawberry-school-festival",
+    "type": "movies"
+  },
+  {
+    "title": "Suu-funkan no Yell wo",
+    "mal_id": 57915,
+    "trakt_id": 999251,
+    "guessed_slug": "a-few-moments-of-cheers",
     "type": "movies"
   },
   {
@@ -8358,6 +8498,13 @@
     "type": "movies"
   },
   {
+    "title": "Trapezium",
+    "mal_id": 57508,
+    "trakt_id": 981228,
+    "guessed_slug": "trapezium",
+    "type": "movies"
+  },
+  {
     "title": "Trava: Fist Planet",
     "mal_id": 1980,
     "trakt_id": 64401,
@@ -8474,6 +8621,13 @@
     "mal_id": 37915,
     "trakt_id": 401172,
     "guessed_slug": "the-laws-of-the-universe-the-age-of-reimei",
+    "type": "movies"
+  },
+  {
+    "title": "Uma Musume: Pretty Derby - Shin Jidai no Tobira",
+    "mal_id": 57647,
+    "trakt_id": 987309,
+    "guessed_slug": "umamusume-pretty-derby-beginning-of-a-new-era",
     "type": "movies"
   },
   {
@@ -8711,7 +8865,14 @@
     "title": "Wave!! Surfing Yappe!!",
     "mal_id": 40267,
     "trakt_id": 542842,
-    "guessed_slug": "wave-surfing-yappe",
+    "guessed_slug": "wave-surfing-yappe-chapter-1",
+    "type": "movies"
+  },
+  {
+    "title": "Wonderful Precure! Movie",
+    "mal_id": 58462,
+    "trakt_id": 1027685,
+    "guessed_slug": "wonderful-precure-movie",
     "type": "movies"
   },
   {
@@ -8918,6 +9079,13 @@
     "type": "movies"
   },
   {
+    "title": "Zegapain: STA",
+    "mal_id": 56488,
+    "trakt_id": 1027682,
+    "guessed_slug": "zegapain-sta",
+    "type": "movies"
+  },
+  {
     "title": "Zoku Owarimonogatari",
     "mal_id": 36999,
     "trakt_id": 404941,
@@ -8950,6 +9118,13 @@
     "mal_id": 6361,
     "trakt_id": 262548,
     "guessed_slug": "ef-a-tale-of-memories-prologue",
+    "type": "movies"
+  },
+  {
+    "title": "i\u2606Ris the Movie: Full Energy!!",
+    "mal_id": 53534,
+    "trakt_id": 841373,
+    "guessed_slug": "iris-the-movie-full-energy",
     "type": "movies"
   },
   {
