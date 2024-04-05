@@ -25,10 +25,16 @@ To get the scraped data, go to [`db/`](db/) folder and download as raw.
 
 ### Examples
 
+> [!NOTE]
+>
+> Final result does not contain comments, it's just for additional context in
+> this README.
+
 #### Shows
 
-```json
+```jsonc
 [
+  // Example of a show "Shingeki no Kyojin", both season 1 and 2
   {
     "title": "Shingeki no Kyojin",
     "mal_id": 16498,
@@ -48,18 +54,32 @@ To get the scraped data, go to [`db/`](db/) folder and download as raw.
 ]
 ```
 
+To construct to a link, you can use the following format:
+
+```text
+https://trakt.tv/{type}/{guessed_slug}/seasons/{season}
+```
+
 #### Movies
 
-```json
+```jsonc
 [
+  // Example of a movie "Kimi no Na wa."
   {
     "title": "Kimi no Na wa.",
     "mal_id": 32281,
     "trakt_id": 1402,
+    // Guessed slug won't work for movies, see additional comment
     "guessed_slug": "your-name",
     "type": "movies"
   }
 ]
+```
+
+To construct to a link, you can use the following format:
+
+```text
+https://trakt.tv/{type}/{guessed_slug}-{year, see additional comment}
 ```
 
 ## Additional Comment
@@ -70,7 +90,7 @@ To get the scraped data, go to [`db/`](db/) folder and download as raw.
 * If you're unsure about the slug, you can use the `trakt_id` to get the correct
   slug from the Trakt website. It's still works anyhow.
 * Title that is purely numerical will be nulled in the `guessed_slug` to avoid
-  unnecessary clash with Trakt server.
+  unnecessary clash with Trakt server thought it's a Trakt integer ID.
 * Guessed slug **won't work** for movies unless you suffixed `-{year}` to the
   slug manually. For example, if in the guessed slug is `your-name`, you should
   change it to `your-name-2016` to get the correct movie.
