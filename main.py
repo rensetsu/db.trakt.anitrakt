@@ -8,6 +8,8 @@ import json as js
 import re
 import requests as req
 
+from extras.langmap import char_maps
+
 MAIN_URL = "https://anitrakt.huere.net/db/db_index_{0}.php"
 
 @dataclass
@@ -55,6 +57,9 @@ def slugify(title: str) -> str | None:
         print(f"  Error: {title}, Title only have numbers. To avoid Trakt conflict, skipping")
         return None
     lower = title.lower().strip()
+    # replace characters from langmap
+    for k, v in char_maps.items():
+        lower = lower.replace(k, v)
     alpha = re.sub(r"[^\w\s]", "", lower)
     dash = re.sub(r"[\s_\-]+", "-", alpha)
     trim_corner = re.sub(r"^-+|-+$", "", dash)
@@ -118,7 +123,7 @@ def push_db(data: list[Union[Movie, Show]], media_type: Literal["movies", "shows
     sdata = sorted(data, key=lambda x: x.title)
     print(f"Pushing {mtype} data")
     with open(f"db/{mtype}.json", "w") as f:
-        js.dump([asdict(d) for d in sdata], f, indent=2)
+        js.dump([asdict(d) for d in sdata], f, indent=2, ensure_ascii=False)
 
 def pull_db(media_type: Literal["movies", "shows"]) -> list[Union[Movie, Show]]:
     """
