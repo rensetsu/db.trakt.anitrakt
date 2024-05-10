@@ -780,7 +780,7 @@
     "title": "Blue Lock: Episode Nagi",
     "mal_id": 54866,
     "trakt_id": 888801,
-    "guessed_slug": "bluelock-episode-nagi",
+    "guessed_slug": "blue-lock-the-movie-episode-nagi",
     "type": "movies"
   },
   {
@@ -2075,7 +2075,14 @@
     "title": "Doraemon Movie 41: Nobita no Little Star Wars",
     "mal_id": 44025,
     "trakt_id": 618760,
-    "guessed_slug": "doraemon-nobita-s-little-star-wars-2021",
+    "guessed_slug": "doraemon-the-movie-nobita-s-little-star-wars-2021",
+    "type": "movies"
+  },
+  {
+    "title": "Doraemon Movie 42: Nobita to Sora no Utopia",
+    "mal_id": 52318,
+    "trakt_id": 829024,
+    "guessed_slug": "doraemon-the-movie-nobita-s-sky-utopia",
     "type": "movies"
   },
   {
@@ -2083,13 +2090,6 @@
     "mal_id": 52318,
     "trakt_id": 828797,
     "guessed_slug": "doraemon-nobita-to-sora-no-utopia",
-    "type": "movies"
-  },
-  {
-    "title": "Doraemon Movie 42: Nobita to Sora no Utopia",
-    "mal_id": 52318,
-    "trakt_id": 829024,
-    "guessed_slug": "doraemon-nobita-s-sky-utopia",
     "type": "movies"
   },
   {
@@ -3370,7 +3370,7 @@
     "title": "Healin' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
     "mal_id": 42422,
     "trakt_id": 626452,
-    "guessed_slug": "healin-good-pretty-cure-gogo-big-transformation-the-town-of-dreams",
+    "guessed_slug": "healin-good-precure-gogo-big-transformation-the-town-of-dreams",
     "type": "movies"
   },
   {
@@ -3629,7 +3629,7 @@
     "title": "Hug tto! Precure♡Futari wa Precure Movie: All Stars Memories",
     "mal_id": 37501,
     "trakt_id": 401171,
-    "guessed_slug": "hugtto-precure-futari-wa-precure-all-stars-memories",
+    "guessed_slug": "hugtto-pretty-cure-futari-wa-pretty-cure-all-stars-memories",
     "type": "movies"
   },
   {
@@ -4343,7 +4343,7 @@
     "title": "Kimi no Iro",
     "mal_id": 53747,
     "trakt_id": 849743,
-    "guessed_slug": "kimi-no-iro",
+    "guessed_slug": "the-colors-within",
     "type": "movies"
   },
   {
@@ -4476,7 +4476,7 @@
     "title": "Kitarou Tanjou: Gegege no Nazo",
     "mal_id": 48426,
     "trakt_id": 724991,
-    "guessed_slug": "the-birth-of-kitarou-mystery-of-gegege",
+    "guessed_slug": "the-birth-of-kitaro-mystery-of-gegege",
     "type": "movies"
   },
   {
@@ -7052,21 +7052,21 @@
     "title": "Precure All Stars Movie New Stage: Mirai no Tomodachi",
     "mal_id": 12221,
     "trakt_id": 83583,
-    "guessed_slug": "precure-all-stars-new-stage-friends-of-the-future",
+    "guessed_slug": "pretty-cure-all-stars-new-stage-friends-of-the-future",
     "type": "movies"
   },
   {
     "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi",
     "mal_id": 40587,
     "trakt_id": 492652,
-    "guessed_slug": "precure-miracle-leap-a-wonderful-day-with-everyone",
+    "guessed_slug": "pretty-cure-miracle-leap-a-wonderful-day-with-everyone",
     "type": "movies"
   },
   {
     "title": "Precure Miracle Universe Movie",
     "mal_id": 38672,
     "trakt_id": 422583,
-    "guessed_slug": "precure-miracle-universe",
+    "guessed_slug": "pretty-cure-miracle-universe",
     "type": "movies"
   },
   {
@@ -7616,7 +7616,7 @@
     "type": "movies"
   },
   {
-    "title": "Shin Kidou Senki Gundam Wing: Endless Waltz Special",
+    "title": "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen",
     "mal_id": 2273,
     "trakt_id": 13910,
     "guessed_slug": "gundam-wing-the-endless-waltz",
@@ -8732,7 +8732,7 @@
     "title": "Uta no☆Prince-sama♪ Movie: Maji Love ST☆RISH Tours",
     "mal_id": 48573,
     "trakt_id": 798926,
-    "guessed_slug": "utano-princesama-maji-love-starish-tours",
+    "guessed_slug": "uta-no-prince-sama-maji-love-starish-tours",
     "type": "movies"
   },
   {
