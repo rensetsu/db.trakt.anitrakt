@@ -8,7 +8,7 @@
     "type": "shows"
   },
   {
-    "title": "\"Oshi no Ko\" Season 2",
+    "title": "\"Oshi no Ko\" 2nd Season",
     "mal_id": 55791,
     "trakt_id": 196091,
     "guessed_slug": "oshi-no-ko",
@@ -3448,7 +3448,7 @@
     "type": "shows"
   },
   {
-    "title": "Bye-Bye, Earth",
+    "title": "Bye Bye, Earth",
     "mal_id": 53626,
     "trakt_id": 199843,
     "guessed_slug": "bye-bye-earth",
@@ -3472,7 +3472,7 @@
     "type": "shows"
   },
   {
-    "title": "Caligula (TV)",
+    "title": "Caligula",
     "mal_id": 36828,
     "trakt_id": 127452,
     "guessed_slug": "caligula",
@@ -4728,7 +4728,7 @@
     "type": "shows"
   },
   {
-    "title": "Days (TV)",
+    "title": "Days",
     "mal_id": 32494,
     "trakt_id": 107460,
     "guessed_slug": "days",
@@ -5952,7 +5952,7 @@
     "type": "shows"
   },
   {
-    "title": "Fairy Tail: 100 Years Quest",
+    "title": "Fairy Tail: 100-nen Quest",
     "mal_id": 49785,
     "trakt_id": 230742,
     "guessed_slug": "fairy-tail-100-years-quest",
@@ -6123,7 +6123,7 @@
     "title": "Flaglia: Natsuyasumi no Monogatari",
     "mal_id": 53424,
     "trakt_id": 201192,
-    "guessed_slug": "flaglia-natsuyasumi-no-monogatari",
+    "guessed_slug": "flaglia-story-of-summer-vacation",
     "season": 1,
     "type": "shows"
   },
@@ -7600,6 +7600,14 @@
     "type": "shows"
   },
   {
+    "title": "Grendizer U",
+    "mal_id": 56189,
+    "trakt_id": 207784,
+    "guessed_slug": "grendizer-u",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Grimm Kumikyoku",
     "mal_id": 49210,
     "trakt_id": 231929,
@@ -9064,7 +9072,7 @@
     "type": "shows"
   },
   {
-    "title": "Hinamatsuri (TV)",
+    "title": "Hinamatsuri",
     "mal_id": 36296,
     "trakt_id": 126457,
     "guessed_slug": "hinamatsuri",
@@ -10179,7 +10187,7 @@
     "title": "Isekai Shikkaku",
     "mal_id": 52367,
     "trakt_id": 196817,
-    "guessed_slug": "no-longer-human-in-another-world",
+    "guessed_slug": "no-longer-allowed-in-another-world",
     "season": 1,
     "type": "shows"
   },
@@ -10296,7 +10304,7 @@
     "type": "shows"
   },
   {
-    "title": "Island (TV)",
+    "title": "Island",
     "mal_id": 33012,
     "trakt_id": 130106,
     "guessed_slug": "island",
@@ -11352,7 +11360,7 @@
     "type": "shows"
   },
   {
-    "title": "Kami no Tou 2nd Season",
+    "title": "Kami no Tou: Ouji no Kikan",
     "mal_id": 52635,
     "trakt_id": 158032,
     "guessed_slug": "tower-of-god",
@@ -12331,7 +12339,7 @@
     "title": "Kijin Gentoushou",
     "mal_id": 49778,
     "trakt_id": 227755,
-    "guessed_slug": "sword-of-the-demon-hunter-kijin-gentoushou",
+    "guessed_slug": "sword-of-the-demon-hunter-kijin-gentosho",
     "season": 1,
     "type": "shows"
   },
@@ -12883,7 +12891,7 @@
     "title": "Koe de Oshigoto! The Animation",
     "mal_id": 8876,
     "trakt_id": 38445,
-    "guessed_slug": "koe-de-oshigoto",
+    "guessed_slug": "working-with-voice",
     "season": 1,
     "type": "shows"
   },
@@ -12947,7 +12955,7 @@
     "title": "Koi wa Futago de Warikirenai",
     "mal_id": 55996,
     "trakt_id": 221894,
-    "guessed_slug": "koi-wa-futago-de-warikirenai",
+    "guessed_slug": "love-is-indivisible-by-twins",
     "season": 1,
     "type": "shows"
   },
@@ -15163,7 +15171,7 @@
     "title": "Make Heroine ga Oosugiru!",
     "mal_id": 57524,
     "trakt_id": 231171,
-    "guessed_slug": "too-many-losing-heroines",
+    "guessed_slug": "makeine-too-many-losing-heroines",
     "season": 1,
     "type": "shows"
   },
@@ -15648,7 +15656,7 @@
     "type": "shows"
   },
   {
-    "title": "Megami no Café Terrace Season 2",
+    "title": "Megami no Café Terrace 2nd Season",
     "mal_id": 55749,
     "trakt_id": 198033,
     "guessed_slug": "the-cafe-terrace-and-its-goddesses",
@@ -15819,7 +15827,7 @@
     "title": "Micchiri Neko",
     "mal_id": 36982,
     "trakt_id": 126552,
-    "guessed_slug": "micchiri-neko",
+    "guessed_slug": "mitchiri-neko",
     "season": 1,
     "type": "shows"
   },
@@ -16139,7 +16147,7 @@
     "title": "Mob kara Hajimaru Tansaku Eiyuutan",
     "mal_id": 57646,
     "trakt_id": 228471,
-    "guessed_slug": "the-story-of-an-exploration-hero-who-has-worked-his-way-up-from-common-people",
+    "guessed_slug": "a-nobody-s-way-up-to-an-exploration-hero",
     "season": 1,
     "type": "shows"
   },
@@ -16616,6 +16624,14 @@
     "type": "shows"
   },
   {
+    "title": "My Wife Has No Emotion",
+    "mal_id": 58272,
+    "trakt_id": 233186,
+    "guessed_slug": "my-wife-has-no-emotion",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Myself; Yourself",
     "mal_id": 2926,
     "trakt_id": 61391,
@@ -16643,7 +16659,7 @@
     "title": "Na Nare Hana Nare",
     "mal_id": 57099,
     "trakt_id": 213049,
-    "guessed_slug": "na-nare-hana-nare",
+    "guessed_slug": "narenare-cheer-for-you",
     "season": 1,
     "type": "shows"
   },
@@ -16923,7 +16939,7 @@
     "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
     "mal_id": 56062,
     "trakt_id": 231694,
-    "guessed_slug": "why-nobody-remembers-my-world",
+    "guessed_slug": "why-does-nobody-remember-me-in-this-world",
     "season": 1,
     "type": "shows"
   },
@@ -18131,7 +18147,7 @@
     "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
     "mal_id": 57058,
     "trakt_id": 231172,
-    "guessed_slug": "i-parry-everything-what-do-you-mean-i-m-the-strongest-i-m-not-even-an-adventurer-yet",
+    "guessed_slug": "i-parry-everything",
     "season": 1,
     "type": "shows"
   },
@@ -19120,6 +19136,14 @@
     "type": "shows"
   },
   {
+    "title": "Pseudo Harem",
+    "mal_id": 54968,
+    "trakt_id": 204422,
+    "guessed_slug": "pseudo-harem",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Psycho-Pass",
     "mal_id": 13601,
     "trakt_id": 43623,
@@ -19283,7 +19307,7 @@
     "title": "R.O.D: The TV",
     "mal_id": 209,
     "trakt_id": 39995,
-    "guessed_slug": "r-o-d-the-tv",
+    "guessed_slug": "read-or-die-the-tv",
     "season": 1,
     "type": "shows"
   },
@@ -19411,7 +19435,7 @@
     "title": "Ramen Akaneko",
     "mal_id": 57325,
     "trakt_id": 232235,
-    "guessed_slug": "red-cat-ramen",
+    "guessed_slug": "ramen-akaneko",
     "season": 1,
     "type": "shows"
   },
@@ -20388,6 +20412,14 @@
     "mal_id": 38192,
     "trakt_id": 180106,
     "guessed_slug": "sakugan",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Sakuna: Of Rice and Ruin",
+    "mal_id": 58357,
+    "trakt_id": 241904,
+    "guessed_slug": "sakuna-of-rice-and-ruin",
     "season": 1,
     "type": "shows"
   },
@@ -22179,7 +22211,7 @@
     "title": "Shoushimin Series",
     "mal_id": 57810,
     "trakt_id": 220595,
-    "guessed_slug": "how-to-become-ordinary",
+    "guessed_slug": "shoshimin-how-to-become-ordinary",
     "season": 1,
     "type": "shows"
   },
@@ -26272,7 +26304,7 @@
     "type": "shows"
   },
   {
-    "title": "Wonderful Precure! Movie",
+    "title": "Wonderful Precure! Movie: Dokidoki Game no Sekai de Dai Bouken!",
     "mal_id": 58462,
     "trakt_id": 220312,
     "guessed_slug": "wonderful-precure",

@@ -619,7 +619,7 @@
     "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
     "mal_id": 51716,
     "trakt_id": 778707,
-    "guessed_slug": "pretty-guardian-sailor-moon-cosmos-the-movie",
+    "guessed_slug": "pretty-guardian-sailor-moon-cosmos-the-movie-part-1",
     "type": "movies"
   },
   {
@@ -752,7 +752,7 @@
     "title": "Bloody Escape: Jigoku no Tousou Geki",
     "mal_id": 54793,
     "trakt_id": 887658,
-    "guessed_slug": "bloody-escape",
+    "guessed_slug": "bloody-escape-bats-out-of-hell",
     "type": "movies"
   },
   {
@@ -885,7 +885,7 @@
     "title": "Break Blade Movie 2: Ketsubetsu no Michi",
     "mal_id": 8514,
     "trakt_id": 39410,
-    "guessed_slug": "broken-blade-the-split-path",
+    "guessed_slug": "broken-blade-the-path-of-separation",
     "type": "movies"
   },
   {
@@ -899,21 +899,21 @@
     "title": "Break Blade Movie 4: Sanka no Chi",
     "mal_id": 9465,
     "trakt_id": 39415,
-    "guessed_slug": "broken-blade-the-earth-of-calamity",
+    "guessed_slug": "broken-blade-the-land-of-calamity",
     "type": "movies"
   },
   {
     "title": "Break Blade Movie 5: Shisen no Hate",
     "mal_id": 9724,
     "trakt_id": 39417,
-    "guessed_slug": "broken-blade-edge-of-the-line-of-death",
+    "guessed_slug": "broken-blade-the-gap-between-life-and-death",
     "type": "movies"
   },
   {
     "title": "Break Blade Movie 6: Doukoku no Toride",
     "mal_id": 10092,
     "trakt_id": 39418,
-    "guessed_slug": "broken-blade-enclave-of-lamentations",
+    "guessed_slug": "broken-blade-fortress-of-lamentation",
     "type": "movies"
   },
   {
@@ -1522,7 +1522,7 @@
     "title": "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
     "mal_id": 50562,
     "trakt_id": 767997,
-    "guessed_slug": "crayon-shin-chan-mononoke-ninja-chinpuden",
+    "guessed_slug": "crayon-shinchan-the-movie-the-tornado-legend-of-ninja-mononoke",
     "type": "movies"
   },
   {
@@ -1537,6 +1537,13 @@
     "mal_id": 57499,
     "trakt_id": 1027683,
     "guessed_slug": "crayon-shin-chan-movie-32-ora-tachi-no-kyouyuu-nikki",
+    "type": "movies"
+  },
+  {
+    "title": "Crayon Shin-chan the Movie: Our Dinosaur Diary",
+    "mal_id": 57499,
+    "trakt_id": 985885,
+    "guessed_slug": "crayon-shin-chan-the-movie-our-dinosaur-diary",
     "type": "movies"
   },
   {
@@ -1795,7 +1802,7 @@
     "title": "Digimon Savers 3D: Digital World Kiki Ippatsu!",
     "mal_id": 8491,
     "trakt_id": 98157,
-    "guessed_slug": "digimon-savers-3d-a-close-call-for-the-digital-world",
+    "guessed_slug": "digimon-savers-3d-the-digital-world-in-imminent-danger",
     "type": "movies"
   },
   {
@@ -4476,7 +4483,7 @@
     "title": "Kitarou Tanjou: Gegege no Nazo",
     "mal_id": 48426,
     "trakt_id": 724991,
-    "guessed_slug": "the-birth-of-kitaro-mystery-of-gegege",
+    "guessed_slug": "the-birth-of-kitaro-the-mystery-of-gegege",
     "type": "movies"
   },
   {
@@ -5834,7 +5841,7 @@
     "title": "Mirai Shounen Conan (Movie)",
     "mal_id": 7308,
     "trakt_id": 344669,
-    "guessed_slug": "conan-the-boy-in-future",
+    "guessed_slug": "future-boy-conan",
     "type": "movies"
   },
   {
@@ -8004,7 +8011,7 @@
     "title": "SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!",
     "mal_id": 58522,
     "trakt_id": 1027684,
-    "guessed_slug": "sutopuri-movie-hajimari-no-monogatari-strawberry-school-festival",
+    "guessed_slug": "strawberry-prince-movie-the-beginning-strawberry-school-festival",
     "type": "movies"
   },
   {
@@ -8869,10 +8876,10 @@
     "type": "movies"
   },
   {
-    "title": "Wonderful Precure! Movie",
+    "title": "Wonderful Precure! Movie: Dokidoki Game no Sekai de Dai Bouken!",
     "mal_id": 58462,
     "trakt_id": 1027685,
-    "guessed_slug": "wonderful-precure-movie",
+    "guessed_slug": "wonderful-precure-the-movie-grand-adventure-in-a-thrilling-game-world",
     "type": "movies"
   },
   {
