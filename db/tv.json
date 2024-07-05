@@ -40,6 +40,14 @@
     "type": "shows"
   },
   {
+    "title": "0-saiji Start Dash Monogatari",
+    "mal_id": 58985,
+    "trakt_id": 242978,
+    "guessed_slug": "head-start-at-birth",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "009-1",
     "mal_id": 1583,
     "trakt_id": 34686,
@@ -3016,6 +3024,14 @@
     "type": "shows"
   },
   {
+    "title": "Boku no Tsuma wa Kanjou ga Nai",
+    "mal_id": 58272,
+    "trakt_id": 233186,
+    "guessed_slug": "my-wife-has-no-emotion",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Boku to Roboko",
     "mal_id": 51940,
     "trakt_id": 198204,
@@ -4188,6 +4204,14 @@
     "mal_id": 5032,
     "trakt_id": 61576,
     "guessed_slug": "cobra-the-animation",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Code Geass: Dakkan no Rozé",
+    "mal_id": 56835,
+    "trakt_id": 241389,
+    "guessed_slug": "code-geass-roze-of-the-recapture",
     "season": 1,
     "type": "shows"
   },
@@ -7080,6 +7104,14 @@
     "type": "shows"
   },
   {
+    "title": "Giji Harem",
+    "mal_id": 54968,
+    "trakt_id": 204422,
+    "guessed_slug": "pseudo-harem",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Gilgamesh",
     "mal_id": 385,
     "trakt_id": 25992,
@@ -8520,6 +8552,14 @@
     "type": "shows"
   },
   {
+    "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+    "mal_id": 57892,
+    "trakt_id": 223369,
+    "guessed_slug": "failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Healer Girl",
     "mal_id": 48857,
     "trakt_id": 179906,
@@ -8664,35 +8704,11 @@
     "type": "shows"
   },
   {
-    "title": "Hetalia World Series",
-    "mal_id": 8479,
-    "trakt_id": 61580,
-    "guessed_slug": "hetalia-axis-powers",
-    "season": 2,
-    "type": "shows"
-  },
-  {
     "title": "Hetalia World?Stars",
     "mal_id": 43591,
     "trakt_id": 176915,
     "guessed_slug": "hetalia-world-stars",
     "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Hetalia: The Beautiful World",
-    "mal_id": 15195,
-    "trakt_id": 61580,
-    "guessed_slug": "hetalia-axis-powers",
-    "season": 5,
-    "type": "shows"
-  },
-  {
-    "title": "Hetalia: The World Twinkle",
-    "mal_id": 28607,
-    "trakt_id": 61580,
-    "guessed_slug": "hetalia-axis-powers",
-    "season": 6,
     "type": "shows"
   },
   {
@@ -11800,6 +11816,14 @@
     "type": "shows"
   },
   {
+    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+    "mal_id": 57217,
+    "trakt_id": 227592,
+    "guessed_slug": "the-magical-girl-and-the-evil-lieutenant-used-to-be-archenemies",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Katte ni Kaizou",
     "mal_id": 10191,
     "trakt_id": 43027,
@@ -12469,6 +12493,14 @@
     "trakt_id": 61845,
     "guessed_slug": "from-me-to-you-kimi-ni-todoke",
     "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Kimi ni Todoke 3rd Season",
+    "mal_id": 56538,
+    "trakt_id": 61845,
+    "guessed_slug": "from-me-to-you-kimi-ni-todoke",
+    "season": 3,
     "type": "shows"
   },
   {
@@ -16624,14 +16656,6 @@
     "type": "shows"
   },
   {
-    "title": "My Wife Has No Emotion",
-    "mal_id": 58272,
-    "trakt_id": 233186,
-    "guessed_slug": "my-wife-has-no-emotion",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Myself; Yourself",
     "mal_id": 2926,
     "trakt_id": 61391,
@@ -17093,6 +17117,14 @@
     "trakt_id": 193608,
     "guessed_slug": "nier-automata-ver1-1a",
     "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "mal_id": 56063,
+    "trakt_id": 193608,
+    "guessed_slug": "nier-automata-ver1-1a",
+    "season": 2,
     "type": "shows"
   },
   {
@@ -19136,14 +19168,6 @@
     "type": "shows"
   },
   {
-    "title": "Pseudo Harem",
-    "mal_id": 54968,
-    "trakt_id": 204422,
-    "guessed_slug": "pseudo-harem",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Psycho-Pass",
     "mal_id": 13601,
     "trakt_id": 43623,
@@ -20416,14 +20440,6 @@
     "type": "shows"
   },
   {
-    "title": "Sakuna: Of Rice and Ruin",
-    "mal_id": 58357,
-    "trakt_id": 241904,
-    "guessed_slug": "sakuna-of-rice-and-ruin",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Sakura Quest",
     "mal_id": 34494,
     "trakt_id": 114570,
@@ -21165,6 +21181,14 @@
     "trakt_id": 38153,
     "guessed_slug": "battle-girls-time-paradox",
     "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "mal_id": 58488,
+    "trakt_id": 209612,
+    "guessed_slug": "sengoku-youko",
+    "season": 2,
     "type": "shows"
   },
   {
@@ -21925,6 +21949,14 @@
     "trakt_id": 81821,
     "guessed_slug": "the-testament-of-sister-new-devil",
     "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+    "mal_id": 54913,
+    "trakt_id": 233189,
+    "guessed_slug": "the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible",
+    "season": 1,
     "type": "shows"
   },
   {
@@ -22789,6 +22821,30 @@
     "trakt_id": 198225,
     "guessed_slug": "frieren-beyond-journey-s-end",
     "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Souten no Ken",
+    "mal_id": 1541,
+    "trakt_id": 65761,
+    "guessed_slug": "fist-of-the-blue-sky",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Souten no Ken: Regenesis",
+    "mal_id": 36655,
+    "trakt_id": 65761,
+    "guessed_slug": "fist-of-the-blue-sky",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Souten no Ken: Regenesis 2nd Season",
+    "mal_id": 37388,
+    "trakt_id": 65761,
+    "guessed_slug": "fist-of-the-blue-sky",
+    "season": 3,
     "type": "shows"
   },
   {
@@ -23672,6 +23728,14 @@
     "type": "shows"
   },
   {
+    "title": "Tasuuketsu",
+    "mal_id": 57945,
+    "trakt_id": 228470,
+    "guessed_slug": "tasuketsu-fate-of-the-majority",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Tate no Yuusha no Nariagari",
     "mal_id": 35790,
     "trakt_id": 137154,
@@ -24076,6 +24140,14 @@
     "mal_id": 34177,
     "trakt_id": 120752,
     "guessed_slug": "angel-s-3piece",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Tensui no Sakuna-hime",
+    "mal_id": 58357,
+    "trakt_id": 241904,
+    "guessed_slug": "sakuna-of-rice-and-ruin",
     "season": 1,
     "type": "shows"
   },
@@ -26621,6 +26693,14 @@
     "trakt_id": 71821,
     "guessed_slug": "yamishibai-japanese-ghost-stories",
     "season": 12,
+    "type": "shows"
+  },
+  {
+    "title": "Yami Shibai 13",
+    "mal_id": 59010,
+    "trakt_id": 71821,
+    "guessed_slug": "yamishibai-japanese-ghost-stories",
+    "season": 13,
     "type": "shows"
   },
   {

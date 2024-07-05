@@ -1540,7 +1540,7 @@
     "type": "movies"
   },
   {
-    "title": "Crayon Shin-chan the Movie: Our Dinosaur Diary",
+    "title": "Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki",
     "mal_id": 57499,
     "trakt_id": 985885,
     "guessed_slug": "crayon-shin-chan-the-movie-our-dinosaur-diary",
@@ -1642,6 +1642,13 @@
     "mal_id": 51358,
     "trakt_id": 944966,
     "guessed_slug": "dead-dead-demon-s-dededede-destruction-part-1",
+    "type": "movies"
+  },
+  {
+    "title": "Dead Dead Demons Dededede Destruction",
+    "mal_id": 51358,
+    "trakt_id": 944968,
+    "guessed_slug": "dead-dead-demon-s-dededede-destruction-part-2",
     "type": "movies"
   },
   {
@@ -5327,6 +5334,13 @@
     "type": "movies"
   },
   {
+    "title": "Macross II: Lovers Again",
+    "mal_id": 1262,
+    "trakt_id": 883585,
+    "guessed_slug": "macross-ii-lovers-again",
+    "type": "movies"
+  },
+  {
     "title": "Macross Plus Movie Edition",
     "mal_id": 1211,
     "trakt_id": 11564,
@@ -6612,6 +6626,13 @@
     "mal_id": 48784,
     "trakt_id": 673344,
     "guessed_slug": "oshiri-tantei-sufuure-tou-no-himitsu",
+    "type": "movies"
+  },
+  {
+    "title": "Oshiri Tantei Movie 4: Shiriarty",
+    "mal_id": 54346,
+    "trakt_id": 765520,
+    "guessed_slug": "butt-detective-the-movie-shiriarty",
     "type": "movies"
   },
   {
