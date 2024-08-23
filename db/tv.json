@@ -5528,19 +5528,19 @@
     "type": "shows"
   },
   {
-    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen",
-    "mal_id": 53111,
-    "trakt_id": 94090,
-    "guessed_slug": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
-    "season": 5,
-    "type": "shows"
-  },
-  {
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen",
     "mal_id": 47164,
     "trakt_id": 94090,
     "guessed_slug": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
     "season": 4,
+    "type": "shows"
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen",
+    "mal_id": 53111,
+    "trakt_id": 94090,
+    "guessed_slug": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
+    "season": 5,
     "type": "shows"
   },
   {
@@ -6552,7 +6552,7 @@
     "type": "shows"
   },
   {
-    "title": "Fuuun Ishin Dai?Shogun",
+    "title": "Fuuun Ishin Dai?Shougun",
     "mal_id": 21821,
     "trakt_id": 60383,
     "guessed_slug": "dai-shogun-great-revolution",
@@ -16232,7 +16232,7 @@
     "type": "shows"
   },
   {
-    "title": "Monogatari",
+    "title": "Monogatari Series: Off & Monster Season",
     "mal_id": 57864,
     "trakt_id": 45938,
     "guessed_slug": "monogatari",
