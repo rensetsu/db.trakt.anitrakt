@@ -63,6 +63,13 @@
     "type": "movies"
   },
   {
+    "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie",
+    "mal_id": 58549,
+    "trakt_id": 1113114,
+    "guessed_slug": "cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-movie",
+    "type": "movies"
+  },
+  {
     "title": "38-39°C",
     "mal_id": 52767,
     "trakt_id": 114823,
@@ -476,6 +483,20 @@
     "type": "movies"
   },
   {
+    "title": "BanG Dream! It's MyGO!!!!! Movie",
+    "mal_id": 57754,
+    "trakt_id": 996161,
+    "guessed_slug": "bang-dream-it-s-mygo-movie",
+    "type": "movies"
+  },
+  {
+    "title": "BanG Dream! It's MyGO!!!!! Movie",
+    "mal_id": 57754,
+    "trakt_id": 997382,
+    "guessed_slug": "bang-dream-it-s-mygo-movie-2",
+    "type": "movies"
+  },
+  {
     "title": "BanG Dream! Movie: Episode of Roselia - I: Yakusoku",
     "mal_id": 41780,
     "trakt_id": 633777,
@@ -515,6 +536,13 @@
     "mal_id": 1468,
     "trakt_id": 45093,
     "guessed_slug": "baoh-the-visitor",
+    "type": "movies"
+  },
+  {
+    "title": "Battle Fighters Garou Densetsu",
+    "mal_id": 1799,
+    "trakt_id": 52854,
+    "guessed_slug": "fatal-fury-legend-of-the-hungry-wolf",
     "type": "movies"
   },
   {
@@ -721,20 +749,6 @@
     "type": "movies"
   },
   {
-    "title": "Bleach: Memories in the Rain",
-    "mal_id": 762,
-    "trakt_id": 123249,
-    "guessed_slug": "bleach-memories-in-the-rain",
-    "type": "movies"
-  },
-  {
-    "title": "Bleach: The Sealed Sword Frenzy",
-    "mal_id": 834,
-    "trakt_id": 24404,
-    "guessed_slug": "bleach-the-sealed-sword-frenzy",
-    "type": "movies"
-  },
-  {
     "title": "Blood-C: The Last Dark",
     "mal_id": 10681,
     "trakt_id": 109348,
@@ -788,6 +802,20 @@
     "mal_id": 49665,
     "trakt_id": 692351,
     "guessed_slug": "blue-thermal",
+    "type": "movies"
+  },
+  {
+    "title": "Bocchi the Rock! Movie",
+    "mal_id": 55357,
+    "trakt_id": 909154,
+    "guessed_slug": "bocchi-the-rock-recap-part-1",
+    "type": "movies"
+  },
+  {
+    "title": "Bocchi the Rock! Movie",
+    "mal_id": 55357,
+    "trakt_id": 972543,
+    "guessed_slug": "bocchi-the-rock-recap-part-2",
     "type": "movies"
   },
   {
@@ -1130,7 +1158,7 @@
     "title": "Chuck Shimezou",
     "mal_id": 38013,
     "trakt_id": 421584,
-    "guessed_slug": "chuck-shimezou",
+    "guessed_slug": "zip-shimezo",
     "type": "movies"
   },
   {
@@ -1263,7 +1291,7 @@
     "title": "Collar x Malice Movie: Deep Cover",
     "mal_id": 39905,
     "trakt_id": 820549,
-    "guessed_slug": "collar-malice-deep-cover",
+    "guessed_slug": "collar-malice-deep-cover-part1",
     "type": "movies"
   },
   {
@@ -1543,7 +1571,7 @@
     "title": "Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki",
     "mal_id": 57499,
     "trakt_id": 985885,
-    "guessed_slug": "crayon-shin-chan-the-movie-our-dinosaur-diary",
+    "guessed_slug": "crayon-shin-chan-ora-s-dinosaur-diary",
     "type": "movies"
   },
   {
@@ -2324,13 +2352,6 @@
     "type": "movies"
   },
   {
-    "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
-    "mal_id": 984,
-    "trakt_id": 47767,
-    "guessed_slug": "dragon-ball-z-side-story-plan-to-eradicate-the-saiyans",
-    "type": "movies"
-  },
-  {
     "title": "Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!",
     "mal_id": 22699,
     "trakt_id": 224233,
@@ -2531,20 +2552,6 @@
     "mal_id": 13793,
     "trakt_id": 320812,
     "guessed_slug": "beginning-of-fashion",
-    "type": "movies"
-  },
-  {
-    "title": "Fatal Fury: Legend of the Hungry Wolf",
-    "mal_id": 1799,
-    "trakt_id": 52854,
-    "guessed_slug": "fatal-fury-legend-of-the-hungry-wolf",
-    "type": "movies"
-  },
-  {
-    "title": "Fatal Fury: The Motion Picture",
-    "mal_id": 504,
-    "trakt_id": 17948,
-    "guessed_slug": "fatal-fury-the-motion-picture",
     "type": "movies"
   },
   {
@@ -2758,10 +2765,24 @@
     "type": "movies"
   },
   {
+    "title": "Fureru.",
+    "mal_id": 57448,
+    "trakt_id": 979215,
+    "guessed_slug": "fureru",
+    "type": "movies"
+  },
+  {
     "title": "Fuse: Teppou Musume no Torimonochou",
     "mal_id": 13335,
     "trakt_id": 127403,
     "guessed_slug": "fuse-memoirs-of-a-huntress",
+    "type": "movies"
+  },
+  {
+    "title": "Fuuto Tantei Movie: Kamen Rider Skull no Shouzou",
+    "mal_id": 59186,
+    "trakt_id": 1071081,
+    "guessed_slug": "fuuto-pi-the-portrait-of-kamen-rider-skull",
     "type": "movies"
   },
   {
@@ -2786,6 +2807,13 @@
     "type": "movies"
   },
   {
+    "title": "Ganbatte Ikimasshoi",
+    "mal_id": 58491,
+    "trakt_id": 1024328,
+    "guessed_slug": "give-it-all",
+    "type": "movies"
+  },
+  {
     "title": "Gantz:O",
     "mal_id": 32071,
     "trakt_id": 239325,
@@ -2797,6 +2825,13 @@
     "mal_id": 28539,
     "trakt_id": 224552,
     "guessed_slug": "garo-divine-flame",
+    "type": "movies"
+  },
+  {
+    "title": "Garou Densetsu: The Motion Picture",
+    "mal_id": 504,
+    "trakt_id": 17948,
+    "guessed_slug": "fatal-fury-the-motion-picture",
     "type": "movies"
   },
   {
@@ -2832,6 +2867,13 @@
     "mal_id": 6795,
     "trakt_id": 57115,
     "guessed_slug": "genius-party-beyond",
+    "type": "movies"
+  },
+  {
+    "title": "Genjitsu no Yohane: Sunshine in the Mirror Movie",
+    "mal_id": 59190,
+    "trakt_id": 1073397,
+    "guessed_slug": "yohane-the-parhelion-sunshine-in-the-mirror-movie",
     "type": "movies"
   },
   {
@@ -2949,13 +2991,6 @@
   {
     "title": "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!",
     "mal_id": 6735,
-    "trakt_id": 93497,
-    "guessed_slug": "galaxy-express-999-can-you-love-like-a-mother",
-    "type": "movies"
-  },
-  {
-    "title": "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!",
-    "mal_id": 6735,
     "trakt_id": 543812,
     "guessed_slug": "galaxy-express-999-can-you-love-like-a-mother",
     "type": "movies"
@@ -3000,6 +3035,13 @@
     "mal_id": 58091,
     "trakt_id": 1027312,
     "guessed_slug": "gintama-on-theater-2d-ikkoku-keisei-hen",
+    "type": "movies"
+  },
+  {
+    "title": "Gintama on Theater 2D: Kintama-hen",
+    "mal_id": 59688,
+    "trakt_id": 1113115,
+    "guessed_slug": "gintama-on-theater-2d-kintama-arc",
     "type": "movies"
   },
   {
@@ -3710,10 +3752,24 @@
     "type": "movies"
   },
   {
+    "title": "Inazuma Eleven: Aratanaru Eiyuu-tachi no Joshou",
+    "mal_id": 59710,
+    "trakt_id": 1102482,
+    "guessed_slug": "inazuma-eleven-the-movie-the-new-heroes-prologue",
+    "type": "movies"
+  },
+  {
     "title": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
     "mal_id": 9032,
     "trakt_id": 82377,
     "guessed_slug": "inazuma-eleven-the-movie-the-invasion-of-the-strongest-army-corps-ogre",
+    "type": "movies"
+  },
+  {
+    "title": "Inazuma Eleven: Soushuuhen Densetsu no Kickoff",
+    "mal_id": 59709,
+    "trakt_id": 1102478,
+    "guessed_slug": "inazuma-eleven-compilation-film-legendary-kickoff",
     "type": "movies"
   },
   {
@@ -4252,7 +4308,7 @@
     "title": "Kidou Senshi Gundam 00 Movie: A Wakening of the Trailblazer",
     "mal_id": 6288,
     "trakt_id": 23643,
-    "guessed_slug": "mobile-suit-gundam-00-a-wakening-of-the-trailblazer",
+    "guessed_slug": "mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
     "type": "movies"
   },
   {
@@ -5351,7 +5407,7 @@
     "title": "Macross Δ Movie 2: Zettai Live!!!",
     "mal_id": 38373,
     "trakt_id": 589641,
-    "guessed_slug": "macross-d-the-movie-absolute-live",
+    "guessed_slug": "macross-delta-zettai-live",
     "type": "movies"
   },
   {
@@ -5530,6 +5586,13 @@
     "type": "movies"
   },
   {
+    "title": "Make a Girl",
+    "mal_id": 54740,
+    "trakt_id": 1010143,
+    "guessed_slug": "メイクアガール",
+    "type": "movies"
+  },
+  {
     "title": "Mardock Scramble: The First Compression",
     "mal_id": 8100,
     "trakt_id": 54034,
@@ -5596,7 +5659,7 @@
     "title": "Meitantei Conan Movie 01: Tokei Jikake no Matenrou",
     "mal_id": 779,
     "trakt_id": 13117,
-    "guessed_slug": "detective-conan-the-time-bombed-skyscraper",
+    "guessed_slug": "case-closed-the-time-bombed-skyscraper",
     "type": "movies"
   },
   {
@@ -5911,7 +5974,7 @@
     "title": "Mononoke Movie: Karakasa",
     "mal_id": 52107,
     "trakt_id": 795305,
-    "guessed_slug": "mononoke-movie-paper-umbrella",
+    "guessed_slug": "mononoke-the-movie-the-phantom-in-the-rain",
     "type": "movies"
   },
   {
@@ -6223,6 +6286,13 @@
     "type": "movies"
   },
   {
+    "title": "Nintama Rantarou Movie: Dokutake Ninja Tai Saikyou no Gunshi",
+    "mal_id": 58201,
+    "trakt_id": 1040183,
+    "guessed_slug": "nintama-rantaro-the-movie-the-dokutake-ninja-team-s-strongest-strategist",
+    "type": "movies"
+  },
+  {
     "title": "No Game No Life: Zero",
     "mal_id": 33674,
     "trakt_id": 291831,
@@ -6345,7 +6415,7 @@
     "title": "One Piece Film: Strong World",
     "mal_id": 4155,
     "trakt_id": 27466,
-    "guessed_slug": "one-piece-strong-world",
+    "guessed_slug": "one-piece-film-strong-world",
     "type": "movies"
   },
   {
@@ -6576,14 +6646,14 @@
     "title": "Oomuro-ke: Dear Friends",
     "mal_id": 57993,
     "trakt_id": 976797,
-    "guessed_slug": "omuro-ke-dear-friends",
+    "guessed_slug": "oomuro-ke-dear-friends",
     "type": "movies"
   },
   {
     "title": "Oomuro-ke: Dear Sisters",
     "mal_id": 56175,
     "trakt_id": 949162,
-    "guessed_slug": "omuro-ke-dear-sisters",
+    "guessed_slug": "oomuro-ke-dear-sisters",
     "type": "movies"
   },
   {
@@ -7119,6 +7189,13 @@
     "type": "movies"
   },
   {
+    "title": "Project Sekai Movie: Kowareta Sekai to Utaenai Miku",
+    "mal_id": 59419,
+    "trakt_id": 1081584,
+    "guessed_slug": "colorful-stage-the-movie-a-miku-who-can-t-sing",
+    "type": "movies"
+  },
+  {
     "title": "Promare",
     "mal_id": 35848,
     "trakt_id": 404632,
@@ -7165,6 +7242,13 @@
     "mal_id": 37442,
     "trakt_id": 410491,
     "guessed_slug": "psycho-pass-sinners-of-the-system-case-3-on-the-other-side-of-love-and-hate",
+    "type": "movies"
+  },
+  {
+    "title": "Pui Pui Molcar the Movie: MOLMAX",
+    "mal_id": 57910,
+    "trakt_id": 999350,
+    "guessed_slug": "pui-pui-molcar-the-movie-molmax",
     "type": "movies"
   },
   {
@@ -7578,6 +7662,13 @@
     "mal_id": 1033,
     "trakt_id": 21330,
     "guessed_slug": "millennium-actress",
+    "type": "movies"
+  },
+  {
+    "title": "Senpai wa Otokonoko Movie: Ame Nochi Hare",
+    "mal_id": 59957,
+    "trakt_id": 1111898,
+    "guessed_slug": "senpai-is-an-otokonoko-movie",
     "type": "movies"
   },
   {
@@ -8011,7 +8102,7 @@
     "title": "Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko",
     "mal_id": 53936,
     "trakt_id": 925239,
-    "guessed_slug": "sumikko-gurashi-movie-tsugihagi-koujou-no-fushigina-ko",
+    "guessed_slug": "sumikkogurashi-the-patched-up-toy-factory-in-the-woods",
     "type": "movies"
   },
   {
@@ -8897,7 +8988,7 @@
     "type": "movies"
   },
   {
-    "title": "Wonderful Precure! Movie: Dokidoki Game no Sekai de Dai Bouken!",
+    "title": "Wonderful Precure! Movie: Dokidoki Game no Sekai de Daibouken!",
     "mal_id": 58462,
     "trakt_id": 1027685,
     "guessed_slug": "wonderful-precure-the-movie-grand-adventure-in-a-thrilling-game-world",
