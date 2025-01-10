@@ -1392,6 +1392,14 @@
     "type": "shows"
   },
   {
+    "title": "Ao no Exorcist: Yosuga-hen",
+    "mal_id": 59226,
+    "trakt_id": 38304,
+    "guessed_slug": "blue-exorcist",
+    "season": 5,
+    "type": "shows"
+  },
+  {
     "title": "Ao no Exorcist: Yuki no Hate-hen",
     "mal_id": 58516,
     "trakt_id": 38304,
@@ -2987,7 +2995,7 @@
     "title": "Blue Lock",
     "mal_id": 49596,
     "trakt_id": 186012,
-    "guessed_slug": "bluelock",
+    "guessed_slug": "blue-lock",
     "season": 1,
     "type": "shows"
   },
@@ -2995,7 +3003,7 @@
     "title": "Blue Lock vs. U-20 Japan",
     "mal_id": 54865,
     "trakt_id": 186012,
-    "guessed_slug": "bluelock",
+    "guessed_slug": "blue-lock",
     "season": 2,
     "type": "shows"
   },
@@ -7869,6 +7877,14 @@
     "trakt_id": 60900,
     "guessed_slug": "the-fruit-of-grisaia",
     "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Grisaia: Phantom Trigger",
+    "mal_id": 51119,
+    "trakt_id": 271877,
+    "guessed_slug": "grisaia-phantom-trigger",
+    "season": 1,
     "type": "shows"
   },
   {
@@ -17603,7 +17619,7 @@
     "title": "Neko ni Tensei shita Ojisan",
     "mal_id": 58395,
     "trakt_id": 230400,
-    "guessed_slug": "neko-oji-the-guy-that-got-reincarnated-as-a-cat",
+    "guessed_slug": "cat-uncle-the-guy-that-got-reincarnated-as-a-cat",
     "season": 1,
     "type": "shows"
   },
@@ -25699,7 +25715,7 @@
     "title": "Tono to Inu",
     "mal_id": 57924,
     "trakt_id": 254800,
-    "guessed_slug": "tono-to-inu",
+    "guessed_slug": "the-corgi-and-the-samurai",
     "season": 1,
     "type": "shows"
   },

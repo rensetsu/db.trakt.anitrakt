@@ -871,7 +871,7 @@
     "title": "Boku to Roboko Movie",
     "mal_id": 55709,
     "trakt_id": 970307,
-    "guessed_slug": "me-roboco-movie",
+    "guessed_slug": "me-roboco-the-movie",
     "type": "movies"
   },
   {
@@ -3328,7 +3328,7 @@
     "title": "Haikyuu!! Movie 3: Sainou to Sense",
     "mal_id": 35110,
     "trakt_id": 308777,
-    "guessed_slug": "haikyuu-movie-3-genius-and-sense",
+    "guessed_slug": "haikyuu-movie-3-talent-and-sense",
     "type": "movies"
   },
   {
@@ -3451,7 +3451,7 @@
     "type": "movies"
   },
   {
-    "title": "Healin' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
+    "title": "Healin' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Daihenshin!!",
     "mal_id": 42422,
     "trakt_id": 626452,
     "guessed_slug": "healin-good-precure-gogo-big-transformation-the-town-of-dreams",
@@ -6755,6 +6755,13 @@
     "type": "movies"
   },
   {
+    "title": "Oshiri Tantei Movie 6: Star and Moon",
+    "mal_id": 60613,
+    "trakt_id": 1150429,
+    "guessed_slug": "eiga-oshiri-tantei-star-and-moon",
+    "type": "movies"
+  },
+  {
     "title": "Osomatsu-san Movie",
     "mal_id": 38201,
     "trakt_id": 410242,
@@ -8025,7 +8032,7 @@
     "title": "Soukyuu no Fafner: Dead Aggressor - Behind the Line",
     "mal_id": 50675,
     "trakt_id": 828796,
-    "guessed_slug": "soukyuu-no-fafner-behind-the-line",
+    "guessed_slug": "fafner-behind-the-line",
     "type": "movies"
   },
   {
