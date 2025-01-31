@@ -1,21 +1,5 @@
 [
   {
-    "title": "\"Oshi no Ko\"",
-    "mal_id": 52034,
-    "trakt_id": 196091,
-    "guessed_slug": "oshi-no-ko",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "\"Oshi no Ko\" 2nd Season",
-    "mal_id": 55791,
-    "trakt_id": 196091,
-    "guessed_slug": "oshi-no-ko",
-    "season": 2,
-    "type": "shows"
-  },
-  {
     "title": ".hack//Roots",
     "mal_id": 873,
     "trakt_id": 8818,
@@ -7899,7 +7883,7 @@
     "title": "Gugure! Kokkuri-san",
     "mal_id": 23251,
     "trakt_id": 60910,
-    "guessed_slug": "google-it-kokkuri-san",
+    "guessed_slug": "gugure-kokkuri-san",
     "season": 1,
     "type": "shows"
   },
@@ -13531,7 +13515,7 @@
     "title": "Kono Kaisha ni Suki na Hito ga Imasu",
     "mal_id": 59361,
     "trakt_id": 252830,
-    "guessed_slug": "can-you-keep-a-secret",
+    "guessed_slug": "i-have-a-crush-at-work",
     "season": 1,
     "type": "shows"
   },
@@ -15987,7 +15971,7 @@
     "title": "Mashin Souzouden Wataru",
     "mal_id": 57827,
     "trakt_id": 255784,
-    "guessed_slug": "mashin-sozoden-wataru",
+    "guessed_slug": "mashin-creator-wataru",
     "season": 1,
     "type": "shows"
   },
@@ -28596,6 +28580,22 @@
     "mal_id": 40174,
     "trakt_id": 135498,
     "guessed_slug": "zombie-land-saga",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "[Oshi no Ko]",
+    "mal_id": 52034,
+    "trakt_id": 196091,
+    "guessed_slug": "oshi-no-ko",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "[Oshi no Ko] 2nd Season",
+    "mal_id": 55791,
+    "trakt_id": 196091,
+    "guessed_slug": "oshi-no-ko",
     "season": 2,
     "type": "shows"
   },

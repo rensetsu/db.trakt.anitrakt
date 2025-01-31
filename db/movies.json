@@ -1,5 +1,12 @@
 [
   {
+    "title": "\"Anata wo Hitokoto de Arawashite Kudasai\" no Shitsumon ga Nigate da.",
+    "mal_id": 50762,
+    "trakt_id": 767993,
+    "guessed_slug": "please-describe-yourself-in-one-word-i-m-bad-at-the-question",
+    "type": "movies"
+  },
+  {
     "title": "\"Bungaku Shoujo\" Movie",
     "mal_id": 6408,
     "trakt_id": 43457,
@@ -221,13 +228,6 @@
     "mal_id": 41029,
     "trakt_id": 567438,
     "guessed_slug": "the-feast-of-amrita",
-    "type": "movies"
-  },
-  {
-    "title": "Anata wo Hitokoto de Arawashite Kudasai: no Shitsumon ga Nigate da.",
-    "mal_id": 50762,
-    "trakt_id": 767993,
-    "guessed_slug": "please-describe-yourself-in-one-word-i-m-bad-at-the-question",
     "type": "movies"
   },
   {
@@ -1341,13 +1341,6 @@
     "mal_id": 13807,
     "trakt_id": 261889,
     "guessed_slug": "corpse-party-missing-footage",
-    "type": "movies"
-  },
-  {
-    "title": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
-    "mal_id": 15037,
-    "trakt_id": 195479,
-    "guessed_slug": "corpse-party-tortured-souls",
     "type": "movies"
   },
   {
@@ -2524,13 +2517,6 @@
     "mal_id": 7465,
     "trakt_id": 142837,
     "guessed_slug": "time-of-eve-the-movie",
-    "type": "movies"
-  },
-  {
-    "title": "Eyeshield 21: Maboroshi no Golden Bowl",
-    "mal_id": 1317,
-    "trakt_id": 248526,
-    "guessed_slug": "eyeshield-21-the-phantom-golden-bowl",
     "type": "movies"
   },
   {
@@ -4578,6 +4564,13 @@
     "type": "movies"
   },
   {
+    "title": "Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.",
+    "mal_id": 1379,
+    "trakt_id": 946457,
+    "guessed_slug": "kino-s-journey-life-goes-on",
+    "type": "movies"
+  },
+  {
     "title": "Kitarou Tanjou: Gegege no Nazo",
     "mal_id": 48426,
     "trakt_id": 724991,
@@ -4819,7 +4812,7 @@
     "title": "Kouya no Kotobuki Hikoutai Kanzenban",
     "mal_id": 41205,
     "trakt_id": 571395,
-    "guessed_slug": "the-magnificent-kotobuki",
+    "guessed_slug": "the-magnificent-kotobuki-the-movie",
     "type": "movies"
   },
   {
@@ -5701,7 +5694,7 @@
     "title": "Meitantei Conan Movie 01: Tokei Jikake no Matenrou",
     "mal_id": 779,
     "trakt_id": 13117,
-    "guessed_slug": "case-closed-the-time-bombed-skyscraper",
+    "guessed_slug": "detective-conan-the-time-bombed-skyscraper",
     "type": "movies"
   },
   {
@@ -5950,13 +5943,6 @@
     "type": "movies"
   },
   {
-    "title": "Mirai Nikki: Redial",
-    "mal_id": 16762,
-    "trakt_id": 166222,
-    "guessed_slug": "the-future-diary-redial",
-    "type": "movies"
-  },
-  {
     "title": "Mirai Shounen Conan (Movie)",
     "mal_id": 7308,
     "trakt_id": 344669,
@@ -6118,7 +6104,7 @@
     "type": "movies"
   },
   {
-    "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+    "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo!",
     "mal_id": 442,
     "trakt_id": 10347,
     "guessed_slug": "naruto-the-movie-ninja-clash-in-the-land-of-snow",
@@ -6220,13 +6206,6 @@
     "mal_id": 42894,
     "trakt_id": 611432,
     "guessed_slug": "natsume-s-book-of-friends-the-waking-rock-and-the-strange-visitor",
-    "type": "movies"
-  },
-  {
-    "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
-    "mal_id": 20651,
-    "trakt_id": 159847,
-    "guessed_slug": "natsume-s-book-of-friends-sometime-on-a-snowy-day",
     "type": "movies"
   },
   {
@@ -7483,20 +7462,6 @@
     "type": "movies"
   },
   {
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
-    "mal_id": 401,
-    "trakt_id": 20173,
-    "guessed_slug": "samurai-x-reflection",
-    "type": "movies"
-  },
-  {
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
-    "mal_id": 44,
-    "trakt_id": 20172,
-    "guessed_slug": "samurai-x-trust-betrayal",
-    "type": "movies"
-  },
-  {
     "title": "Ryo",
     "mal_id": 14347,
     "trakt_id": 136035,
@@ -8225,6 +8190,13 @@
     "type": "movies"
   },
   {
+    "title": "Sword Art Online: Extra Edition",
+    "mal_id": 20021,
+    "trakt_id": 813696,
+    "guessed_slug": "sword-art-online-extra-edition",
+    "type": "movies"
+  },
+  {
     "title": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
     "mal_id": 42916,
     "trakt_id": 600729,
@@ -8575,13 +8547,6 @@
     "type": "movies"
   },
   {
-    "title": "Tokyo Marble Chocolate",
-    "mal_id": 3088,
-    "trakt_id": 15531,
-    "guessed_slug": "tokyo-marble-chocolate",
-    "type": "movies"
-  },
-  {
     "title": "Tonari no Totoro",
     "mal_id": 523,
     "trakt_id": 4169,
@@ -8684,13 +8649,6 @@
     "mal_id": 57508,
     "trakt_id": 981228,
     "guessed_slug": "trapezium",
-    "type": "movies"
-  },
-  {
-    "title": "Trava: Fist Planet",
-    "mal_id": 1980,
-    "trakt_id": 64401,
-    "guessed_slug": "trava-fist-planet",
     "type": "movies"
   },
   {
