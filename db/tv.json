@@ -2360,6 +2360,14 @@
     "type": "shows"
   },
   {
+    "title": "Bartender: Kami no Glass",
+    "mal_id": 53407,
+    "trakt_id": 204657,
+    "guessed_slug": "bartender-glass-of-god",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Basilisk: Kouga Ninpou Chou",
     "mal_id": 67,
     "trakt_id": 9362,
@@ -7164,6 +7172,14 @@
     "mal_id": 52214,
     "trakt_id": 203743,
     "guessed_slug": "yohane-the-parhelion-sunshine-in-the-mirror",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Genocyber",
+    "mal_id": 2775,
+    "trakt_id": 61158,
+    "guessed_slug": "genocyber",
     "season": 1,
     "type": "shows"
   },
@@ -15408,6 +15424,14 @@
     "type": "shows"
   },
   {
+    "title": "Mahoutsukai no Yome Season 2",
+    "mal_id": 52955,
+    "trakt_id": 111203,
+    "guessed_slug": "the-ancient-magus-bride",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Mahoutsukai no Yome Season 2 Part 2",
     "mal_id": 55742,
     "trakt_id": 111203,
@@ -22048,7 +22072,7 @@
     "type": "shows"
   },
   {
-    "title": "Sentouin, Hakenshimasu!",
+    "title": "Sentouin, Haken shimasu!",
     "mal_id": 41456,
     "trakt_id": 171610,
     "guessed_slug": "combatants-will-be-dispatched",
@@ -25064,14 +25088,6 @@
     "type": "shows"
   },
   {
-    "title": "The Ancient Magus' Bride",
-    "mal_id": 52955,
-    "trakt_id": 111203,
-    "guessed_slug": "the-ancient-magus-bride",
-    "season": 2,
-    "type": "shows"
-  },
-  {
     "title": "The Big O",
     "mal_id": 567,
     "trakt_id": 18159,
@@ -26115,7 +26131,7 @@
     "title": "Tsuyokute New Saga",
     "mal_id": 53397,
     "trakt_id": 199110,
-    "guessed_slug": "tsuyokute-new-saga",
+    "guessed_slug": "be-stronger-new-saga",
     "season": 1,
     "type": "shows"
   },
@@ -27592,6 +27608,14 @@
     "type": "shows"
   },
   {
+    "title": "Yami Shibai 14",
+    "mal_id": 60410,
+    "trakt_id": 71821,
+    "guessed_slug": "yamishibai-japanese-ghost-stories",
+    "season": 14,
+    "type": "shows"
+  },
+  {
     "title": "Yami Shibai 2",
     "mal_id": 22537,
     "trakt_id": 71821,
@@ -27661,14 +27685,6 @@
     "trakt_id": 62229,
     "guessed_slug": "descendants-of-darkness",
     "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Yamishibai: Japanese Ghost Stories",
-    "mal_id": 60410,
-    "trakt_id": 71821,
-    "guessed_slug": "yamishibai-japanese-ghost-stories",
-    "season": 14,
     "type": "shows"
   },
   {
