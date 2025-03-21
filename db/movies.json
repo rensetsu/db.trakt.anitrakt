@@ -3405,7 +3405,7 @@
     "title": "Hanasaku Iroha Movie: Home Sweet Home",
     "mal_id": 14175,
     "trakt_id": 140271,
-    "guessed_slug": "hanasaku-iroha-home-sweet-home",
+    "guessed_slug": "hanasaku-iroha-the-movie-home-sweet-home",
     "type": "movies"
   },
   {
@@ -3790,7 +3790,7 @@
     "title": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
     "mal_id": 9032,
     "trakt_id": 82377,
-    "guessed_slug": "inazuma-eleven-the-movie-the-invasion-of-the-strongest-army-corps-ogre",
+    "guessed_slug": "inazuma-eleven-the-movie-the-ultimate-force-team-ogre-attacks",
     "type": "movies"
   },
   {
@@ -4105,7 +4105,7 @@
     "title": "Kaijuu 8-gou Movie",
     "mal_id": 59489,
     "trakt_id": 1084337,
-    "guessed_slug": "kaiju-no-8-compilation-movie",
+    "guessed_slug": "kaiju-no-8-mission-recon",
     "type": "movies"
   },
   {
@@ -4120,6 +4120,13 @@
     "mal_id": 37981,
     "trakt_id": 433110,
     "guessed_slug": "children-of-the-sea",
+    "type": "movies"
+  },
+  {
+    "title": "Kaitou Queen no Yuuga na Vacances",
+    "mal_id": 54705,
+    "trakt_id": 890503,
+    "guessed_slug": "mirage-queen-s-elegant-vacations",
     "type": "movies"
   },
   {
@@ -4641,6 +4648,13 @@
     "type": "movies"
   },
   {
+    "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+    "mal_id": 59897,
+    "trakt_id": 1109810,
+    "guessed_slug": "miss-kobayashi-s-dragon-maid-a-lonely-dragon-wants-to-be-loved",
+    "type": "movies"
+  },
+  {
     "title": "Koe no Katachi",
     "mal_id": 28851,
     "trakt_id": 225063,
@@ -5078,7 +5092,7 @@
     "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen",
     "mal_id": 55748,
     "trakt_id": 921290,
-    "guessed_slug": "lovelive-nijigasaki-high-school-idol-club-final-chapter-part-1",
+    "guessed_slug": "love-live-nijigasaki-high-school-idol-club-final-chapter-part-1",
     "type": "movies"
   },
   {
@@ -5894,6 +5908,13 @@
     "type": "movies"
   },
   {
+    "title": "Meitantei Conan Movie 28: Sekigan no Flashback",
+    "mal_id": 60445,
+    "trakt_id": 1142451,
+    "guessed_slug": "detective-conan-one-eyed-flashback",
+    "type": "movies"
+  },
+  {
     "title": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
     "mal_id": 53780,
     "trakt_id": 852380,
@@ -6282,21 +6303,21 @@
     "title": "New Initial D Movie: Legend 1 - Kakusei",
     "mal_id": 19613,
     "trakt_id": 169679,
-    "guessed_slug": "new-initial-d-the-movie-legend-1-awakening",
+    "guessed_slug": "initial-d-legend-1-awakening",
     "type": "movies"
   },
   {
     "title": "New Initial D Movie: Legend 2 - Tousou",
     "mal_id": 28881,
     "trakt_id": 202156,
-    "guessed_slug": "new-initial-d-the-movie-legend-2-racer",
+    "guessed_slug": "initial-d-legend-2-racer",
     "type": "movies"
   },
   {
     "title": "New Initial D Movie: Legend 3 - Mugen",
     "mal_id": 30952,
     "trakt_id": 224362,
-    "guessed_slug": "new-initial-d-the-movie-legend-3-dream",
+    "guessed_slug": "initial-d-legend-3-dream",
     "type": "movies"
   },
   {
@@ -7242,6 +7263,13 @@
     "mal_id": 41141,
     "trakt_id": 716606,
     "guessed_slug": "princess-principal-crown-handler-chapter-3",
+    "type": "movies"
+  },
+  {
+    "title": "Princess Principal: Crown Handler Movie 4",
+    "mal_id": 57093,
+    "trakt_id": 1176834,
+    "guessed_slug": "princess-principal-crown-handler-chapter-4",
     "type": "movies"
   },
   {
@@ -8246,6 +8274,13 @@
     "type": "movies"
   },
   {
+    "title": "Tabekko Doubutsu The Movie",
+    "mal_id": 61198,
+    "trakt_id": 1087821,
+    "guessed_slug": "tabekko-doubutsu-the-movie",
+    "type": "movies"
+  },
+  {
     "title": "Tabisuru Nuigurumi: Traveling Daru",
     "mal_id": 15077,
     "trakt_id": 89727,
@@ -8897,6 +8932,13 @@
     "type": "movies"
   },
   {
+    "title": "Uta no☆Prince-sama♪ Movie: Taboo Night Kisses",
+    "mal_id": 57622,
+    "trakt_id": 1185518,
+    "guessed_slug": "uta-no-prince-sama-movie-taboo-night-kisses",
+    "type": "movies"
+  },
+  {
     "title": "Utopa",
     "mal_id": 30920,
     "trakt_id": 280359,
@@ -8935,7 +8977,7 @@
     "title": "Violence Jack: Harem Bomber-hen",
     "mal_id": 1341,
     "trakt_id": 42524,
-    "guessed_slug": "violence-jack-harlem-bomber",
+    "guessed_slug": "violence-jack-harem-bomber",
     "type": "movies"
   },
   {
