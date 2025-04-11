@@ -3,7 +3,7 @@
     "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
     "mal_id": 53762,
     "trakt_id": 252825,
-    "guessed_slug": "compass-2-0-combat-providence-analysis-system",
+    "guessed_slug": "compass2-0-animation-project",
     "season": 1,
     "type": "shows"
   },
@@ -25147,7 +25147,7 @@
     "title": "Tenchi Muyou! Ryououki",
     "mal_id": 539,
     "trakt_id": 42777,
-    "guessed_slug": "tenchi-muyo-ryo-ohki",
+    "guessed_slug": "tenchi-muyo",
     "season": 1,
     "type": "shows"
   },
@@ -25155,7 +25155,7 @@
     "title": "Tenchi Muyou! Ryououki 2nd Season",
     "mal_id": 540,
     "trakt_id": 42777,
-    "guessed_slug": "tenchi-muyo-ryo-ohki",
+    "guessed_slug": "tenchi-muyo",
     "season": 2,
     "type": "shows"
   },
@@ -25163,7 +25163,7 @@
     "title": "Tenchi Muyou! Ryououki 3rd Season",
     "mal_id": 541,
     "trakt_id": 42777,
-    "guessed_slug": "tenchi-muyo-ryo-ohki",
+    "guessed_slug": "tenchi-muyo",
     "season": 3,
     "type": "shows"
   },
@@ -25716,14 +25716,6 @@
     "mal_id": 33341,
     "trakt_id": 108783,
     "guessed_slug": "time-travel-girl",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "To Be Hero",
-    "mal_id": 34009,
-    "trakt_id": 111667,
-    "guessed_slug": "to-be-hero",
     "season": 1,
     "type": "shows"
   },
@@ -26544,7 +26536,15 @@
     "type": "shows"
   },
   {
-    "title": "Tu Bian Ying Xiong Leaf",
+    "title": "Tu Bian Yingxiong Baba",
+    "mal_id": 34009,
+    "trakt_id": 111667,
+    "guessed_slug": "to-be-hero",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Tu Bian Yingxiong Leaf",
     "mal_id": 35044,
     "trakt_id": 111667,
     "guessed_slug": "to-be-hero",
@@ -27547,7 +27547,7 @@
     "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
     "mal_id": 16742,
     "trakt_id": 70831,
-    "guessed_slug": "watamote",
+    "guessed_slug": "watamote-no-matter-how-i-look-at-it-it-s-you-guys-fault-i-m-not-popular",
     "season": 1,
     "type": "shows"
   },
