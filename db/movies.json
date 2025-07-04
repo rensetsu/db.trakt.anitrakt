@@ -371,6 +371,13 @@
     "type": "movies"
   },
   {
+    "title": "As One",
+    "mal_id": 61139,
+    "trakt_id": 1184303,
+    "guessed_slug": "as-one",
+    "type": "movies"
+  },
+  {
     "title": "Asa made Jugyou Chu!",
     "mal_id": 12581,
     "trakt_id": 185745,
@@ -1078,6 +1085,13 @@
     "type": "movies"
   },
   {
+    "title": "ChaO",
+    "mal_id": 60774,
+    "trakt_id": 1160934,
+    "guessed_slug": "chao",
+    "type": "movies"
+  },
+  {
     "title": "Chain Chronicle: Haecceitas no Hikari Part 1",
     "mal_id": 33728,
     "trakt_id": 260280,
@@ -1096,6 +1110,13 @@
     "mal_id": 33730,
     "trakt_id": 272353,
     "guessed_slug": "chain-chronicle-the-light-of-haecceitas-movie-3",
+    "type": "movies"
+  },
+  {
+    "title": "Chainsaw Man Movie: Reze-hen",
+    "mal_id": 57555,
+    "trakt_id": 983519,
+    "guessed_slug": "chainsaw-man-the-movie-reze-arc",
     "type": "movies"
   },
   {
@@ -1572,6 +1593,13 @@
     "mal_id": 57499,
     "trakt_id": 985885,
     "guessed_slug": "crayon-shin-chan-the-movie-our-dinosaur-diary",
+    "type": "movies"
+  },
+  {
+    "title": "Crayon Shin-chan Movie 33: Chou Karei! Shakunetsu no Kasukabe Dancers",
+    "mal_id": 60862,
+    "trakt_id": 1148957,
+    "guessed_slug": "crayon-shin-chan-super-gorgeous-glow-kasukabe-dancer",
     "type": "movies"
   },
   {
@@ -2152,7 +2180,7 @@
     "title": "Doraemon Movie 44: Nobita no E Sekai Monogatari",
     "mal_id": 59980,
     "trakt_id": 1120922,
-    "guessed_slug": "doraemon-the-movie-nobita-s-art-world-tales",
+    "guessed_slug": "doraemon-nobita-no-esekai-monogatari",
     "type": "movies"
   },
   {
@@ -2447,13 +2475,6 @@
     "mal_id": 1106,
     "trakt_id": 54186,
     "guessed_slug": "eternal-family",
-    "type": "movies"
-  },
-  {
-    "title": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",
-    "mal_id": 376,
-    "trakt_id": 181281,
-    "guessed_slug": "elfen-lied-in-the-passing-rain",
     "type": "movies"
   },
   {
@@ -2790,6 +2811,13 @@
     "mal_id": 13335,
     "trakt_id": 127403,
     "guessed_slug": "fuse-memoirs-of-a-huntress",
+    "type": "movies"
+  },
+  {
+    "title": "Fushigi no Kuni de Alice to: Dive in Wonderland",
+    "mal_id": 60778,
+    "trakt_id": 1160593,
+    "guessed_slug": "alice-in-wonderland-dive-in-wonderland",
     "type": "movies"
   },
   {
@@ -3745,6 +3773,13 @@
     "type": "movies"
   },
   {
+    "title": "Hyakuemu.",
+    "mal_id": 58919,
+    "trakt_id": 1055305,
+    "guessed_slug": "100-meters",
+    "type": "movies"
+  },
+  {
     "title": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
     "mal_id": 54118,
     "trakt_id": 891612,
@@ -4557,6 +4592,13 @@
     "type": "movies"
   },
   {
+    "title": "King of Prism: Your Endless Call - Mi~nna Kirameki! Prism☆Tours",
+    "mal_id": 61120,
+    "trakt_id": 1234078,
+    "guessed_slug": "king-of-prism-your-endless-call-mi-nna-kirameki-prism-tours",
+    "type": "movies"
+  },
+  {
     "title": "Kingsglaive: Final Fantasy XV",
     "mal_id": 33082,
     "trakt_id": 233534,
@@ -4582,13 +4624,6 @@
     "mal_id": 2175,
     "trakt_id": 39424,
     "guessed_slug": "kino-s-journey-country-of-illness-for-you",
-    "type": "movies"
-  },
-  {
-    "title": "Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.",
-    "mal_id": 1379,
-    "trakt_id": 39423,
-    "guessed_slug": "kino-s-journey-life-goes-on",
     "type": "movies"
   },
   {
@@ -5964,6 +5999,13 @@
     "type": "movies"
   },
   {
+    "title": "Milky☆Highway",
+    "mal_id": 57925,
+    "trakt_id": 760653,
+    "guessed_slug": "milky-highway",
+    "type": "movies"
+  },
+  {
     "title": "Mimi wo Sumaseba",
     "mal_id": 585,
     "trakt_id": 24277,
@@ -6381,6 +6423,13 @@
     "mal_id": 50653,
     "trakt_id": 736425,
     "guessed_slug": "oddtaxi-in-the-woods",
+    "type": "movies"
+  },
+  {
+    "title": "Odekake Kozame Movie: Tokai no Otomodachi",
+    "mal_id": 58837,
+    "trakt_id": 1083970,
+    "guessed_slug": "odekake-kozame-movie",
     "type": "movies"
   },
   {
@@ -7868,6 +7917,13 @@
     "type": "movies"
   },
   {
+    "title": "Shinsei Galverse",
+    "mal_id": 61672,
+    "trakt_id": 1230160,
+    "guessed_slug": "shinsei-galverse",
+    "type": "movies"
+  },
+  {
     "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
     "mal_id": 32,
     "trakt_id": 11325,
@@ -8040,6 +8096,13 @@
     "mal_id": 2811,
     "trakt_id": 56684,
     "guessed_slug": "flying-phantom-ship",
+    "type": "movies"
+  },
+  {
+    "title": "Sore Ike! Anpanman: Chapon no Hero!",
+    "mal_id": 60962,
+    "trakt_id": 1234079,
+    "guessed_slug": "sore-ike-anpanman-chapon-no-hero",
     "type": "movies"
   },
   {
@@ -8236,13 +8299,6 @@
     "mal_id": 31765,
     "trakt_id": 258811,
     "guessed_slug": "sword-art-online-the-movie-ordinal-scale",
-    "type": "movies"
-  },
-  {
-    "title": "Sword Art Online: Extra Edition",
-    "mal_id": 20021,
-    "trakt_id": 156774,
-    "guessed_slug": "sword-art-online-extra-edition",
     "type": "movies"
   },
   {
@@ -8628,6 +8684,13 @@
     "mal_id": 2210,
     "trakt_id": 54266,
     "guessed_slug": "other-worlds",
+    "type": "movies"
+  },
+  {
+    "title": "Tooi-san wa Seishun Shitai! Baka to Smartphone to Romance to",
+    "mal_id": 61367,
+    "trakt_id": 1160296,
+    "guessed_slug": "tooi-san-wa-seishun-shitai-baka-to-smartphone-to-romance-to",
     "type": "movies"
   },
   {
@@ -9152,7 +9215,7 @@
     "title": "Youkai Watch Movie 5: Forever Friends",
     "mal_id": 37969,
     "trakt_id": 399810,
-    "guessed_slug": "yo-kai-watch-forever-friends",
+    "guessed_slug": "yo-kai-watch-friends-forever",
     "type": "movies"
   },
   {
@@ -9188,6 +9251,13 @@
     "mal_id": 33302,
     "trakt_id": 248044,
     "guessed_slug": "yowamushi-pedal-spare-bike",
+    "type": "movies"
+  },
+  {
+    "title": "Yubi wo Nusunda Onna",
+    "mal_id": 30862,
+    "trakt_id": 232954,
+    "guessed_slug": "woman-who-stole-fingers",
     "type": "movies"
   },
   {
