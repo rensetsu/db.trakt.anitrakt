@@ -1655,7 +1655,7 @@
     "title": "Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen",
     "mal_id": 48780,
     "trakt_id": 653775,
-    "guessed_slug": "dakaichi-i-m-being-harassed-by-the-sexiest-man-of-the-year-the-movie-in-spain",
+    "guessed_slug": "dakaichi-i-m-being-harassed-by-the-sexiest-man-of-the-year-the-movie-spain-arc",
     "type": "movies"
   },
   {
@@ -2180,7 +2180,7 @@
     "title": "Doraemon Movie 44: Nobita no E Sekai Monogatari",
     "mal_id": 59980,
     "trakt_id": 1120922,
-    "guessed_slug": "doraemon-nobita-no-esekai-monogatari",
+    "guessed_slug": "doraemon-the-movie-nobita-s-art-world-tales",
     "type": "movies"
   },
   {
@@ -2593,14 +2593,14 @@
     "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
     "mal_id": 38085,
     "trakt_id": 476675,
-    "guessed_slug": "fate-grand-order-the-movie-divine-realm-of-the-round-table-camelot-wandering-agateram",
+    "guessed_slug": "fate-grand-order-divine-realm-of-the-round-table-camelot-wandering-agateram",
     "type": "movies"
   },
   {
     "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram",
     "mal_id": 38086,
     "trakt_id": 476625,
-    "guessed_slug": "fate-grand-order-the-movie-divine-realm-of-the-round-table-camelot-paladin-agateram",
+    "guessed_slug": "fate-grand-order-divine-realm-of-the-round-table-camelot-paladin-agateram",
     "type": "movies"
   },
   {
@@ -5428,21 +5428,21 @@
     "title": "Lupin the IIIrd: Chikemuri no Ishikawa Goemon",
     "mal_id": 34021,
     "trakt_id": 260453,
-    "guessed_slug": "lupin-the-third-goemon-s-blood-spray",
+    "guessed_slug": "lupin-the-iiird-goemon-s-blood-spray",
     "type": "movies"
   },
   {
     "title": "Lupin the IIIrd: Jigen Daisuke no Bohyou",
     "mal_id": 23293,
     "trakt_id": 159629,
-    "guessed_slug": "lupin-the-third-jigen-s-gravestone",
+    "guessed_slug": "lupin-the-iiird-jigen-s-gravestone",
     "type": "movies"
   },
   {
     "title": "Lupin the IIIrd: Mine Fujiko no Uso",
     "mal_id": 39487,
     "trakt_id": 435029,
-    "guessed_slug": "lupin-the-third-fujiko-s-lie",
+    "guessed_slug": "lupin-the-iiird-fujiko-s-lie",
     "type": "movies"
   },
   {
@@ -6261,7 +6261,7 @@
     "title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
     "mal_id": 594,
     "trakt_id": 257782,
-    "guessed_slug": "naruto-ova-2-the-lost-story-mission-protect-the-waterfall-village",
+    "guessed_slug": "naruto-the-lost-story-mission-protect-the-waterfall-village",
     "type": "movies"
   },
   {
@@ -8694,7 +8694,7 @@
     "type": "movies"
   },
   {
-    "title": "Tori no Uta",
+    "title": "Tori no Uta (OVA)",
     "mal_id": 5819,
     "trakt_id": 44872,
     "guessed_slug": "bird-song",
