@@ -1680,7 +1680,15 @@
     "type": "shows"
   },
   {
-    "title": "Arknights: Reimei Zensou",
+    "title": "Arknights: Perish in Frost",
+    "mal_id": 53881,
+    "trakt_id": 192868,
+    "guessed_slug": "arknights",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Arknights: Prelude to Dawn",
     "mal_id": 50205,
     "trakt_id": 192868,
     "guessed_slug": "arknights",
@@ -1693,14 +1701,6 @@
     "trakt_id": 192868,
     "guessed_slug": "arknights",
     "season": 3,
-    "type": "shows"
-  },
-  {
-    "title": "Arknights: Touin Kiro",
-    "mal_id": 53881,
-    "trakt_id": 192868,
-    "guessed_slug": "arknights",
-    "season": 2,
     "type": "shows"
   },
   {
@@ -24651,7 +24651,7 @@
     "title": "Star Driver: Kagayaki no Takuto",
     "mal_id": 8934,
     "trakt_id": 36944,
-    "guessed_slug": "star-driver-takuto-of-the-radiance",
+    "guessed_slug": "star-driver",
     "season": 1,
     "type": "shows"
   },
@@ -26371,7 +26371,7 @@
     "title": "Tokkou",
     "mal_id": 916,
     "trakt_id": 14287,
-    "guessed_slug": "tokko-Te-公",
+    "guessed_slug": "tokko",
     "season": 1,
     "type": "shows"
   },
