@@ -1,4 +1,7 @@
-# aniTrakt-IndexParser
+# db.trakt.anitrakt
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/rensetsu/db.trakt.anitrakt?style=social)](https://github.com/rensetsu/db.trakt.anitrakt)
+[![GitHub Repo forks](https://img.shields.io/github/forks/rensetsu/db.trakt.anitrakt?style=social)](https://github.com/rensetsu/db.trakt.anitrakt/fork)
 
 A scraped table data from [AniTrakt by Huere](https://anitrakt.huere.net/) to
 get anime mappings on [MyAnimeList](https://myanimelist.net) and [Trakt](https://trakt.tv).
@@ -8,9 +11,18 @@ get anime mappings on [MyAnimeList](https://myanimelist.net) and [Trakt](https:/
 > **THIS REPO IS NOT OFFICIALLY SUPPORTED BY HUERE, MAL, or TRAKT.**
 
 If you used any contents from this repo in your project and found bugs or want
-to submit a suggestion, please send us [issues](https://github.com/ryuuganime/aniTrakt-IndexParser/issues).
+to submit a suggestion, please send us [issues](https://github.com/rensetsu/db.trakt.anitrakt/issues).
 
-To get the scraped data, go to [`db/`](db/) folder and download as raw.
+> [!NOTE]
+>
+> **Extended Database Available**
+>
+> For a more comprehensive dataset with richer metadata, please use
+> the [Extended Database](https://github.com/rensetsu/db.trakt.extended-anitrakt)
+> repo instead. The extended database includes release years, external IDs
+> (TMDB, TVDB, IMDb), and handles issues like `guessed_slug`. This repository
+> should primarily be used if you only need the basic mapping between MyAnimeList
+> and Trakt IDs.
 
 ## Data Structure
 
@@ -86,17 +98,38 @@ https://trakt.tv/{type}/{guessed_slug}-{year, see additional comment}
 
 ### Guessed Slug
 
-* Slug was guessed based on the English title of the anime from TMDB/Trakt end.
-* If you're unsure about the slug, you can use the `trakt_id` to get the correct
-  slug from the Trakt website. It's still works anyhow.
-* Title that is purely numerical will be nulled in the `guessed_slug` to avoid
-  unnecessary clash with Trakt server thought it's a Trakt integer ID.
-* Guessed slug **won't work** for movies unless you suffixed `-{year}` to the
-  slug manually. For example, if in the guessed slug is `your-name`, you should
-  change it to `your-name-2016` to get the correct movie.
-* Guessed slug generally works for shows, but it might not work for some shows
-  that have a similar name on Trakt. Please follow steps mentioned in the above
-  point to get the correct slug, or use the `trakt_id` instead.
+#### Recommendation
+
+For the most reliable and complete data, including accurate slugs, release
+years, and other metadata, it is **highly recommended** to use the **[Extended repo](https://github.com/rensetsu/db.trakt.extended-anitrakt)**.
+The extended database programmatically fetches the correct information directly
+from the Trakt.tv API, resolving the limitations described below.
+
+This repository is best suited for users who only require the basic mapping
+between MyAnimeList and Trakt IDs.
+
+#### `guessed_slug` Limitations
+
+If you choose to use this repository, please be aware of the following
+limitations regarding the `guessed_slug` field:
+
+* **Based on English Titles:** \
+   Slugs are generated from the presumed English title of the anime. This can
+   lead to inaccuracies if the title on Trakt.tv differs.
+* **Movies Require the Year:** \
+   The `guessed_slug` for movies is incomplete. Trakt.tv requires the release
+   year to be appended to the slug (e.g., `your-name-2016`). This information
+   is not included in this database.
+* **Potential for Mismatches:** \
+   While generally effective for TV shows, a `guessed_slug` might not work for
+   shows with similar names on Trakt.
+* **Non-alphabetical Titles:** \
+  Titles that are purely numerical or symbols have a `null` value for
+  `guessed_slug` to prevent conflicts with Trakt's numeric ID system.
+
+In cases where the `guessed_slug` is incorrect, you can always fall back to
+using the `trakt_id` to fetch the correct information directly from the
+Trakt.tv API.
 
 ### Additional File
 
