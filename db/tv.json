@@ -312,6 +312,22 @@
     "type": "shows"
   },
   {
+    "title": "[Oshi no Ko]",
+    "mal_id": 52034,
+    "trakt_id": 196091,
+    "guessed_slug": "oshi-no-ko",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "[Oshi no Ko] 2nd Season",
+    "mal_id": 55791,
+    "trakt_id": 196091,
+    "guessed_slug": "oshi-no-ko",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "A-Channel",
     "mal_id": 9776,
     "trakt_id": 62526,
@@ -356,70 +372,6 @@
     "mal_id": 39184,
     "trakt_id": 156037,
     "guessed_slug": "a3",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "ACCA: 13-ku Kansatsu-ka",
-    "mal_id": 33337,
-    "trakt_id": 113256,
-    "guessed_slug": "acca-13-territory-inspection-dept",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "AI no Idenshi",
-    "mal_id": 53787,
-    "trakt_id": 200530,
-    "guessed_slug": "the-gene-of-ai",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "AIKa",
-    "mal_id": 366,
-    "trakt_id": 43020,
-    "guessed_slug": "aika",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "AIKa R-16: Virgin Mission",
-    "mal_id": 2163,
-    "trakt_id": 43020,
-    "guessed_slug": "aika",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "AIKa Zero",
-    "mal_id": 6443,
-    "trakt_id": 43020,
-    "guessed_slug": "aika",
-    "season": 3,
-    "type": "shows"
-  },
-  {
-    "title": "AKB0048",
-    "mal_id": 12149,
-    "trakt_id": 45728,
-    "guessed_slug": "akb0048",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "AKB0048: Next Stage",
-    "mal_id": 14941,
-    "trakt_id": 45728,
-    "guessed_slug": "akb0048",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "ARP Backstage Pass",
-    "mal_id": 40137,
-    "trakt_id": 156867,
-    "guessed_slug": "arp-backstage-pass",
     "season": 1,
     "type": "shows"
   },
@@ -476,6 +428,14 @@
     "mal_id": 25397,
     "trakt_id": 79363,
     "guessed_slug": "absolute-duo",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "ACCA: 13-ku Kansatsu-ka",
+    "mal_id": 33337,
+    "trakt_id": 113256,
+    "guessed_slug": "acca-13-territory-inspection-dept",
     "season": 1,
     "type": "shows"
   },
@@ -640,6 +600,30 @@
     "type": "shows"
   },
   {
+    "title": "AI no Idenshi",
+    "mal_id": 53787,
+    "trakt_id": 200530,
+    "guessed_slug": "the-gene-of-ai",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Ai no Kusabi",
+    "mal_id": 719,
+    "trakt_id": 64593,
+    "guessed_slug": "ai-no-kusabi",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Ai no Kusabi (2012)",
+    "mal_id": 5784,
+    "trakt_id": 72000,
+    "guessed_slug": "ai-no-kusabi",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Ai Tenchi Muyou!",
     "mal_id": 24699,
     "trakt_id": 79667,
@@ -672,19 +656,27 @@
     "type": "shows"
   },
   {
-    "title": "Ai no Kusabi",
-    "mal_id": 719,
-    "trakt_id": 64593,
-    "guessed_slug": "ai-no-kusabi",
+    "title": "AIKa",
+    "mal_id": 366,
+    "trakt_id": 43020,
+    "guessed_slug": "aika",
     "season": 1,
     "type": "shows"
   },
   {
-    "title": "Ai no Kusabi (2012)",
-    "mal_id": 5784,
-    "trakt_id": 72000,
-    "guessed_slug": "ai-no-kusabi",
-    "season": 1,
+    "title": "AIKa R-16: Virgin Mission",
+    "mal_id": 2163,
+    "trakt_id": 43020,
+    "guessed_slug": "aika",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "AIKa Zero",
+    "mal_id": 6443,
+    "trakt_id": 43020,
+    "guessed_slug": "aika",
+    "season": 3,
     "type": "shows"
   },
   {
@@ -704,18 +696,18 @@
     "type": "shows"
   },
   {
-    "title": "Aikatsu Stars!",
-    "mal_id": 32717,
-    "trakt_id": 106488,
-    "guessed_slug": "aikatsu-stars",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Aikatsu on Parade!",
     "mal_id": 40266,
     "trakt_id": 153647,
     "guessed_slug": "aikatsu-on-parade",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Aikatsu Stars!",
+    "mal_id": 32717,
+    "trakt_id": 106488,
+    "guessed_slug": "aikatsu-stars",
     "season": 1,
     "type": "shows"
   },
@@ -848,6 +840,22 @@
     "type": "shows"
   },
   {
+    "title": "AKB0048",
+    "mal_id": 12149,
+    "trakt_id": 45728,
+    "guessed_slug": "akb0048",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "AKB0048: Next Stage",
+    "mal_id": 14941,
+    "trakt_id": 45728,
+    "guessed_slug": "akb0048",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Akebi-chan no Sailor-fuku",
     "mal_id": 48553,
     "trakt_id": 176674,
@@ -928,18 +936,18 @@
     "type": "shows"
   },
   {
-    "title": "Akuyaku Reijou Tensei Ojisan",
-    "mal_id": 57719,
-    "trakt_id": 251027,
-    "guessed_slug": "from-bureaucrat-to-villainess-dad-s-been-reincarnated",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
     "mal_id": 49979,
     "trakt_id": 190421,
     "guessed_slug": "i-m-the-villainess-so-i-m-taming-the-final-boss",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Akuyaku Reijou Tensei Ojisan",
+    "mal_id": 57719,
+    "trakt_id": 251027,
+    "guessed_slug": "from-bureaucrat-to-villainess-dad-s-been-reincarnated",
     "season": 1,
     "type": "shows"
   },
@@ -1128,19 +1136,19 @@
     "type": "shows"
   },
   {
-    "title": "Ame-iro Cocoa Series: Ame-con!!",
-    "mal_id": 35923,
-    "trakt_id": 97432,
-    "guessed_slug": "rainy-cocoa",
-    "season": 4,
-    "type": "shows"
-  },
-  {
     "title": "Ame-iro Cocoa in Hawaii",
     "mal_id": 33245,
     "trakt_id": 97432,
     "guessed_slug": "rainy-cocoa",
     "season": 3,
+    "type": "shows"
+  },
+  {
+    "title": "Ame-iro Cocoa Series: Ame-con!!",
+    "mal_id": 35923,
+    "trakt_id": 97432,
+    "guessed_slug": "rainy-cocoa",
+    "season": 4,
     "type": "shows"
   },
   {
@@ -1157,14 +1165,6 @@
     "trakt_id": 97432,
     "guessed_slug": "rainy-cocoa",
     "season": 5,
-    "type": "shows"
-  },
-  {
-    "title": "Ameku Takao no Suiri Karte",
-    "mal_id": 58600,
-    "trakt_id": 256236,
-    "guessed_slug": "ameku-m-d-doctor-detective",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -1376,14 +1376,6 @@
     "type": "shows"
   },
   {
-    "title": "Ao Oni The Animation",
-    "mal_id": 33814,
-    "trakt_id": 111489,
-    "guessed_slug": "ao-oni-the-blue-monster",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Ao no 6-gou",
     "mal_id": 1051,
     "trakt_id": 61139,
@@ -1460,6 +1452,14 @@
     "mal_id": 51614,
     "trakt_id": 200272,
     "guessed_slug": "blue-orchestra",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Ao Oni The Animation",
+    "mal_id": 33814,
+    "trakt_id": 111489,
+    "guessed_slug": "ao-oni-the-blue-monster",
     "season": 1,
     "type": "shows"
   },
@@ -1716,6 +1716,14 @@
     "mal_id": 59561,
     "trakt_id": 252307,
     "guessed_slug": "the-daily-life-of-a-middle-aged-online-shopper-in-another-world",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "ARP Backstage Pass",
+    "mal_id": 40137,
+    "trakt_id": 156867,
+    "guessed_slug": "arp-backstage-pass",
     "season": 1,
     "type": "shows"
   },
@@ -2008,6 +2016,14 @@
     "type": "shows"
   },
   {
+    "title": "B-gata H-kei",
+    "mal_id": 7817,
+    "trakt_id": 45713,
+    "guessed_slug": "yamada-s-first-time-b-gata-h-kei",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "B-Project: Kodou*Ambitious",
     "mal_id": 33046,
     "trakt_id": 108674,
@@ -2032,14 +2048,6 @@
     "type": "shows"
   },
   {
-    "title": "B-gata H-kei",
-    "mal_id": 7817,
-    "trakt_id": 45713,
-    "guessed_slug": "yamada-s-first-time-b-gata-h-kei",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "B: The Beginning",
     "mal_id": 32827,
     "trakt_id": 126125,
@@ -2053,22 +2061,6 @@
     "trakt_id": 126125,
     "guessed_slug": "b-the-beginning",
     "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "BAR Kiraware Yasai",
-    "mal_id": 29865,
-    "trakt_id": 98058,
-    "guessed_slug": "bar-kiraware-yasai",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "BNA",
-    "mal_id": 40060,
-    "trakt_id": 156177,
-    "guessed_slug": "bna-brand-new-animal",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -2328,6 +2320,38 @@
     "type": "shows"
   },
   {
+    "title": "Banana Fish",
+    "mal_id": 36649,
+    "trakt_id": 128367,
+    "guessed_slug": "banana-fish",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Bananya",
+    "mal_id": 32664,
+    "trakt_id": 108761,
+    "guessed_slug": "bananya",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Bananya: Around the World",
+    "mal_id": 59666,
+    "trakt_id": 108761,
+    "guessed_slug": "bananya",
+    "season": 3,
+    "type": "shows"
+  },
+  {
+    "title": "Bananya: Fushigi na Nakama-tachi",
+    "mal_id": 40228,
+    "trakt_id": 108761,
+    "guessed_slug": "bananya",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "BanG Dream!",
     "mal_id": 33573,
     "trakt_id": 113267,
@@ -2392,35 +2416,11 @@
     "type": "shows"
   },
   {
-    "title": "Banana Fish",
-    "mal_id": 36649,
-    "trakt_id": 128367,
-    "guessed_slug": "banana-fish",
+    "title": "BAR Kiraware Yasai",
+    "mal_id": 29865,
+    "trakt_id": 98058,
+    "guessed_slug": "bar-kiraware-yasai",
     "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Bananya",
-    "mal_id": 32664,
-    "trakt_id": 108761,
-    "guessed_slug": "bananya",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Bananya: Around the World",
-    "mal_id": 59666,
-    "trakt_id": 108761,
-    "guessed_slug": "bananya",
-    "season": 3,
-    "type": "shows"
-  },
-  {
-    "title": "Bananya: Fushigi na Nakama-tachi",
-    "mal_id": 40228,
-    "trakt_id": 108761,
-    "guessed_slug": "bananya",
-    "season": 2,
     "type": "shows"
   },
   {
@@ -3108,6 +3108,14 @@
     "mal_id": 47639,
     "trakt_id": 176157,
     "guessed_slug": "blue-reflection-ray",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "BNA",
+    "mal_id": 40060,
+    "trakt_id": 156177,
+    "guessed_slug": "bna-brand-new-animal",
     "season": 1,
     "type": "shows"
   },
@@ -4520,18 +4528,18 @@
     "type": "shows"
   },
   {
-    "title": "CoCO & NiCO",
-    "mal_id": 32944,
-    "trakt_id": 108764,
-    "guessed_slug": "coco-nico",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Cobra The Animation",
     "mal_id": 5032,
     "trakt_id": 61576,
     "guessed_slug": "cobra-the-animation",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "CoCO & NiCO",
+    "mal_id": 32944,
+    "trakt_id": 108764,
+    "guessed_slug": "coco-nico",
     "season": 1,
     "type": "shows"
   },
@@ -4812,22 +4820,6 @@
     "mal_id": 39681,
     "trakt_id": 167398,
     "guessed_slug": "d4dj",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "DNA²",
-    "mal_id": 563,
-    "trakt_id": 43150,
-    "guessed_slug": "dna²",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "DRAMAtical Murder",
-    "mal_id": 23333,
-    "trakt_id": 76837,
-    "guessed_slug": "dramatical-murder",
     "season": 1,
     "type": "shows"
   },
@@ -5536,6 +5528,14 @@
     "type": "shows"
   },
   {
+    "title": "DNA²",
+    "mal_id": 563,
+    "trakt_id": 43150,
+    "guessed_slug": "dna²",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Do It Yourself!!",
     "mal_id": 48542,
     "trakt_id": 179823,
@@ -5832,6 +5832,14 @@
     "type": "shows"
   },
   {
+    "title": "DRAMAtical Murder",
+    "mal_id": 23333,
+    "trakt_id": 76837,
+    "guessed_slug": "dramatical-murder",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Dream Festival!",
     "mal_id": 33045,
     "trakt_id": 111519,
@@ -6036,6 +6044,22 @@
     "mal_id": 52081,
     "trakt_id": 196271,
     "guessed_slug": "otaku-elf",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "ef: A Tale of Melodies.",
+    "mal_id": 4789,
+    "trakt_id": 61377,
+    "guessed_slug": "ef-a-tale-of-memories-melodies",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "ef: A Tale of Memories.",
+    "mal_id": 2924,
+    "trakt_id": 61377,
+    "guessed_slug": "ef-a-tale-of-memories-melodies",
     "season": 1,
     "type": "shows"
   },
@@ -6328,46 +6352,6 @@
     "type": "shows"
   },
   {
-    "title": "FLCL",
-    "mal_id": 227,
-    "trakt_id": 5857,
-    "guessed_slug": "flcl",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "FLCL Alternative",
-    "mal_id": 35842,
-    "trakt_id": 5857,
-    "guessed_slug": "flcl",
-    "season": 3,
-    "type": "shows"
-  },
-  {
-    "title": "FLCL Progressive",
-    "mal_id": 33010,
-    "trakt_id": 5857,
-    "guessed_slug": "flcl",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "FLCL: Grunge",
-    "mal_id": 51304,
-    "trakt_id": 5857,
-    "guessed_slug": "flcl",
-    "season": 4,
-    "type": "shows"
-  },
-  {
-    "title": "FLCL: Shoegaze",
-    "mal_id": 51305,
-    "trakt_id": 5857,
-    "guessed_slug": "flcl",
-    "season": 5,
-    "type": "shows"
-  },
-  {
     "title": "Fairy Gone",
     "mal_id": 39063,
     "trakt_id": 144191,
@@ -6456,22 +6440,6 @@
     "type": "shows"
   },
   {
-    "title": "Fate/Zero",
-    "mal_id": 10087,
-    "trakt_id": 74325,
-    "guessed_slug": "fate-zero",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Fate/Zero 2nd Season",
-    "mal_id": 11741,
-    "trakt_id": 74325,
-    "guessed_slug": "fate-zero",
-    "season": 2,
-    "type": "shows"
-  },
-  {
     "title": "Fate/kaleid liner Prisma☆Illya",
     "mal_id": 14829,
     "trakt_id": 70833,
@@ -6544,6 +6512,22 @@
     "type": "shows"
   },
   {
+    "title": "Fate/Zero",
+    "mal_id": 10087,
+    "trakt_id": 74325,
+    "guessed_slug": "fate-zero",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Fate/Zero 2nd Season",
+    "mal_id": 11741,
+    "trakt_id": 74325,
+    "guessed_slug": "fate-zero",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Fermat no Ryouri",
     "mal_id": 60697,
     "trakt_id": 275773,
@@ -6589,6 +6573,46 @@
     "trakt_id": 201192,
     "guessed_slug": "flaglia-story-of-summer-vacation",
     "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "FLCL",
+    "mal_id": 227,
+    "trakt_id": 5857,
+    "guessed_slug": "flcl",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "FLCL Alternative",
+    "mal_id": 35842,
+    "trakt_id": 5857,
+    "guessed_slug": "flcl",
+    "season": 3,
+    "type": "shows"
+  },
+  {
+    "title": "FLCL Progressive",
+    "mal_id": 33010,
+    "trakt_id": 5857,
+    "guessed_slug": "flcl",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "FLCL: Grunge",
+    "mal_id": 51304,
+    "trakt_id": 5857,
+    "guessed_slug": "flcl",
+    "season": 4,
+    "type": "shows"
+  },
+  {
+    "title": "FLCL: Shoegaze",
+    "mal_id": 51305,
+    "trakt_id": 5857,
+    "guessed_slug": "flcl",
+    "season": 5,
     "type": "shows"
   },
   {
@@ -7032,14 +7056,6 @@
     "type": "shows"
   },
   {
-    "title": "GJ-bu",
-    "mal_id": 14811,
-    "trakt_id": 68738,
-    "guessed_slug": "gj-club",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Ga-Rei: Zero",
     "mal_id": 4725,
     "trakt_id": 61156,
@@ -7384,6 +7400,22 @@
     "type": "shows"
   },
   {
+    "title": "gdgd Fairies",
+    "mal_id": 11809,
+    "trakt_id": 41918,
+    "guessed_slug": "gdgd-fairies",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "gdgd Fairies 2",
+    "mal_id": 16726,
+    "trakt_id": 41918,
+    "guessed_slug": "gdgd-fairies",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Gegege no Kitarou (2018)",
     "mal_id": 37140,
     "trakt_id": 127454,
@@ -7448,6 +7480,14 @@
     "type": "shows"
   },
   {
+    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+    "mal_id": 52214,
+    "trakt_id": 203743,
+    "guessed_slug": "yohane-the-parhelion-sunshine-in-the-mirror",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
     "mal_id": 41710,
     "trakt_id": 172424,
@@ -7461,14 +7501,6 @@
     "trakt_id": 172424,
     "guessed_slug": "how-a-realist-hero-rebuilt-the-kingdom",
     "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
-    "mal_id": 52214,
-    "trakt_id": 203743,
-    "guessed_slug": "yohane-the-parhelion-sunshine-in-the-mirror",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -7664,6 +7696,14 @@
     "type": "shows"
   },
   {
+    "title": "Ginga e Kickoff!!",
+    "mal_id": 12875,
+    "trakt_id": 43796,
+    "guessed_slug": "ginga-e-kickoff",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Ginga Eiyuu Densetsu",
     "mal_id": 820,
     "trakt_id": 61094,
@@ -7700,14 +7740,6 @@
     "mal_id": 61274,
     "trakt_id": 289665,
     "guessed_slug": "milky-subway-the-galactic-limited-express",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Ginga e Kickoff!!",
-    "mal_id": 12875,
-    "trakt_id": 43796,
-    "guessed_slug": "ginga-e-kickoff",
     "season": 1,
     "type": "shows"
   },
@@ -7780,6 +7812,14 @@
     "mal_id": 39533,
     "trakt_id": 145890,
     "guessed_slug": "given",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "GJ-bu",
+    "mal_id": 14811,
+    "trakt_id": 68738,
+    "guessed_slug": "gj-club",
     "season": 1,
     "type": "shows"
   },
@@ -9240,18 +9280,18 @@
     "type": "shows"
   },
   {
-    "title": "HenSemi (TV)",
-    "mal_id": 10187,
-    "trakt_id": 61958,
-    "guessed_slug": "abnormal-physiology-seminar",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Henjin no Salad Bowl",
     "mal_id": 55877,
     "trakt_id": 210665,
     "guessed_slug": "a-salad-bowl-of-eccentrics",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "HenSemi (TV)",
+    "mal_id": 10187,
+    "trakt_id": 61958,
+    "guessed_slug": "abnormal-physiology-seminar",
     "season": 1,
     "type": "shows"
   },
@@ -9952,6 +9992,30 @@
     "type": "shows"
   },
   {
+    "title": "Houkago no Breath",
+    "mal_id": 56218,
+    "trakt_id": 207844,
+    "guessed_slug": "pokemon-paldean-winds",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Houkago no Pleiades",
+    "mal_id": 9911,
+    "trakt_id": 61634,
+    "guessed_slug": "wish-upon-the-pleiades",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Houkago no Pleiades (TV)",
+    "mal_id": 17919,
+    "trakt_id": 61634,
+    "guessed_slug": "wish-upon-the-pleiades",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Houkago Saikoro Club",
     "mal_id": 38276,
     "trakt_id": 150265,
@@ -9981,30 +10045,6 @@
     "trakt_id": 155259,
     "guessed_slug": "diary-of-our-days-at-the-breakwater",
     "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Houkago no Breath",
-    "mal_id": 56218,
-    "trakt_id": 207844,
-    "guessed_slug": "pokemon-paldean-winds",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Houkago no Pleiades",
-    "mal_id": 9911,
-    "trakt_id": 61634,
-    "guessed_slug": "wish-upon-the-pleiades",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Houkago no Pleiades (TV)",
-    "mal_id": 17919,
-    "trakt_id": 61634,
-    "guessed_slug": "wish-upon-the-pleiades",
-    "season": 2,
     "type": "shows"
   },
   {
@@ -10240,10 +10280,74 @@
     "type": "shows"
   },
   {
+    "title": "Ichiban Ushiro no Daimaou",
+    "mal_id": 7088,
+    "trakt_id": 42190,
+    "guessed_slug": "demon-king-daimao",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Ichigo 100%",
+    "mal_id": 248,
+    "trakt_id": 42647,
+    "guessed_slug": "strawberry-100",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Ichigo Mashimaro",
+    "mal_id": 488,
+    "trakt_id": 61383,
+    "guessed_slug": "strawberry-marshmallow",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Iczer-Girl Iczelion",
+    "mal_id": 1831,
+    "trakt_id": 65756,
+    "guessed_slug": "iczer-girl-iczelion",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "ID-0",
     "mal_id": 33797,
     "trakt_id": 116881,
     "guessed_slug": "id-0",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Id:Invaded",
+    "mal_id": 40046,
+    "trakt_id": 153547,
+    "guessed_slug": "id-invaded",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Idol Jihen",
+    "mal_id": 34028,
+    "trakt_id": 113269,
+    "guessed_slug": "idol-incidents",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Idol Land PriPara",
+    "mal_id": 44376,
+    "trakt_id": 194309,
+    "guessed_slug": "idol-land-pripara",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Idol Memories",
+    "mal_id": 33572,
+    "trakt_id": 110245,
+    "guessed_slug": "idol-memories",
     "season": 1,
     "type": "shows"
   },
@@ -10288,90 +10392,18 @@
     "type": "shows"
   },
   {
-    "title": "IS: Infinite Stratos",
-    "mal_id": 9041,
-    "trakt_id": 61097,
-    "guessed_slug": "is-infinite-stratos",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "IS: Infinite Stratos 2",
-    "mal_id": 18247,
-    "trakt_id": 61097,
-    "guessed_slug": "is-infinite-stratos",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Ichiban Ushiro no Daimaou",
-    "mal_id": 7088,
-    "trakt_id": 42190,
-    "guessed_slug": "demon-king-daimao",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Ichigo 100%",
-    "mal_id": 248,
-    "trakt_id": 42647,
-    "guessed_slug": "strawberry-100",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Ichigo Mashimaro",
-    "mal_id": 488,
-    "trakt_id": 61383,
-    "guessed_slug": "strawberry-marshmallow",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Iczer-Girl Iczelion",
-    "mal_id": 1831,
-    "trakt_id": 65756,
-    "guessed_slug": "iczer-girl-iczelion",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Id:Invaded",
-    "mal_id": 40046,
-    "trakt_id": 153547,
-    "guessed_slug": "id-invaded",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Idol Jihen",
-    "mal_id": 34028,
-    "trakt_id": 113269,
-    "guessed_slug": "idol-incidents",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Idol Land PriPara",
-    "mal_id": 44376,
-    "trakt_id": 194309,
-    "guessed_slug": "idol-land-pripara",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Idol Memories",
-    "mal_id": 33572,
-    "trakt_id": 110245,
-    "guessed_slug": "idol-memories",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Idolls!",
     "mal_id": 42981,
     "trakt_id": 171443,
     "guessed_slug": "idolls",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "iDOLM@STER Xenoglossia",
+    "mal_id": 1694,
+    "trakt_id": 34068,
+    "guessed_slug": "idolm-ster-xenoglossia",
     "season": 1,
     "type": "shows"
   },
@@ -10728,14 +10760,6 @@
     "type": "shows"
   },
   {
-    "title": "InuYasha",
-    "mal_id": 249,
-    "trakt_id": 60942,
-    "guessed_slug": "inuyasha",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Inugami-san to Nekoyama-san",
     "mal_id": 22123,
     "trakt_id": 75830,
@@ -10748,6 +10772,14 @@
     "mal_id": 940,
     "trakt_id": 34659,
     "guessed_slug": "inukami",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "InuYasha",
+    "mal_id": 249,
+    "trakt_id": 60942,
+    "guessed_slug": "inuyasha",
     "season": 1,
     "type": "shows"
   },
@@ -10792,10 +10824,42 @@
     "type": "shows"
   },
   {
+    "title": "IS: Infinite Stratos",
+    "mal_id": 9041,
+    "trakt_id": 61097,
+    "guessed_slug": "is-infinite-stratos",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "IS: Infinite Stratos 2",
+    "mal_id": 18247,
+    "trakt_id": 61097,
+    "guessed_slug": "is-infinite-stratos",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Isekai Cheat Magician",
     "mal_id": 37744,
     "trakt_id": 147430,
     "guessed_slug": "isekai-cheat-magician",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+    "mal_id": 52830,
+    "trakt_id": 197609,
+    "guessed_slug": "i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
+    "mal_id": 52359,
+    "trakt_id": 203417,
+    "guessed_slug": "fluffy-paradise",
     "season": 1,
     "type": "shows"
   },
@@ -10836,6 +10900,14 @@
     "mal_id": 59130,
     "trakt_id": 270702,
     "guessed_slug": "apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Isekai no Seikishi Monogatari",
+    "mal_id": 5781,
+    "trakt_id": 63594,
+    "guessed_slug": "tenchi-muyo-war-on-geminar",
     "season": 1,
     "type": "shows"
   },
@@ -10912,46 +10984,6 @@
     "type": "shows"
   },
   {
-    "title": "Isekai Yakkyoku",
-    "mal_id": 49438,
-    "trakt_id": 194224,
-    "guessed_slug": "parallel-world-pharmacy",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-    "mal_id": 57380,
-    "trakt_id": 215690,
-    "guessed_slug": "a-journey-through-another-world-raising-kids-while-adventuring",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
-    "mal_id": 52830,
-    "trakt_id": 197609,
-    "guessed_slug": "i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
-    "mal_id": 52359,
-    "trakt_id": 203417,
-    "guessed_slug": "fluffy-paradise",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Isekai no Seikishi Monogatari",
-    "mal_id": 5781,
-    "trakt_id": 63594,
-    "guessed_slug": "tenchi-muyo-war-on-geminar",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Isekai wa Smartphone to Tomo ni.",
     "mal_id": 35203,
     "trakt_id": 120846,
@@ -10965,6 +10997,22 @@
     "trakt_id": 120846,
     "guessed_slug": "in-another-world-with-my-smartphone",
     "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Isekai Yakkyoku",
+    "mal_id": 49438,
+    "trakt_id": 194224,
+    "guessed_slug": "parallel-world-pharmacy",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+    "mal_id": 57380,
+    "trakt_id": 215690,
+    "guessed_slug": "a-journey-through-another-world-raising-kids-while-adventuring",
+    "season": 1,
     "type": "shows"
   },
   {
@@ -11124,14 +11172,6 @@
     "mal_id": 39725,
     "trakt_id": 170554,
     "guessed_slug": "i-chu-halfway-through-the-idol",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "JK Meshi!",
-    "mal_id": 31578,
-    "trakt_id": 102095,
-    "guessed_slug": "jk-meshi",
     "season": 1,
     "type": "shows"
   },
@@ -11428,6 +11468,14 @@
     "mal_id": 29785,
     "trakt_id": 99686,
     "guessed_slug": "actually-i-am",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "JK Meshi!",
+    "mal_id": 31578,
+    "trakt_id": 102095,
+    "guessed_slug": "jk-meshi",
     "season": 1,
     "type": "shows"
   },
@@ -11732,22 +11780,6 @@
     "mal_id": 27991,
     "trakt_id": 45546,
     "guessed_slug": "k",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "KJ File",
-    "mal_id": 51773,
-    "trakt_id": 196577,
-    "guessed_slug": "kj-file",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "KJ File 2nd Season",
-    "mal_id": 53231,
-    "trakt_id": 196577,
-    "guessed_slug": "kj-file",
     "season": 2,
     "type": "shows"
   },
@@ -12352,22 +12384,6 @@
     "type": "shows"
   },
   {
-    "title": "KanColle: Itsuka Ano Umi de",
-    "mal_id": 30455,
-    "trakt_id": 76603,
-    "guessed_slug": "kancolle-kantai-collection",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "KanColle: Itsuka Ano Umi de",
-    "mal_id": 30455,
-    "trakt_id": 198600,
-    "guessed_slug": "kancolle-see-you-again-on-another-quiet-blue-sea",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Kanata no Astra",
     "mal_id": 39198,
     "trakt_id": 145887,
@@ -12380,6 +12396,22 @@
     "mal_id": 60140,
     "trakt_id": 264925,
     "guessed_slug": "the-unaware-atelier-meister",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "KanColle: Itsuka Ano Umi de",
+    "mal_id": 30455,
+    "trakt_id": 76603,
+    "guessed_slug": "kancolle-kantai-collection",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "KanColle: Itsuka Ano Umi de",
+    "mal_id": 30455,
+    "trakt_id": 198600,
+    "guessed_slug": "kancolle-see-you-again-on-another-quiet-blue-sea",
     "season": 1,
     "type": "shows"
   },
@@ -12776,18 +12808,18 @@
     "type": "shows"
   },
   {
-    "title": "Kekkon Yubiwa Monogatari",
-    "mal_id": 54265,
-    "trakt_id": 201726,
-    "guessed_slug": "tales-of-wedding-rings",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Kekkon suru tte, Hontou desu ka",
     "mal_id": 55887,
     "trakt_id": 207189,
     "guessed_slug": "365-days-to-the-wedding",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Kekkon Yubiwa Monogatari",
+    "mal_id": 54265,
+    "trakt_id": 201726,
+    "guessed_slug": "tales-of-wedding-rings",
     "season": 1,
     "type": "shows"
   },
@@ -13240,18 +13272,18 @@
     "type": "shows"
   },
   {
-    "title": "Kill Me Baby",
-    "mal_id": 11079,
-    "trakt_id": 65264,
-    "guessed_slug": "kill-me-baby",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Kill la Kill",
     "mal_id": 18679,
     "trakt_id": 60293,
     "guessed_slug": "kill-la-kill",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Kill Me Baby",
+    "mal_id": 11079,
+    "trakt_id": 65264,
+    "guessed_slug": "kill-me-baby",
     "season": 1,
     "type": "shows"
   },
@@ -13732,6 +13764,22 @@
     "mal_id": 55775,
     "trakt_id": 202869,
     "guessed_slug": "kizuna-no-allele",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "KJ File",
+    "mal_id": 51773,
+    "trakt_id": 196577,
+    "guessed_slug": "kj-file",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "KJ File 2nd Season",
+    "mal_id": 53231,
+    "trakt_id": 196577,
+    "guessed_slug": "kj-file",
     "season": 2,
     "type": "shows"
   },
@@ -14720,30 +14768,6 @@
     "type": "shows"
   },
   {
-    "title": "Kyoukai Senki",
-    "mal_id": 48466,
-    "trakt_id": 180045,
-    "guessed_slug": "amaim-warrior-at-the-borderline",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Kyoukai Senki Part 2",
-    "mal_id": 50678,
-    "trakt_id": 180045,
-    "guessed_slug": "amaim-warrior-at-the-borderline",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Kyoukai Senki: Kyokkou no Souki",
-    "mal_id": 54495,
-    "trakt_id": 207044,
-    "guessed_slug": "amaim-warrior-at-the-borderline-ultrasteel-ogre-gear",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Kyoukai no Kanata",
     "mal_id": 18153,
     "trakt_id": 72706,
@@ -14773,6 +14797,30 @@
     "trakt_id": 94071,
     "guessed_slug": "rin-ne",
     "season": 3,
+    "type": "shows"
+  },
+  {
+    "title": "Kyoukai Senki",
+    "mal_id": 48466,
+    "trakt_id": 180045,
+    "guessed_slug": "amaim-warrior-at-the-borderline",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Kyoukai Senki Part 2",
+    "mal_id": 50678,
+    "trakt_id": 180045,
+    "guessed_slug": "amaim-warrior-at-the-borderline",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Kyoukai Senki: Kyokkou no Souki",
+    "mal_id": 54495,
+    "trakt_id": 207044,
+    "guessed_slug": "amaim-warrior-at-the-borderline-ultrasteel-ogre-gear",
+    "season": 1,
     "type": "shows"
   },
   {
@@ -15408,18 +15456,18 @@
     "type": "shows"
   },
   {
-    "title": "Lupin Zero",
-    "mal_id": 53414,
-    "trakt_id": 199190,
-    "guessed_slug": "lupin-zero",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Lupin the Third: Mine Fujiko to Iu Onna",
     "mal_id": 13203,
     "trakt_id": 45607,
     "guessed_slug": "lupin-the-third-the-woman-called-fujiko-mine",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Lupin Zero",
+    "mal_id": 53414,
+    "trakt_id": 199190,
+    "guessed_slug": "lupin-zero",
     "season": 1,
     "type": "shows"
   },
@@ -15460,30 +15508,6 @@
     "mal_id": 23133,
     "trakt_id": 76763,
     "guessed_slug": "m3-the-dark-metal",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "MF Ghost",
-    "mal_id": 50695,
-    "trakt_id": 198279,
-    "guessed_slug": "mf-ghost",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "MF Ghost 2nd Season",
-    "mal_id": 57559,
-    "trakt_id": 198279,
-    "guessed_slug": "mf-ghost",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "MM!",
-    "mal_id": 8424,
-    "trakt_id": 61067,
-    "guessed_slug": "mm",
     "season": 1,
     "type": "shows"
   },
@@ -15760,6 +15784,14 @@
     "type": "shows"
   },
   {
+    "title": "Mahou no Tenshi Creamy Mami",
+    "mal_id": 2044,
+    "trakt_id": 35376,
+    "guessed_slug": "magical-angel-creamy-mami",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Mahou Sensei Negima!",
     "mal_id": 157,
     "trakt_id": 8813,
@@ -15856,6 +15888,14 @@
     "type": "shows"
   },
   {
+    "title": "Mahou Shoujo ni Akogarete",
+    "mal_id": 54722,
+    "trakt_id": 210634,
+    "guessed_slug": "gushing-over-magical-girls",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Mahou Shoujo Ore",
     "mal_id": 36902,
     "trakt_id": 127676,
@@ -15884,22 +15924,6 @@
     "mal_id": 37979,
     "trakt_id": 138221,
     "guessed_slug": "magical-girl-spec-ops-asuka",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Mahou Shoujo ni Akogarete",
-    "mal_id": 54722,
-    "trakt_id": 210634,
-    "guessed_slug": "gushing-over-magical-girls",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Mahou no Tenshi Creamy Mami",
-    "mal_id": 2044,
-    "trakt_id": 35376,
-    "guessed_slug": "magical-angel-creamy-mami",
     "season": 1,
     "type": "shows"
   },
@@ -15940,30 +15964,6 @@
     "mal_id": 45572,
     "trakt_id": 171335,
     "guessed_slug": "the-honor-at-magic-high-school",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Mahoutsukai Precure!",
-    "mal_id": 31884,
-    "trakt_id": 104030,
-    "guessed_slug": "witchy-precure",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Mahoutsukai Precure!! Mirai Days",
-    "mal_id": 54717,
-    "trakt_id": 104030,
-    "guessed_slug": "witchy-precure",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Mahoutsukai Reimeiki",
-    "mal_id": 48842,
-    "trakt_id": 190403,
-    "guessed_slug": "the-dawn-of-the-witch",
     "season": 1,
     "type": "shows"
   },
@@ -16028,6 +16028,30 @@
     "mal_id": 48438,
     "trakt_id": 195004,
     "guessed_slug": "the-ancient-magus-bride-the-boy-from-the-west-and-the-knight-of-the-blue-storm",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Mahoutsukai Precure!",
+    "mal_id": 31884,
+    "trakt_id": 104030,
+    "guessed_slug": "witchy-precure",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Mahoutsukai Precure!! Mirai Days",
+    "mal_id": 54717,
+    "trakt_id": 104030,
+    "guessed_slug": "witchy-precure",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Mahoutsukai Reimeiki",
+    "mal_id": 48842,
+    "trakt_id": 190403,
+    "guessed_slug": "the-dawn-of-the-witch",
     "season": 1,
     "type": "shows"
   },
@@ -16728,18 +16752,18 @@
     "type": "shows"
   },
   {
-    "title": "Mayonaka Punch",
-    "mal_id": 57947,
-    "trakt_id": 221089,
-    "guessed_slug": "mayonaka-punch",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Mayonaka no Occult Koumuin",
     "mal_id": 37964,
     "trakt_id": 142988,
     "guessed_slug": "midnight-occult-civil-servants",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Mayonaka Punch",
+    "mal_id": 57947,
+    "trakt_id": 221089,
+    "guessed_slug": "mayonaka-punch",
     "season": 1,
     "type": "shows"
   },
@@ -16973,6 +16997,22 @@
     "trakt_id": 157576,
     "guessed_slug": "mewkledreamy",
     "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "MF Ghost",
+    "mal_id": 50695,
+    "trakt_id": 198279,
+    "guessed_slug": "mf-ghost",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "MF Ghost 2nd Season",
+    "mal_id": 57559,
+    "trakt_id": 198279,
+    "guessed_slug": "mf-ghost",
+    "season": 2,
     "type": "shows"
   },
   {
@@ -17272,6 +17312,14 @@
     "type": "shows"
   },
   {
+    "title": "MM!",
+    "mal_id": 8424,
+    "trakt_id": 61067,
+    "guessed_slug": "mm",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Mnemosyne: Mnemosyne no Musume-tachi",
     "mal_id": 3342,
     "trakt_id": 42726,
@@ -17296,6 +17344,14 @@
     "type": "shows"
   },
   {
+    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "mal_id": 57646,
+    "trakt_id": 228471,
+    "guessed_slug": "a-nobody-s-way-up-to-an-exploration-hero",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Mob Psycho 100",
     "mal_id": 32182,
     "trakt_id": 105481,
@@ -17317,14 +17373,6 @@
     "trakt_id": 105481,
     "guessed_slug": "mob-psycho-100",
     "season": 3,
-    "type": "shows"
-  },
-  {
-    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-    "mal_id": 57646,
-    "trakt_id": 228471,
-    "guessed_slug": "a-nobody-s-way-up-to-an-exploration-hero",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -17880,22 +17928,6 @@
     "type": "shows"
   },
   {
-    "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
-    "mal_id": 58082,
-    "trakt_id": 257661,
-    "guessed_slug": "i-m-living-with-an-otaku-neet-kunoichi",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "NHK ni Youkoso!",
-    "mal_id": 1210,
-    "trakt_id": 42595,
-    "guessed_slug": "welcome-to-the-n-h-k",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Na Nare Hana Nare",
     "mal_id": 57099,
     "trakt_id": 213049,
@@ -18240,6 +18272,14 @@
     "type": "shows"
   },
   {
+    "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+    "mal_id": 58082,
+    "trakt_id": 257661,
+    "guessed_slug": "i-m-living-with-an-otaku-neet-kunoichi",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "NegaPosi Angler",
     "mal_id": 59425,
     "trakt_id": 250684,
@@ -18360,6 +18400,14 @@
     "type": "shows"
   },
   {
+    "title": "NHK ni Youkoso!",
+    "mal_id": 1210,
+    "trakt_id": 42595,
+    "guessed_slug": "welcome-to-the-n-h-k",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Nichijou",
     "mal_id": 10165,
     "trakt_id": 62400,
@@ -18372,6 +18420,14 @@
     "mal_id": 800,
     "trakt_id": 28103,
     "guessed_slug": "niea-7",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Niehime to Kemono no Ou",
+    "mal_id": 46422,
+    "trakt_id": 194898,
+    "guessed_slug": "sacrificial-princess-and-the-king-of-beasts",
     "season": 1,
     "type": "shows"
   },
@@ -18389,14 +18445,6 @@
     "trakt_id": 193608,
     "guessed_slug": "nier-automata-ver1-1a",
     "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Niehime to Kemono no Ou",
-    "mal_id": 46422,
-    "trakt_id": 194898,
-    "guessed_slug": "sacrificial-princess-and-the-king-of-beasts",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -18464,8 +18512,8 @@
     "type": "shows"
   },
   {
-    "title": "Nijiyon Animation",
-    "mal_id": 0,
+    "title": "Nijiyon Animation 2",
+    "mal_id": 57623,
     "trakt_id": 198874,
     "guessed_slug": "nijiyon-animation",
     "season": 2,
@@ -18836,6 +18884,14 @@
     "mal_id": 40178,
     "trakt_id": 152337,
     "guessed_slug": "null-peta",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "number24",
+    "mal_id": 39583,
+    "trakt_id": 156247,
+    "guessed_slug": "number24",
     "season": 1,
     "type": "shows"
   },
@@ -19424,14 +19480,6 @@
     "type": "shows"
   },
   {
-    "title": "Ore Monogatari!!",
-    "mal_id": 28297,
-    "trakt_id": 94068,
-    "guessed_slug": "my-love-story",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Ore dake Haireru Kakushi Dungeon",
     "mal_id": 41899,
     "trakt_id": 167287,
@@ -19468,6 +19516,14 @@
     "mal_id": 36632,
     "trakt_id": 136139,
     "guessed_slug": "my-sister-my-writer",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Ore Monogatari!!",
+    "mal_id": 28297,
+    "trakt_id": 94068,
+    "guessed_slug": "my-love-story",
     "season": 1,
     "type": "shows"
   },
@@ -19680,14 +19736,6 @@
     "type": "shows"
   },
   {
-    "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
-    "mal_id": 50461,
-    "trakt_id": 191517,
-    "guessed_slug": "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
     "mal_id": 38555,
     "trakt_id": 154471,
@@ -19704,10 +19752,10 @@
     "type": "shows"
   },
   {
-    "title": "Otome Youkai Zakuro",
-    "mal_id": 8476,
-    "trakt_id": 36679,
-    "guessed_slug": "zakuro",
+    "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+    "mal_id": 50461,
+    "trakt_id": 191517,
+    "guessed_slug": "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs",
     "season": 1,
     "type": "shows"
   },
@@ -19725,6 +19773,14 @@
     "trakt_id": 63522,
     "guessed_slug": "otoboku-maidens-are-falling-for-me",
     "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Otome Youkai Zakuro",
+    "mal_id": 8476,
+    "trakt_id": 36679,
+    "guessed_slug": "zakuro",
+    "season": 1,
     "type": "shows"
   },
   {
@@ -19928,14 +19984,6 @@
     "type": "shows"
   },
   {
-    "title": "PES: Peace Eco Smile",
-    "mal_id": 13427,
-    "trakt_id": 67921,
-    "guessed_slug": "pes-peace-eco-smile",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Pan de Peace!",
     "mal_id": 31498,
     "trakt_id": 105218,
@@ -20076,6 +20124,14 @@
     "mal_id": 3366,
     "trakt_id": 61661,
     "guessed_slug": "persona-trinity-soul",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "PES: Peace Eco Smile",
+    "mal_id": 13427,
+    "trakt_id": 67921,
+    "guessed_slug": "pes-peace-eco-smile",
     "season": 1,
     "type": "shows"
   },
@@ -20432,22 +20488,6 @@
     "type": "shows"
   },
   {
-    "title": "PriPara",
-    "mal_id": 23135,
-    "trakt_id": 77980,
-    "guessed_slug": "pripara",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "PriPri Chii-chan!!",
-    "mal_id": 34799,
-    "trakt_id": 118276,
-    "guessed_slug": "pripri-chi-chan",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Prima Doll",
     "mal_id": 50917,
     "trakt_id": 193107,
@@ -20524,6 +20564,22 @@
     "mal_id": 59078,
     "trakt_id": 244200,
     "guessed_slug": "princession-orchestra",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "PriPara",
+    "mal_id": 23135,
+    "trakt_id": 77980,
+    "guessed_slug": "pripara",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "PriPri Chii-chan!!",
+    "mal_id": 34799,
+    "trakt_id": 118276,
+    "guessed_slug": "pripri-chi-chan",
     "season": 1,
     "type": "shows"
   },
@@ -20752,38 +20808,6 @@
     "type": "shows"
   },
   {
-    "title": "RDG: Red Data Girl",
-    "mal_id": 14921,
-    "trakt_id": 69868,
-    "guessed_slug": "red-data-girl",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "RErideD: Tokigoe no Derrida",
-    "mal_id": 35835,
-    "trakt_id": 136401,
-    "guessed_slug": "rerided-derrida-who-leaps-through-time",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "RPG Fudousan",
-    "mal_id": 48363,
-    "trakt_id": 184729,
-    "guessed_slug": "rpg-real-estate",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "RWBY: Hyousetsu Teikoku",
-    "mal_id": 51381,
-    "trakt_id": 194258,
-    "guessed_slug": "rwby-ice-queendom",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Radiant",
     "mal_id": 37202,
     "trakt_id": 127550,
@@ -20920,6 +20944,14 @@
     "type": "shows"
   },
   {
+    "title": "RDG: Red Data Girl",
+    "mal_id": 14921,
+    "trakt_id": 69868,
+    "guessed_slug": "red-data-girl",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Re-Kan!",
     "mal_id": 25859,
     "trakt_id": 94050,
@@ -20997,14 +21029,6 @@
     "trakt_id": 60931,
     "guessed_slug": "hamatora",
     "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "ReLIFE",
-    "mal_id": 30015,
-    "trakt_id": 101245,
-    "guessed_slug": "relife",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -21104,6 +21128,14 @@
     "type": "shows"
   },
   {
+    "title": "ReLIFE",
+    "mal_id": 30015,
+    "trakt_id": 101245,
+    "guessed_slug": "relife",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Renai Boukun",
     "mal_id": 32262,
     "trakt_id": 114700,
@@ -21132,6 +21164,14 @@
     "mal_id": 2369,
     "trakt_id": 34578,
     "guessed_slug": "rental-magica",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "RErideD: Tokigoe no Derrida",
+    "mal_id": 35835,
+    "trakt_id": 136401,
+    "guessed_slug": "rerided-derrida-who-leaps-through-time",
     "season": 1,
     "type": "shows"
   },
@@ -21496,6 +21536,14 @@
     "type": "shows"
   },
   {
+    "title": "RPG Fudousan",
+    "mal_id": 48363,
+    "trakt_id": 184729,
+    "guessed_slug": "rpg-real-estate",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Runway de Waratte",
     "mal_id": 40392,
     "trakt_id": 152894,
@@ -21525,6 +21573,14 @@
     "trakt_id": 198453,
     "guessed_slug": "rurouni-kenshin",
     "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "RWBY: Hyousetsu Teikoku",
+    "mal_id": 51381,
+    "trakt_id": 194258,
+    "guessed_slug": "rwby-ice-queendom",
+    "season": 1,
     "type": "shows"
   },
   {
@@ -21576,50 +21632,10 @@
     "type": "shows"
   },
   {
-    "title": "SD Gundam World Heroes",
-    "mal_id": 44041,
-    "trakt_id": 178047,
-    "guessed_slug": "sd-gundam-world-heroes",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "SKET Dance",
-    "mal_id": 9863,
-    "trakt_id": 42196,
-    "guessed_slug": "sket-dance",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "SK∞",
-    "mal_id": 42923,
-    "trakt_id": 167372,
-    "guessed_slug": "sk8-the-infinity",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "SNS Police",
-    "mal_id": 36623,
-    "trakt_id": 129370,
-    "guessed_slug": "sns-police",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "SSSS.Dynazenon",
-    "mal_id": 40870,
-    "trakt_id": 170397,
-    "guessed_slug": "ssss-dynazenon",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "SSSS.Gridman",
-    "mal_id": 35847,
-    "trakt_id": 133422,
-    "guessed_slug": "ssss-gridman",
+    "title": "s.CRY.ed",
+    "mal_id": 168,
+    "trakt_id": 42451,
+    "guessed_slug": "s-cry-ed",
     "season": 1,
     "type": "shows"
   },
@@ -21752,22 +21768,6 @@
     "type": "shows"
   },
   {
-    "title": "Saikyou Onmyouji no Isekai Tenseiki",
-    "mal_id": 50932,
-    "trakt_id": 197137,
-    "guessed_slug": "the-reincarnation-of-the-strongest-exorcist-in-another-world",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
-    "mal_id": 56845,
-    "trakt_id": 211009,
-    "guessed_slug": "the-strongest-tank-s-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-hero-s-party",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
     "mal_id": 60146,
     "trakt_id": 260369,
@@ -21780,6 +21780,22 @@
     "mal_id": 58714,
     "trakt_id": 247716,
     "guessed_slug": "the-most-notorious-talker-runs-the-world-s-greatest-clan",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Saikyou Onmyouji no Isekai Tenseiki",
+    "mal_id": 50932,
+    "trakt_id": 197137,
+    "guessed_slug": "the-reincarnation-of-the-strongest-exorcist-in-another-world",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
+    "mal_id": 56845,
+    "trakt_id": 211009,
+    "guessed_slug": "the-strongest-tank-s-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-hero-s-party",
     "season": 1,
     "type": "shows"
   },
@@ -22304,6 +22320,14 @@
     "type": "shows"
   },
   {
+    "title": "SD Gundam World Heroes",
+    "mal_id": 44041,
+    "trakt_id": 178047,
+    "guessed_slug": "sd-gundam-world-heroes",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Seihou Bukyou Outlaw Star",
     "mal_id": 400,
     "trakt_id": 34956,
@@ -22384,18 +22408,18 @@
     "type": "shows"
   },
   {
-    "title": "Seiken Tsukai no World Break",
-    "mal_id": 22663,
-    "trakt_id": 80993,
-    "guessed_slug": "world-break-aria-of-curse-for-a-holy-swordsman",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Seiken no Blacksmith",
     "mal_id": 5940,
     "trakt_id": 61399,
     "guessed_slug": "the-sacred-blacksmith",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Seiken Tsukai no World Break",
+    "mal_id": 22663,
+    "trakt_id": 80993,
+    "guessed_slug": "world-break-aria-of-curse-for-a-holy-swordsman",
     "season": 1,
     "type": "shows"
   },
@@ -22496,22 +22520,6 @@
     "type": "shows"
   },
   {
-    "title": "Seitokai Yakuindomo",
-    "mal_id": 8675,
-    "trakt_id": 36541,
-    "guessed_slug": "seitokai-yakuindomo",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Seitokai Yakuindomo*",
-    "mal_id": 20847,
-    "trakt_id": 36541,
-    "guessed_slug": "seitokai-yakuindomo",
-    "season": 2,
-    "type": "shows"
-  },
-  {
     "title": "Seitokai no Ichizon",
     "mal_id": 5909,
     "trakt_id": 56419,
@@ -22524,6 +22532,22 @@
     "mal_id": 10464,
     "trakt_id": 56419,
     "guessed_slug": "student-council-s-discretion",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Seitokai Yakuindomo",
+    "mal_id": 8675,
+    "trakt_id": 36541,
+    "guessed_slug": "seitokai-yakuindomo",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Seitokai Yakuindomo*",
+    "mal_id": 20847,
+    "trakt_id": 36541,
+    "guessed_slug": "seitokai-yakuindomo",
     "season": 2,
     "type": "shows"
   },
@@ -22568,22 +22592,6 @@
     "type": "shows"
   },
   {
-    "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
-    "mal_id": 47790,
-    "trakt_id": 175074,
-    "guessed_slug": "the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Sekai Seifuku: Bouryaku no Zvezda",
-    "mal_id": 20973,
-    "trakt_id": 74208,
-    "guessed_slug": "world-conquest-zvezda-plot",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Sekai de Ichiban Tsuyoku Naritai!",
     "mal_id": 11763,
     "trakt_id": 72249,
@@ -22604,6 +22612,22 @@
     "mal_id": 35069,
     "trakt_id": 117953,
     "guessed_slug": "the-world-yamizukan",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+    "mal_id": 47790,
+    "trakt_id": 175074,
+    "guessed_slug": "the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Sekai Seifuku: Bouryaku no Zvezda",
+    "mal_id": 20973,
+    "trakt_id": 74208,
+    "guessed_slug": "world-conquest-zvezda-plot",
     "season": 1,
     "type": "shows"
   },
@@ -23296,6 +23320,22 @@
     "type": "shows"
   },
   {
+    "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+    "mal_id": 44037,
+    "trakt_id": 178617,
+    "guessed_slug": "banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
+    "mal_id": 53488,
+    "trakt_id": 178617,
+    "guessed_slug": "banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Shin Sakura Taisen the Animation",
     "mal_id": 40403,
     "trakt_id": 156537,
@@ -23364,22 +23404,6 @@
     "mal_id": 55570,
     "trakt_id": 196697,
     "guessed_slug": "the-prince-of-tennis-ii-u-17-world-cup",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
-    "mal_id": 44037,
-    "trakt_id": 178617,
-    "guessed_slug": "banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
-    "mal_id": 53488,
-    "trakt_id": 178617,
-    "guessed_slug": "banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside",
     "season": 2,
     "type": "shows"
   },
@@ -24008,14 +24032,6 @@
     "type": "shows"
   },
   {
-    "title": "Shuumatsu Train Doko e Iku?",
-    "mal_id": 53356,
-    "trakt_id": 199009,
-    "guessed_slug": "train-to-the-end-of-the-world",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Shuumatsu no Harem",
     "mal_id": 41946,
     "trakt_id": 167228,
@@ -24053,6 +24069,14 @@
     "trakt_id": 171086,
     "guessed_slug": "record-of-ragnarok",
     "season": 3,
+    "type": "shows"
+  },
+  {
+    "title": "Shuumatsu Train Doko e Iku?",
+    "mal_id": 53356,
+    "trakt_id": 199009,
+    "guessed_slug": "train-to-the-end-of-the-world",
+    "season": 1,
     "type": "shows"
   },
   {
@@ -24120,6 +24144,14 @@
     "type": "shows"
   },
   {
+    "title": "SKET Dance",
+    "mal_id": 9863,
+    "trakt_id": 42196,
+    "guessed_slug": "sket-dance",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Skip Beat!",
     "mal_id": 4722,
     "trakt_id": 61854,
@@ -24148,6 +24180,14 @@
     "mal_id": 2604,
     "trakt_id": 45836,
     "guessed_slug": "sky-girls",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "SK∞",
+    "mal_id": 42923,
+    "trakt_id": 167372,
+    "guessed_slug": "sk8-the-infinity",
     "season": 1,
     "type": "shows"
   },
@@ -24204,6 +24244,14 @@
     "mal_id": 55636,
     "trakt_id": 211195,
     "guessed_slug": "snack-basue",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "SNS Police",
+    "mal_id": 36623,
+    "trakt_id": 129370,
+    "guessed_slug": "sns-police",
     "season": 1,
     "type": "shows"
   },
@@ -24640,6 +24688,22 @@
     "type": "shows"
   },
   {
+    "title": "SSSS.Dynazenon",
+    "mal_id": 40870,
+    "trakt_id": 170397,
+    "guessed_slug": "ssss-dynazenon",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "SSSS.Gridman",
+    "mal_id": 35847,
+    "trakt_id": 133422,
+    "guessed_slug": "ssss-gridman",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Stand My Heroes: Piece of Truth",
     "mal_id": 38331,
     "trakt_id": 145678,
@@ -24760,6 +24824,14 @@
     "type": "shows"
   },
   {
+    "title": "Strike the Blood",
+    "mal_id": 18277,
+    "trakt_id": 72041,
+    "guessed_slug": "strike-the-blood",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Strike Witches",
     "mal_id": 3667,
     "trakt_id": 61062,
@@ -24789,14 +24861,6 @@
     "trakt_id": 108699,
     "guessed_slug": "tsukiuta-the-animation",
     "season": 3,
-    "type": "shows"
-  },
-  {
-    "title": "Strike the Blood",
-    "mal_id": 18277,
-    "trakt_id": 72041,
-    "guessed_slug": "strike-the-blood",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -25120,30 +25184,6 @@
     "type": "shows"
   },
   {
-    "title": "TV Yarou Nanaana",
-    "mal_id": 38549,
-    "trakt_id": 138234,
-    "guessed_slug": "wacky-tv-na-na-na",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
-    "mal_id": 41401,
-    "trakt_id": 138234,
-    "guessed_slug": "wacky-tv-na-na-na",
-    "season": 3,
-    "type": "shows"
-  },
-  {
-    "title": "TV Yarou Nanaana: Wakuwaku Doukutsu Land",
-    "mal_id": 39581,
-    "trakt_id": 138234,
-    "guessed_slug": "wacky-tv-na-na-na",
-    "season": 2,
-    "type": "shows"
-  },
-  {
     "title": "Tabi Machi Late Show",
     "mal_id": 32309,
     "trakt_id": 104585,
@@ -25304,6 +25344,14 @@
     "type": "shows"
   },
   {
+    "title": "Tales of the Abyss",
+    "mal_id": 4884,
+    "trakt_id": 61992,
+    "guessed_slug": "tales-of-the-abyss",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Tales of Zestiria the Cross",
     "mal_id": 30911,
     "trakt_id": 107411,
@@ -25317,14 +25365,6 @@
     "trakt_id": 107411,
     "guessed_slug": "tales-of-zestiria-the-x",
     "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Tales of the Abyss",
-    "mal_id": 4884,
-    "trakt_id": 61992,
-    "guessed_slug": "tales-of-the-abyss",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -25728,6 +25768,14 @@
     "type": "shows"
   },
   {
+    "title": "Tenkuu no Escaflowne",
+    "mal_id": 182,
+    "trakt_id": 8733,
+    "guessed_slug": "vision-of-escaflowne",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Tenkuu Senki Shurato",
     "mal_id": 2113,
     "trakt_id": 63306,
@@ -25740,14 +25788,6 @@
     "mal_id": 43690,
     "trakt_id": 168850,
     "guessed_slug": "high-rise-invasion",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Tenkuu no Escaflowne",
-    "mal_id": 182,
-    "trakt_id": 8733,
-    "guessed_slug": "vision-of-escaflowne",
     "season": 1,
     "type": "shows"
   },
@@ -25928,6 +25968,14 @@
     "type": "shows"
   },
   {
+    "title": "Terra e... (TV)",
+    "mal_id": 2158,
+    "trakt_id": 61054,
+    "guessed_slug": "toward-the-terra",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Terra Formars",
     "mal_id": 22687,
     "trakt_id": 76761,
@@ -25941,14 +25989,6 @@
     "trakt_id": 76761,
     "guessed_slug": "terra-formars",
     "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Terra e... (TV)",
-    "mal_id": 2158,
-    "trakt_id": 61054,
-    "guessed_slug": "toward-the-terra",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -26056,38 +26096,6 @@
     "type": "shows"
   },
   {
-    "title": "The Legend of Heroes: Sen no Kiseki - Northern War",
-    "mal_id": 48441,
-    "trakt_id": 193167,
-    "guessed_slug": "the-legend-of-heroes-trails-of-cold-steel-northern-war",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "The Marginal Service",
-    "mal_id": 53587,
-    "trakt_id": 199718,
-    "guessed_slug": "the-marginal-service",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "The New Gate",
-    "mal_id": 57100,
-    "trakt_id": 219553,
-    "guessed_slug": "the-new-gate",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "The Reflection",
-    "mal_id": 34449,
-    "trakt_id": 118269,
-    "guessed_slug": "the-reflection",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "The iDOLM@STER",
     "mal_id": 10278,
     "trakt_id": 63471,
@@ -26148,6 +26156,38 @@
     "mal_id": 34915,
     "trakt_id": 122777,
     "guessed_slug": "the-idolm-ster-side-m",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "The Legend of Heroes: Sen no Kiseki - Northern War",
+    "mal_id": 48441,
+    "trakt_id": 193167,
+    "guessed_slug": "the-legend-of-heroes-trails-of-cold-steel-northern-war",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "The Marginal Service",
+    "mal_id": 53587,
+    "trakt_id": 199718,
+    "guessed_slug": "the-marginal-service",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "The New Gate",
+    "mal_id": 57100,
+    "trakt_id": 219553,
+    "guessed_slug": "the-new-gate",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "The Reflection",
+    "mal_id": 34449,
+    "trakt_id": 118269,
+    "guessed_slug": "the-reflection",
     "season": 1,
     "type": "shows"
   },
@@ -27120,6 +27160,30 @@
     "type": "shows"
   },
   {
+    "title": "TV Yarou Nanaana",
+    "mal_id": 38549,
+    "trakt_id": 138234,
+    "guessed_slug": "wacky-tv-na-na-na",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+    "mal_id": 41401,
+    "trakt_id": 138234,
+    "guessed_slug": "wacky-tv-na-na-na",
+    "season": 3,
+    "type": "shows"
+  },
+  {
+    "title": "TV Yarou Nanaana: Wakuwaku Doukutsu Land",
+    "mal_id": 39581,
+    "trakt_id": 138234,
+    "guessed_slug": "wacky-tv-na-na-na",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Twin Angel Break",
     "mal_id": 33532,
     "trakt_id": 117401,
@@ -27140,62 +27204,6 @@
     "mal_id": 4066,
     "trakt_id": 34542,
     "guessed_slug": "tytania",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "UFO Princess Valkyrie",
-    "mal_id": 1127,
-    "trakt_id": 34002,
-    "guessed_slug": "ufo-ultramaiden-valkyrie",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku",
-    "mal_id": 1128,
-    "trakt_id": 34002,
-    "guessed_slug": "ufo-ultramaiden-valkyrie",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "UFO Princess Valkyrie 3: Seiresetsu no Hanayome",
-    "mal_id": 1514,
-    "trakt_id": 34002,
-    "guessed_slug": "ufo-ultramaiden-valkyrie",
-    "season": 3,
-    "type": "shows"
-  },
-  {
-    "title": "UFO Princess Valkyrie 4: Toki to Yume to Ginga no Utage",
-    "mal_id": 1648,
-    "trakt_id": 34002,
-    "guessed_slug": "ufo-ultramaiden-valkyrie",
-    "season": 4,
-    "type": "shows"
-  },
-  {
-    "title": "UFO Robo Grendizer",
-    "mal_id": 1985,
-    "trakt_id": 45995,
-    "guessed_slug": "ufo-robot-grendizer",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "UQ Holder! Mahou Sensei Negima! 2",
-    "mal_id": 33478,
-    "trakt_id": 122660,
-    "guessed_slug": "uq-holder",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
-    "mal_id": 39942,
-    "trakt_id": 156719,
-    "guessed_slug": "uchitama-have-you-seen-my-tama",
     "season": 1,
     "type": "shows"
   },
@@ -27232,6 +27240,14 @@
     "type": "shows"
   },
   {
+    "title": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
+    "mal_id": 39942,
+    "trakt_id": 156719,
+    "guessed_slug": "uchitama-have-you-seen-my-tama",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Uchouten Kazoku",
     "mal_id": 17909,
     "trakt_id": 70754,
@@ -27252,6 +27268,14 @@
     "mal_id": 1000,
     "trakt_id": 31576,
     "guessed_slug": "space-pirate-captain-harlock",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Uchuu no Kishi Tekkaman Blade",
+    "mal_id": 1459,
+    "trakt_id": 9108,
+    "guessed_slug": "tekkaman-blade",
     "season": 1,
     "type": "shows"
   },
@@ -27312,14 +27336,6 @@
     "type": "shows"
   },
   {
-    "title": "Uchuu no Kishi Tekkaman Blade",
-    "mal_id": 1459,
-    "trakt_id": 9108,
-    "guessed_slug": "tekkaman-blade",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Uchuujin MuuMuu",
     "mal_id": 60401,
     "trakt_id": 265351,
@@ -27348,6 +27364,46 @@
     "mal_id": 37920,
     "trakt_id": 138257,
     "guessed_slug": "how-clumsy-you-are-miss-ueno",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "UFO Princess Valkyrie",
+    "mal_id": 1127,
+    "trakt_id": 34002,
+    "guessed_slug": "ufo-ultramaiden-valkyrie",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku",
+    "mal_id": 1128,
+    "trakt_id": 34002,
+    "guessed_slug": "ufo-ultramaiden-valkyrie",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "UFO Princess Valkyrie 3: Seiresetsu no Hanayome",
+    "mal_id": 1514,
+    "trakt_id": 34002,
+    "guessed_slug": "ufo-ultramaiden-valkyrie",
+    "season": 3,
+    "type": "shows"
+  },
+  {
+    "title": "UFO Princess Valkyrie 4: Toki to Yume to Ginga no Utage",
+    "mal_id": 1648,
+    "trakt_id": 34002,
+    "guessed_slug": "ufo-ultramaiden-valkyrie",
+    "season": 4,
+    "type": "shows"
+  },
+  {
+    "title": "UFO Robo Grendizer",
+    "mal_id": 1985,
+    "trakt_id": 45995,
+    "guessed_slug": "ufo-robot-grendizer",
     "season": 1,
     "type": "shows"
   },
@@ -27508,6 +27564,14 @@
     "mal_id": 12317,
     "trakt_id": 44942,
     "guessed_slug": "upotte",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "UQ Holder! Mahou Sensei Negima! 2",
+    "mal_id": 33478,
+    "trakt_id": 122660,
+    "guessed_slug": "uq-holder",
     "season": 1,
     "type": "shows"
   },
@@ -27736,14 +27800,6 @@
     "type": "shows"
   },
   {
-    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-    "mal_id": 54284,
-    "trakt_id": 207029,
-    "guessed_slug": "vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Val x Love",
     "mal_id": 39799,
     "trakt_id": 152660,
@@ -27776,6 +27832,14 @@
     "type": "shows"
   },
   {
+    "title": "Vampire in the Garden",
+    "mal_id": 39518,
+    "trakt_id": 165739,
+    "guessed_slug": "vampire-in-the-garden",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Vampire Knight",
     "mal_id": 3457,
     "trakt_id": 17078,
@@ -27789,14 +27853,6 @@
     "trakt_id": 17078,
     "guessed_slug": "vampire-knight",
     "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "Vampire in the Garden",
-    "mal_id": 39518,
-    "trakt_id": 165739,
-    "guessed_slug": "vampire-in-the-garden",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -27864,14 +27920,6 @@
     "type": "shows"
   },
   {
-    "title": "ViVid Strike!",
-    "mal_id": 33589,
-    "trakt_id": 110246,
-    "guessed_slug": "vivid-strike",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Video Girl Ai",
     "mal_id": 201,
     "trakt_id": 22331,
@@ -27928,6 +27976,14 @@
     "type": "shows"
   },
   {
+    "title": "ViVid Strike!",
+    "mal_id": 33589,
+    "trakt_id": 110246,
+    "guessed_slug": "vivid-strike",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Vividred Operation",
     "mal_id": 14283,
     "trakt_id": 68736,
@@ -27952,26 +28008,18 @@
     "type": "shows"
   },
   {
+    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "mal_id": 54284,
+    "trakt_id": 207029,
+    "guessed_slug": "vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "W'z",
     "mal_id": 37509,
     "trakt_id": 138217,
     "guessed_slug": "w-z",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "WIXOSS Diva(A)Live",
-    "mal_id": 41521,
-    "trakt_id": 167447,
-    "guessed_slug": "wixoss-diva-a-live",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "WWW.Working!!",
-    "mal_id": 33094,
-    "trakt_id": 111749,
-    "guessed_slug": "www-wagnaria",
     "season": 1,
     "type": "shows"
   },
@@ -28264,6 +28312,14 @@
     "type": "shows"
   },
   {
+    "title": "WIXOSS Diva(A)Live",
+    "mal_id": 41521,
+    "trakt_id": 167447,
+    "guessed_slug": "wixoss-diva-a-live",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Wizard Barristers: Benmashi Cecil",
     "mal_id": 20053,
     "trakt_id": 74209,
@@ -28416,6 +28472,14 @@
     "type": "shows"
   },
   {
+    "title": "WWW.Working!!",
+    "mal_id": 33094,
+    "trakt_id": 111749,
+    "guessed_slug": "www-wagnaria",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "X",
     "mal_id": 156,
     "trakt_id": 3231,
@@ -28453,6 +28517,22 @@
     "trakt_id": 158197,
     "guessed_slug": "the-daily-life-of-the-immortal-king",
     "season": 3,
+    "type": "shows"
+  },
+  {
+    "title": "xxxHOLiC",
+    "mal_id": 861,
+    "trakt_id": 36094,
+    "guessed_slug": "xxxholic",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "xxxHOLiC◆Kei",
+    "mal_id": 3091,
+    "trakt_id": 36094,
+    "guessed_slug": "xxxholic",
+    "season": 2,
     "type": "shows"
   },
   {
@@ -28600,6 +28680,14 @@
     "type": "shows"
   },
   {
+    "title": "Yami no Matsuei",
+    "mal_id": 553,
+    "trakt_id": 62229,
+    "guessed_slug": "descendants-of-darkness",
+    "season": 1,
+    "type": "shows"
+  },
+  {
     "title": "Yami Shibai",
     "mal_id": 19383,
     "trakt_id": 71821,
@@ -28717,14 +28805,6 @@
     "trakt_id": 71821,
     "guessed_slug": "yamishibai-japanese-ghost-stories",
     "season": 9,
-    "type": "shows"
-  },
-  {
-    "title": "Yami no Matsuei",
-    "mal_id": 553,
-    "trakt_id": 62229,
-    "guessed_slug": "descendants-of-darkness",
-    "season": 1,
     "type": "shows"
   },
   {
@@ -29360,22 +29440,6 @@
     "type": "shows"
   },
   {
-    "title": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
-    "mal_id": 52046,
-    "trakt_id": 196181,
-    "guessed_slug": "beast-tamer",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
-    "mal_id": 59424,
-    "trakt_id": 277202,
-    "guessed_slug": "scooped-up-by-an-s-rank-adventurer",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Yuusha ga Shinda!",
     "mal_id": 51706,
     "trakt_id": 195117,
@@ -29388,6 +29452,22 @@
     "mal_id": 18677,
     "trakt_id": 72703,
     "guessed_slug": "i-couldn-t-become-a-hero-so-i-reluctantly-decided-to-get-a-job",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+    "mal_id": 52046,
+    "trakt_id": 196181,
+    "guessed_slug": "beast-tamer",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
+    "mal_id": 59424,
+    "trakt_id": 277202,
+    "guessed_slug": "scooped-up-by-an-s-rank-adventurer",
     "season": 1,
     "type": "shows"
   },
@@ -29693,94 +29773,6 @@
     "trakt_id": 270636,
     "guessed_slug": "betrothed-to-my-sister-s-ex",
     "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "[Oshi no Ko]",
-    "mal_id": 52034,
-    "trakt_id": 196091,
-    "guessed_slug": "oshi-no-ko",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "[Oshi no Ko] 2nd Season",
-    "mal_id": 55791,
-    "trakt_id": 196091,
-    "guessed_slug": "oshi-no-ko",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "ef: A Tale of Melodies.",
-    "mal_id": 4789,
-    "trakt_id": 61377,
-    "guessed_slug": "ef-a-tale-of-memories-melodies",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "ef: A Tale of Memories.",
-    "mal_id": 2924,
-    "trakt_id": 61377,
-    "guessed_slug": "ef-a-tale-of-memories-melodies",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "gdgd Fairies",
-    "mal_id": 11809,
-    "trakt_id": 41918,
-    "guessed_slug": "gdgd-fairies",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "gdgd Fairies 2",
-    "mal_id": 16726,
-    "trakt_id": 41918,
-    "guessed_slug": "gdgd-fairies",
-    "season": 2,
-    "type": "shows"
-  },
-  {
-    "title": "iDOLM@STER Xenoglossia",
-    "mal_id": 1694,
-    "trakt_id": 34068,
-    "guessed_slug": "idolm-ster-xenoglossia",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "number24",
-    "mal_id": 39583,
-    "trakt_id": 156247,
-    "guessed_slug": "number24",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "s.CRY.ed",
-    "mal_id": 168,
-    "trakt_id": 42451,
-    "guessed_slug": "s-cry-ed",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "xxxHOLiC",
-    "mal_id": 861,
-    "trakt_id": 36094,
-    "guessed_slug": "xxxholic",
-    "season": 1,
-    "type": "shows"
-  },
-  {
-    "title": "xxxHOLiC◆Kei",
-    "mal_id": 3091,
-    "trakt_id": 36094,
-    "guessed_slug": "xxxholic",
-    "season": 2,
     "type": "shows"
   },
   {
