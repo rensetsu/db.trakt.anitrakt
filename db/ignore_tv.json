@@ -1,0 +1,31 @@
+[
+  {
+    "source": "remote",
+    "type": "ALL",
+    "conditions": [
+      {
+        "mal_id": 58600
+      }
+    ],
+    "description": "Do not process Ameku M.D. on entries with same ID, use overwrite instead"
+  },
+  {
+    "source": "all",
+    "type": "ANY",
+    "conditions": [
+      {
+        "mal_id": 0
+      },
+      {
+        "mal_id": null
+      },
+      {
+        "trakt_id": 0
+      },
+      {
+        "trakt_id": null
+      }
+    ],
+    "description": "Ignore all shows with invalid IDs"
+  }
+]

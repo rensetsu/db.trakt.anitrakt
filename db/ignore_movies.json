@@ -1,0 +1,27 @@
+[
+  {
+    "source": "all",
+    "type": "ANY",
+    "conditions": [
+      {"mal_id": 0},
+      {"mal_id": null},
+      {"trakt_id": 0},
+      {"trakt_id": null}
+    ],
+    "description": "Ignore all movies with invalid IDs"
+  },
+  {
+    "source": "remote",
+    "type": "ANY",
+    "conditions": [
+      {"mal_id": 50532},
+      {"mal_id": 986},
+      {"mal_id": 12231},
+      {"mal_id": 32051},
+      {"mal_id": 2020},
+      {"mal_id": 31704},
+      {"mal_id": 28285}
+    ],
+    "description": "It's a special/OVA titles, which can be found in their TV show entry, special season"
+  }
+]
