@@ -1,1 +1,26 @@
-[]
+[
+    {
+    "title": "Nijiyon Animation",
+    "mal_id": 53077,
+    "trakt_id": 198874,
+    "guessed_slug": "nijiyon-animation",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Nijiyon Animation 2",
+    "mal_id": 57623,
+    "trakt_id": 198874,
+    "guessed_slug": "nijiyon-animation",
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Ameku Takao no Suiri Karte",
+    "mal_id": 58600,
+    "trakt_id": 233930,
+    "guessed_slug": "ameku-m-d-doctor-detective",
+    "season": 1,
+    "type": "shows"
+  }
+]
