@@ -24,6 +24,13 @@ to submit a suggestion, please send us [issues](https://github.com/rensetsu/db.t
 > should primarily be used if you only need the basic mapping between MyAnimeList
 > and Trakt IDs.
 
+## Features
+
+- **Intelligent Filtering**: Configurable ignore rules with support for AND/OR logic  
+- **Data Overwriting**: Manual overrides for specific entries via overwrite files
+- **Error Handling**: Robust error handling with custom exception hierarchy
+- **Modular Architecture**: Clean, maintainable code structure with separated concerns
+
 ## Data Structure
 
 | Key Name | Type | Description |
@@ -31,7 +38,7 @@ to submit a suggestion, please send us [issues](https://github.com/rensetsu/db.t
 | `title` | `string` | The title of the anime |
 | `mal_id` | `int` | MyAnimeList ID of the anime |
 | `trakt_id` | `int` | Trakt ID of the show/movie |
-| `guessed_slug` | `string \| null` | Guessed slug of the anime, see [comments](#additional-comment) for additional context |
+| `guessed_slug` | `string \| null` | Guessed slug of the anime, see [comments](#guessed-slug) for additional context |
 | `type` | `Enum["shows", "movies"]` | Type of the anime |
 | `season` | `int` | Season number of the anime, only for `type == "shows"` |
 
@@ -66,7 +73,7 @@ to submit a suggestion, please send us [issues](https://github.com/rensetsu/db.t
 ]
 ```
 
-To construct to a link, you can use the following format:
+To construct a link, you can use the following format:
 
 ```text
 https://trakt.tv/{type}/{guessed_slug}/seasons/{season}
@@ -88,42 +95,247 @@ https://trakt.tv/{type}/{guessed_slug}/seasons/{season}
 ]
 ```
 
-To construct to a link, you can use the following format:
+To construct a link, you can use the following format:
 
 ```text
 https://trakt.tv/{type}/{guessed_slug}-{year, see additional comment}
 ```
 
-## Additional Comment
+## Configuration Files
 
-### Guessed Slug
+### Ignore Rules (`db/ignore_movies.json` & `db/ignore_tv.json`)
 
-#### Recommendation
+The parser supports intelligent filtering through ignore rule files. These
+rules allow you to exclude specific items from the final dataset based on
+various criteria.
+
+#### Structure
+
+```jsonc
+[
+  {
+    "source": "remote|all",
+    "type": "OR|AND|ANY|ALL", 
+    "conditions": [
+      {
+        "field_name": "value_to_match"
+      }
+    ],
+    "description": "Human-readable description of the rule"
+  }
+]
+```
+
+#### Source Types
+
+- **`remote`**: Applied immediately after parsing the AniTrakt database
+- **`all`**: Applied after overwrite processing (but overwrite items are protected)
+
+#### Rule Types
+
+- **`OR`/`ANY`**: Match if **any** condition is true
+- **`AND`/`ALL`**: Match if **all** conditions are true
+
+#### Supported Fields
+
+You can create conditions based on any field in the data structure:
+
+- `title` - Exact title match
+- `mal_id` - MyAnimeList ID (supports `null` for missing IDs)
+- `trakt_id` - Trakt ID (supports `null` for missing IDs)
+- `guessed_slug` - Generated slug
+- `season` - Season number (shows only)
+- `type` - Media type ("movies" or "shows")
+
+If multiple fields exists inside one condition statement, it will behave as
+`AND`.
+
+#### Example Ignore Rules
+
+```jsonc
+[
+  {
+    "source": "all",
+    "type": "ANY",
+    "conditions": [
+      { "mal_id": 0 },
+      { "mal_id": null },
+      { "trakt_id": 0 },
+      { "trakt_id": null }
+    ],
+    "description": "Ignore items with invalid IDs"
+  },
+  {
+    "source": "remote", 
+    "type": "ANY",
+    "conditions": [
+      { "mal_id": 50532 },
+      { "mal_id": 986 },
+      { "mal_id": 12231 },
+      { "mal_id": 32051 },
+      { "mal_id": 2020 },
+      { "mal_id": 31704 },
+      { "mal_id": 28285 }
+    ],
+    "description": "Special/OVA titles found in TV show entries"
+  },
+  {
+    "source": "all",
+    "type": "AND",
+    "conditions": [
+      { "type": "movies" },
+      { "guessed_slug": null }
+    ],
+    "description": "Remove movies without valid slugs"
+  }
+]
+```
+
+### Overwrite Files (`db/overwrite_movies.json` & `db/overwrite_tv.json`)
+
+These files contain manual additions or corrections to the scraped data. Items
+in overwrite files are **protected from "all" source ignore rules** but still
+subject to "remote" source filtering.
+
+#### Use Cases
+
+- Add missing entries not found in AniTrakt database
+- Correct incorrect mappings or metadata
+- Override titles with better translations
+- Add custom entries for special cases
+
+#### Example Overwrite
+
+```jsonc
+[
+  {
+    "title": "Nijiyon Animation 2",
+    "mal_id": 57623,
+    "trakt_id": 198874,
+    "guessed_slug": "nijiyon-animation", 
+    "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Ameku Takao no Suiri Karte",
+    "mal_id": 58600,
+    "trakt_id": 233930,
+    "guessed_slug": "ameku-m-d-doctor-detective",
+    "season": 1,
+    "type": "shows"
+  }
+]
+```
+
+## Processing Pipeline
+
+The parser follows this sequence to ensure data integrity:
+
+1. **Fetch & Parse**: Scrape data from AniTrakt website
+2. **Remote Filtering**: Apply ignore rules with `"source": "remote"`
+3. **Overwrite Processing**: Merge/replace items from overwrite files
+4. **Final Filtering**: Apply ignore rules with `"source": "all"` (overwrite items are protected)
+5. **Sorting & Output**: Sort alphabetically by title (case-insensitive) and save to JSON files
+
+### Data Flow Diagram
+
+```mermaid
+graph TD
+    A[AniTrakt Website] --> B[HTML Parser]
+    B --> C[Remote Filtering]
+    C --> D[Overwrite Processing]
+    D --> E[Protected Items]
+    D --> F[Regular Items]
+    F --> G[Final Filtering]
+    E --> H[Merge Protected + Filtered]
+    G --> H
+    H --> I[Sort Alphabetically]
+    I --> J[Save to JSON]
+```
+
+## Usage
+
+### Prerequisites
+
+```bash
+pip install requests beautifulsoup4
+```
+
+### Running the Parser
+
+```bash
+python main.py
+```
+
+The parser will automatically:
+- Fetch the latest data from AniTrakt
+- Apply all configured filters and overwrites
+- Generate sorted JSON output files
+- Create a timestamp file for tracking updates
+
+### Output Files
+
+| File | Description |
+|------|-------------|
+| `db/movies.json` | Movie mappings (sorted alphabetically) |
+| `db/tv.json` | TV show mappings (sorted alphabetically) |
+| `updated.txt` | Last successful update timestamp (UTC) |
+| `movies.html` | Cached HTML from AniTrakt movies page |
+| `shows.html` | Cached HTML from AniTrakt shows page |
+
+### Configuration Files (Optional)
+
+| File | Purpose |
+|------|---------|
+| `db/ignore_movies.json` | Ignore rules for movies |
+| `db/ignore_tv.json` | Ignore rules for TV shows |
+| `db/overwrite_movies.json` | Manual overrides for movies |
+| `db/overwrite_tv.json` | Manual overrides for TV shows |
+
+## Architecture
+
+The refactored codebase follows a modular architecture:
+
+- **`FileManager`**: Handles all file I/O operations with UTF-8 support
+- **`FilterEngine`**: Processes ignore rules with AND/OR logic
+- **`DataManager`**: Manages data merging and overwriting
+- **`HTMLParser`**: Scrapes and parses AniTrakt website data
+- **`AniTraktParser`**: Main orchestrator coordinating all components
+- **`TextUtils`**: Text processing utilities for slugification
+- **Custom Exceptions**: Proper error handling hierarchy
+
+## Guessed Slug
+
+### Recommendation
 
 For the most reliable and complete data, including accurate slugs, release
-years, and other metadata, it is **highly recommended** to use the **[Extended repo](https://github.com/rensetsu/db.trakt.extended-anitrakt)**.
+years, and other metadata, it is **highly recommended** to use the
+**[Extended repo](https://github.com/rensetsu/db.trakt.extended-anitrakt)**.
 The extended database programmatically fetches the correct information directly
 from the Trakt.tv API, resolving the limitations described below.
 
 This repository is best suited for users who only require the basic mapping
 between MyAnimeList and Trakt IDs.
 
-#### `guessed_slug` Limitations
+### `guessed_slug` Limitations
 
 If you choose to use this repository, please be aware of the following
 limitations regarding the `guessed_slug` field:
 
-* **Based on English Titles:** \
-   Slugs are generated from the presumed English title of the anime. This can
-   lead to inaccuracies if the title on Trakt.tv differs.
-* **Movies Require the Year:** \
-   The `guessed_slug` for movies is incomplete. Trakt.tv requires the release
-   year to be appended to the slug (e.g., `your-name-2016`). This information
-   is not included in this database.
-* **Potential for Mismatches:** \
-   While generally effective for TV shows, a `guessed_slug` might not work for
-   shows with similar names on Trakt.
-* **Non-alphabetical Titles:** \
+* **Based on English Titles**: \
+  Slugs are generated from the presumed English title of the anime. This can
+  lead to inaccuracies if the title on Trakt.tv differs.
+
+* **Movies Require the Year**: \
+  The `guessed_slug` for movies is incomplete. Trakt.tv requires the release
+  year to be appended to the slug (e.g., `your-name-2016`). This information is
+  not included in this database.
+
+* **Potential for Mismatches**: \
+  While generally effective for TV shows, a `guessed_slug` might not work for
+  shows with similar names on Trakt as well.
+
+* **Non-alphabetical Titles**: \
   Titles that are purely numerical or symbols have a `null` value for
   `guessed_slug` to prevent conflicts with Trakt's numeric ID system.
 
@@ -131,7 +343,21 @@ In cases where the `guessed_slug` is incorrect, you can always fall back to
 using the `trakt_id` to fetch the correct information directly from the
 Trakt.tv API.
 
-### Additional File
+## Contributing
 
-In `db/` folder, you might encounter some files started with `overwrite_`. This
-file contains pure rules from this repo to overwrite the existing data in the database.
+We welcome contributions! Here's how to get started:
+
+1. **Fork the repository**
+2. **Create your feature branch**: `git checkout -b feature/amazing-feature`
+3. **Configure ignore rules or overwrite files** as needed
+4. **Test your changes**: `python main.py`
+5. **Commit your changes**: `git commit -m 'Add amazing feature'`
+6. **Push to the branch**: `git push origin feature/amazing-feature`
+7. **Open a Pull Request**
+
+### Contribution Guidelines
+
+- Ensure all new features include appropriate logging
+- Test ignore rules and overwrite files thoroughly
+- Update documentation for any new configuration options
+- Follow the existing code style and architecture patterns
