@@ -154,6 +154,13 @@
     "type": "movies"
   },
   {
+    "title": "Aikatsu! × PriPara THE MOVIE -A Miraculous Encounter!-",
+    "mal_id": 61558,
+    "trakt_id": 1203934,
+    "guessed_slug": "aikatsu-pripara-the-movie-a-miraculous-encounter",
+    "type": "movies"
+  },
+  {
     "title": "Air Movie",
     "mal_id": 713,
     "trakt_id": 26809,
@@ -1298,21 +1305,21 @@
     "title": "Code Geass: Hangyaku no Lelouch I - Koudou",
     "mal_id": 34438,
     "trakt_id": 324891,
-    "guessed_slug": "code-geass-lelouch-of-the-rebellion-initiation",
+    "guessed_slug": "code-geass-lelouch-of-the-rebellion-i-initiation",
     "type": "movies"
   },
   {
     "title": "Code Geass: Hangyaku no Lelouch II - Handou",
     "mal_id": 34439,
     "trakt_id": 324892,
-    "guessed_slug": "code-geass-lelouch-of-the-rebellion-transgression",
+    "guessed_slug": "code-geass-lelouch-of-the-rebellion-ii-transgression",
     "type": "movies"
   },
   {
     "title": "Code Geass: Hangyaku no Lelouch III - Oudou",
     "mal_id": 34440,
     "trakt_id": 324893,
-    "guessed_slug": "code-geass-lelouch-of-the-rebellion-glorification",
+    "guessed_slug": "code-geass-lelouch-of-the-rebellion-iii-glorification",
     "type": "movies"
   },
   {
@@ -1512,7 +1519,7 @@
     "type": "movies"
   },
   {
-    "title": "Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki",
+    "title": "Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daishuugeki",
     "mal_id": 27653,
     "trakt_id": 224223,
     "guessed_slug": "crayon-shin-chan-my-moving-story-cactus-large-attack",
@@ -1592,7 +1599,7 @@
     "title": "Crayon Shin-chan Movie 33: Chou Karei! Shakunetsu no Kasukabe Dancers",
     "mal_id": 60862,
     "trakt_id": 1148957,
-    "guessed_slug": "crayon-shin-chan-super-gorgeous-glow-kasukabe-dancer",
+    "guessed_slug": "crayon-shin-chan-the-movie-the-spicy-kasukabe-dancers-in-india",
     "type": "movies"
   },
   {
@@ -1767,7 +1774,7 @@
     "title": "Digimon Adventure 02 Movies",
     "mal_id": 2962,
     "trakt_id": 71247,
-    "guessed_slug": "digimon-adventure-02-hurricane-touchdown-the-golden-digimentals",
+    "guessed_slug": "hurricane-touchdown",
     "type": "movies"
   },
   {
@@ -1836,15 +1843,15 @@
   {
     "title": "Digimon Adventure: Bokura no War Game!",
     "mal_id": 2397,
-    "trakt_id": 55721,
-    "guessed_slug": "digimon-adventure-our-war-game",
+    "trakt_id": 12563,
+    "guessed_slug": "digimon-the-movie",
     "type": "movies"
   },
   {
     "title": "Digimon Adventure: Bokura no War Game!",
     "mal_id": 2397,
-    "trakt_id": 12563,
-    "guessed_slug": "digimon-the-movie",
+    "trakt_id": 55721,
+    "guessed_slug": "our-war-game",
     "type": "movies"
   },
   {
@@ -2775,7 +2782,7 @@
     "title": "Fullmetal Alchemist: The Sacred Star of Milos",
     "mal_id": 9135,
     "trakt_id": 59959,
-    "guessed_slug": "fullmetal-alchemist-the-movie-the-sacred-star-of-milos",
+    "guessed_slug": "fullmetal-alchemist-the-sacred-star-of-milos",
     "type": "movies"
   },
   {
@@ -3055,7 +3062,7 @@
     "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
     "mal_id": 15335,
     "trakt_id": 149651,
-    "guessed_slug": "gintama-the-movie-2-the-final-chapter-be-forever-yorozuya",
+    "guessed_slug": "gintama-the-movie-the-final-chapter-be-forever-yorozuya",
     "type": "movies"
   },
   {
@@ -3097,28 +3104,35 @@
     "title": "Girls & Panzer: Saishuushou Part 1",
     "mal_id": 33970,
     "trakt_id": 322261,
-    "guessed_slug": "girls-und-panzer-das-finale-part-i",
+    "guessed_slug": "girls-und-panzer-das-finale-part-1",
     "type": "movies"
   },
   {
     "title": "Girls & Panzer: Saishuushou Part 2",
     "mal_id": 38081,
     "trakt_id": 343794,
-    "guessed_slug": "girls-und-panzer-das-finale-part-ii",
+    "guessed_slug": "girls-und-panzer-das-finale-part-2",
     "type": "movies"
   },
   {
     "title": "Girls & Panzer: Saishuushou Part 3",
     "mal_id": 39166,
     "trakt_id": 587065,
-    "guessed_slug": "girls-und-panzer-das-finale-part-iii",
+    "guessed_slug": "girls-und-panzer-das-finale-part-3",
     "type": "movies"
   },
   {
     "title": "Girls & Panzer: Saishuushou Part 4",
     "mal_id": 39167,
     "trakt_id": 845913,
-    "guessed_slug": "girls-und-panzer-das-finale-part-iv",
+    "guessed_slug": "girls-und-panzer-das-finale-part-4",
+    "type": "movies"
+  },
+  {
+    "title": "Girls Band Cry Compilation Movie: Seishun Kyōsōkyoku",
+    "mal_id": 59817,
+    "trakt_id": 1170700,
+    "guessed_slug": "girls-band-cry-compilation-movie-seishun-kyosokyoku",
     "type": "movies"
   },
   {
@@ -3126,6 +3140,13 @@
     "mal_id": 40421,
     "trakt_id": 472205,
     "guessed_slug": "given",
+    "type": "movies"
+  },
+  {
+    "title": "Given: On The Other Hand",
+    "mal_id": 49053,
+    "trakt_id": 1236396,
+    "guessed_slug": "given-on-the-other-hand",
     "type": "movies"
   },
   {
@@ -3168,6 +3189,13 @@
     "mal_id": 37897,
     "trakt_id": 387842,
     "guessed_slug": "godzilla-the-planet-eater",
+    "type": "movies"
+  },
+  {
+    "title": "Golden Kamuy: The Lightning Bandit and O-Gin the Viper / Shimaenaga",
+    "mal_id": 61834,
+    "trakt_id": 1236777,
+    "guessed_slug": "golden-kamuy-the-lightning-bandit-and-o-gin-the-viper-shimaenaga",
     "type": "movies"
   },
   {
@@ -3573,7 +3601,7 @@
     "title": "Higashi no Eden: Air Communication",
     "mal_id": 6927,
     "trakt_id": 90451,
-    "guessed_slug": "eden-of-the-east-air-communication",
+    "guessed_slug": "eden-of-the-east-compilation-air-communication",
     "type": "movies"
   },
   {
@@ -4627,6 +4655,13 @@
     "type": "movies"
   },
   {
+    "title": "Kinuginu no Hanayuki",
+    "mal_id": 62269,
+    "trakt_id": 1260537,
+    "guessed_slug": "kinuginu-no-hanayuki",
+    "type": "movies"
+  },
+  {
     "title": "Kitarou Tanjou: Gegege no Nazo",
     "mal_id": 48426,
     "trakt_id": 724991,
@@ -5121,6 +5156,20 @@
     "mal_id": 55748,
     "trakt_id": 921290,
     "guessed_slug": "love-live-nijigasaki-high-school-idol-club-final-chapter-part-1",
+    "type": "movies"
+  },
+  {
+    "title": "Love Live! Nijigasaki High School Idol Club Final Chapter Part 2",
+    "mal_id": 60159,
+    "trakt_id": 930471,
+    "guessed_slug": "love-live-nijigasaki-high-school-idol-club-final-chapter-part-2",
+    "type": "movies"
+  },
+  {
+    "title": "Love Live! Nijigasaki High School Idol Club: Next Sky",
+    "mal_id": 53671,
+    "trakt_id": 847049,
+    "guessed_slug": "love-live-nijigasaki-high-school-idol-club-next-sky",
     "type": "movies"
   },
   {
@@ -5757,7 +5806,7 @@
     "title": "Meitantei Conan Movie 01: Tokei Jikake no Matenrou",
     "mal_id": 779,
     "trakt_id": 13117,
-    "guessed_slug": "detective-conan-the-time-bombed-skyscraper",
+    "guessed_slug": "case-closed-the-time-bombed-skyscraper",
     "type": "movies"
   },
   {
@@ -6083,6 +6132,20 @@
     "type": "movies"
   },
   {
+    "title": "Mononoke the Movie: Chapter II - The Ashes of Rage",
+    "mal_id": 59408,
+    "trakt_id": 1080970,
+    "guessed_slug": "mononoke-the-movie-chapter-ii-the-ashes-of-rage",
+    "type": "movies"
+  },
+  {
+    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+    "mal_id": 61202,
+    "trakt_id": 1081354,
+    "guessed_slug": "mononoke-the-movie-chapter-iii-the-curse-of-the-serpent",
+    "type": "movies"
+  },
+  {
     "title": "Monster Strike The Movie: Hajimari no Basho e",
     "mal_id": 33724,
     "trakt_id": 260287,
@@ -6275,7 +6338,7 @@
     "title": "Natsume Yuujinchou Movie: Utsusemi ni Musubu",
     "mal_id": 36538,
     "trakt_id": 354879,
-    "guessed_slug": "natsume-s-book-of-friends-ephemeral-bond",
+    "guessed_slug": "natsume-s-book-of-friends-the-movie-ephemeral-bond",
     "type": "movies"
   },
   {
@@ -6927,6 +6990,13 @@
     "mal_id": 36556,
     "trakt_id": 399807,
     "guessed_slug": "peacemaker-kurogane-friend",
+    "type": "movies"
+  },
+  {
+    "title": "Peleliu: Guernica of Paradise",
+    "mal_id": 48701,
+    "trakt_id": 1160594,
+    "guessed_slug": "peleliu-guernica-of-paradise",
     "type": "movies"
   },
   {
@@ -7686,6 +7756,13 @@
     "type": "movies"
   },
   {
+    "title": "Scarlet",
+    "mal_id": 60610,
+    "trakt_id": 1150922,
+    "guessed_slug": "scarlet",
+    "type": "movies"
+  },
+  {
     "title": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
     "mal_id": 53129,
     "trakt_id": 850180,
@@ -7759,7 +7836,7 @@
     "title": "Senpai wa Otokonoko Movie: Ame Nochi Hare",
     "mal_id": 59957,
     "trakt_id": 1111898,
-    "guessed_slug": "senpai-wa-otokonoko-movie-ame-nochi-hare",
+    "guessed_slug": "senpai-is-an-otokonoko-movie-sunshine-after-the-rain",
     "type": "movies"
   },
   {
@@ -8232,6 +8309,13 @@
     "type": "movies"
   },
   {
+    "title": "Sumikko Gurashi: The Sky Kingdom and Two Children",
+    "mal_id": 61278,
+    "trakt_id": 1233722,
+    "guessed_slug": "sumikko-gurashi-the-sky-kingdom-and-two-children",
+    "type": "movies"
+  },
+  {
     "title": "Summer Ghost",
     "mal_id": 48171,
     "trakt_id": 633709,
@@ -8544,6 +8628,13 @@
     "mal_id": 17437,
     "trakt_id": 223589,
     "guessed_slug": "the-idolm-ster-movie-beyond-the-brilliant-future",
+    "type": "movies"
+  },
+  {
+    "title": "The Last Blossom",
+    "mal_id": 58915,
+    "trakt_id": 1055252,
+    "guessed_slug": "the-last-blossom",
     "type": "movies"
   },
   {
@@ -9110,7 +9201,7 @@
     "title": "WXIII Kidou Keisatsu Patlabor",
     "mal_id": 1290,
     "trakt_id": 10105,
-    "guessed_slug": "wxiii-patlabor-the-movie-3",
+    "guessed_slug": "patlabor-wxiii-the-movie",
     "type": "movies"
   },
   {
@@ -9167,6 +9258,13 @@
     "mal_id": 34537,
     "trakt_id": 273998,
     "guessed_slug": "night-is-short-walk-on-girl",
+    "type": "movies"
+  },
+  {
+    "title": "You and Idol Precure♪ the Movie For You! Our Kirakilala Concert!",
+    "mal_id": 60773,
+    "trakt_id": 1201885,
+    "guessed_slug": "you-and-idol-precure-the-movie-for-you-our-kirakilala-concert",
     "type": "movies"
   },
   {
@@ -9349,6 +9447,13 @@
     "mal_id": 36999,
     "trakt_id": 404941,
     "guessed_slug": "zoku-owarimonogatari",
+    "type": "movies"
+  },
+  {
+    "title": "Zombie Land Saga: Yumeginga Paradise",
+    "mal_id": 50159,
+    "trakt_id": 771436,
+    "guessed_slug": "zombie-land-saga-yumeginga-paradise",
     "type": "movies"
   },
   {
