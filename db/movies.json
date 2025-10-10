@@ -154,7 +154,7 @@
     "type": "movies"
   },
   {
-    "title": "Aikatsu! × PriPara THE MOVIE -A Miraculous Encounter!-",
+    "title": "Aikatsu! x PriPara the Movie: Deai no Kiseki!",
     "mal_id": 61558,
     "trakt_id": 1203934,
     "guessed_slug": "aikatsu-pripara-the-movie-a-miraculous-encounter",
@@ -1599,7 +1599,7 @@
     "title": "Crayon Shin-chan Movie 33: Chou Karei! Shakunetsu no Kasukabe Dancers",
     "mal_id": 60862,
     "trakt_id": 1148957,
-    "guessed_slug": "crayon-shin-chan-the-movie-the-spicy-kasukabe-dancers-in-india",
+    "guessed_slug": "crayon-shin-chan-the-movie-super-hot-the-spicy-kasukabe-dancers",
     "type": "movies"
   },
   {
@@ -3129,7 +3129,7 @@
     "type": "movies"
   },
   {
-    "title": "Girls Band Cry Compilation Movie: Seishun Kyōsōkyoku",
+    "title": "Girls Band Cry Movie",
     "mal_id": 59817,
     "trakt_id": 1170700,
     "guessed_slug": "girls-band-cry-compilation-movie-seishun-kyosokyoku",
@@ -3143,7 +3143,7 @@
     "type": "movies"
   },
   {
-    "title": "Given: On The Other Hand",
+    "title": "Given: Uragawa no Sonzai",
     "mal_id": 49053,
     "trakt_id": 1236396,
     "guessed_slug": "given-on-the-other-hand",
@@ -3192,7 +3192,7 @@
     "type": "movies"
   },
   {
-    "title": "Golden Kamuy: The Lightning Bandit and O-Gin the Viper / Shimaenaga",
+    "title": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga",
     "mal_id": 61834,
     "trakt_id": 1236777,
     "guessed_slug": "golden-kamuy-the-lightning-bandit-and-o-gin-the-viper-shimaenaga",
@@ -3356,28 +3356,28 @@
     "title": "Haikyuu!! Movie 1: Owari to Hajimari",
     "mal_id": 29755,
     "trakt_id": 221721,
-    "guessed_slug": "haikyuu-the-movie-the-end-and-the-beginning",
+    "guessed_slug": "haikyu-the-movie-the-end-and-the-beginning",
     "type": "movies"
   },
   {
     "title": "Haikyuu!! Movie 2: Shousha to Haisha",
     "mal_id": 30364,
     "trakt_id": 221722,
-    "guessed_slug": "haikyuu-movie-2-winners-and-losers",
+    "guessed_slug": "haikyu-the-movie-the-winner-and-the-loser",
     "type": "movies"
   },
   {
     "title": "Haikyuu!! Movie 3: Sainou to Sense",
     "mal_id": 35110,
     "trakt_id": 308777,
-    "guessed_slug": "haikyuu-movie-3-talent-and-sense",
+    "guessed_slug": "haikyu-the-movie-talent-and-sense",
     "type": "movies"
   },
   {
     "title": "Haikyuu!! Movie 4: Concept no Tatakai",
     "mal_id": 35111,
     "trakt_id": 308778,
-    "guessed_slug": "haikyuu-movie-4-battle-of-concepts",
+    "guessed_slug": "haikyu-the-movie-battle-of-concepts",
     "type": "movies"
   },
   {
@@ -3483,6 +3483,13 @@
     "mal_id": 5936,
     "trakt_id": 89904,
     "guessed_slug": "white-wolf",
+    "type": "movies"
+  },
+  {
+    "title": "Hateshinaki Scarlet",
+    "mal_id": 60610,
+    "trakt_id": 1150922,
+    "guessed_slug": "scarlet",
     "type": "movies"
   },
   {
@@ -3636,7 +3643,7 @@
     "title": "Higurashi no Naku Koro ni Kaku: Outbreak",
     "mal_id": 16700,
     "trakt_id": 216524,
-    "guessed_slug": "higurashi-when-they-cry-kaku-outbreak",
+    "guessed_slug": "higurashi-when-they-cry-outbreak",
     "type": "movies"
   },
   {
@@ -3742,6 +3749,13 @@
     "mal_id": 13935,
     "trakt_id": 82739,
     "guessed_slug": "after-school-midnighters",
+    "type": "movies"
+  },
+  {
+    "title": "Housenka",
+    "mal_id": 58915,
+    "trakt_id": 1055252,
+    "guessed_slug": "the-last-blossom",
     "type": "movies"
   },
   {
@@ -4543,6 +4557,13 @@
     "type": "movies"
   },
   {
+    "title": "Kimi to Idol Precure♪ Movie: Omatase! Kimi ni Todokeru Kirakki Live!",
+    "mal_id": 60773,
+    "trakt_id": 1201885,
+    "guessed_slug": "you-and-idol-precure-the-movie-for-you-our-kirakilala-concert",
+    "type": "movies"
+  },
+  {
     "title": "Kimi to, Nami ni Noretara",
     "mal_id": 38594,
     "trakt_id": 379956,
@@ -4743,6 +4764,13 @@
     "mal_id": 55149,
     "trakt_id": 900434,
     "guessed_slug": "komada-a-whisky-family",
+    "type": "movies"
+  },
+  {
+    "title": "Kono Hon wo Nusumu Mono wa",
+    "mal_id": 61770,
+    "trakt_id": 1223788,
+    "guessed_slug": "whoever-steals-this-book",
     "type": "movies"
   },
   {
@@ -5159,14 +5187,14 @@
     "type": "movies"
   },
   {
-    "title": "Love Live! Nijigasaki High School Idol Club Final Chapter Part 2",
+    "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Part 2",
     "mal_id": 60159,
     "trakt_id": 930471,
     "guessed_slug": "love-live-nijigasaki-high-school-idol-club-final-chapter-part-2",
     "type": "movies"
   },
   {
-    "title": "Love Live! Nijigasaki High School Idol Club: Next Sky",
+    "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Next Sky",
     "mal_id": 53671,
     "trakt_id": 847049,
     "guessed_slug": "love-live-nijigasaki-high-school-idol-club-next-sky",
@@ -6125,21 +6153,21 @@
     "type": "movies"
   },
   {
-    "title": "Mononoke Movie: Karakasa",
+    "title": "Mononoke Movie 1: Karakasa",
     "mal_id": 52107,
     "trakt_id": 795305,
     "guessed_slug": "mononoke-the-movie-the-phantom-in-the-rain",
     "type": "movies"
   },
   {
-    "title": "Mononoke the Movie: Chapter II - The Ashes of Rage",
+    "title": "Mononoke Movie 2: Hinezumi",
     "mal_id": 59408,
     "trakt_id": 1080970,
     "guessed_slug": "mononoke-the-movie-chapter-ii-the-ashes-of-rage",
     "type": "movies"
   },
   {
-    "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+    "title": "Mononoke Movie 3: Hebigami",
     "mal_id": 61202,
     "trakt_id": 1081354,
     "guessed_slug": "mononoke-the-movie-chapter-iii-the-curse-of-the-serpent",
@@ -6542,6 +6570,13 @@
     "mal_id": 1047,
     "trakt_id": 1225238,
     "guessed_slug": "on-your-mark-1995",
+    "type": "movies"
+  },
+  {
+    "title": "On Your Mark",
+    "mal_id": 1047,
+    "trakt_id": 1225238,
+    "guessed_slug": "on-your-mark",
     "type": "movies"
   },
   {
@@ -6993,7 +7028,7 @@
     "type": "movies"
   },
   {
-    "title": "Peleliu: Guernica of Paradise",
+    "title": "Peleliu: Rakuen no Guernica",
     "mal_id": 48701,
     "trakt_id": 1160594,
     "guessed_slug": "peleliu-guernica-of-paradise",
@@ -7336,28 +7371,28 @@
     "type": "movies"
   },
   {
-    "title": "Princess Principal: Crown Handler Movie 1",
+    "title": "Princess Principal: Crown Handler 1",
     "mal_id": 37807,
     "trakt_id": 393545,
     "guessed_slug": "princess-principal-crown-handler-chapter-1",
     "type": "movies"
   },
   {
-    "title": "Princess Principal: Crown Handler Movie 2",
+    "title": "Princess Principal: Crown Handler 2",
     "mal_id": 41140,
     "trakt_id": 673349,
     "guessed_slug": "princess-principal-crown-handler-chapter-2",
     "type": "movies"
   },
   {
-    "title": "Princess Principal: Crown Handler Movie 3",
+    "title": "Princess Principal: Crown Handler 3",
     "mal_id": 41141,
     "trakt_id": 716606,
     "guessed_slug": "princess-principal-crown-handler-chapter-3",
     "type": "movies"
   },
   {
-    "title": "Princess Principal: Crown Handler Movie 4",
+    "title": "Princess Principal: Crown Handler 4",
     "mal_id": 57093,
     "trakt_id": 1176834,
     "guessed_slug": "princess-principal-crown-handler-chapter-4",
@@ -7385,14 +7420,14 @@
     "type": "movies"
   },
   {
-    "title": "Psycho-Pass Movie",
+    "title": "Psycho-Pass Movie 1",
     "mal_id": 21339,
     "trakt_id": 194995,
     "guessed_slug": "psycho-pass-the-movie",
     "type": "movies"
   },
   {
-    "title": "Psycho-Pass Movie: Providence",
+    "title": "Psycho-Pass Movie 2: Providence",
     "mal_id": 52747,
     "trakt_id": 813945,
     "guessed_slug": "psycho-pass-providence",
@@ -7611,6 +7646,13 @@
   {
     "title": "Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Oujisama",
     "mal_id": 38882,
+    "trakt_id": 534844,
+    "guessed_slug": "ryoma-the-prince-of-tennis",
+    "type": "movies"
+  },
+  {
+    "title": "Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Oujisama",
+    "mal_id": 38882,
     "trakt_id": 673348,
     "guessed_slug": "ryouma-the-prince-of-tennis-shinsei-movie-tennis-no-ouji-sama",
     "type": "movies"
@@ -7753,13 +7795,6 @@
     "mal_id": 42798,
     "trakt_id": 580748,
     "guessed_slug": "farewell-my-dear-cramer-first-touch",
-    "type": "movies"
-  },
-  {
-    "title": "Scarlet",
-    "mal_id": 60610,
-    "trakt_id": 1150922,
-    "guessed_slug": "scarlet",
     "type": "movies"
   },
   {
@@ -8309,7 +8344,7 @@
     "type": "movies"
   },
   {
-    "title": "Sumikko Gurashi: The Sky Kingdom and Two Children",
+    "title": "Sumikko Gurashi Movie 4: Sora no Oukoku to Futari no Ko",
     "mal_id": 61278,
     "trakt_id": 1233722,
     "guessed_slug": "sumikko-gurashi-the-sky-kingdom-and-two-children",
@@ -8631,13 +8666,6 @@
     "type": "movies"
   },
   {
-    "title": "The Last Blossom",
-    "mal_id": 58915,
-    "trakt_id": 1055252,
-    "guessed_slug": "the-last-blossom",
-    "type": "movies"
-  },
-  {
     "title": "The Last: Naruto the Movie",
     "mal_id": 16870,
     "trakt_id": 198234,
@@ -8768,6 +8796,13 @@
     "mal_id": 5819,
     "trakt_id": 44872,
     "guessed_slug": "bird-song",
+    "type": "movies"
+  },
+  {
+    "title": "Toritsukare Otoko",
+    "mal_id": 61736,
+    "trakt_id": 1217272,
+    "guessed_slug": "the-obsessed",
     "type": "movies"
   },
   {
@@ -9261,13 +9296,6 @@
     "type": "movies"
   },
   {
-    "title": "You and Idol Precure♪ the Movie For You! Our Kirakilala Concert!",
-    "mal_id": 60773,
-    "trakt_id": 1201885,
-    "guessed_slug": "you-and-idol-precure-the-movie-for-you-our-kirakilala-concert",
-    "type": "movies"
-  },
-  {
     "title": "Youjo Senki Movie",
     "mal_id": 37055,
     "trakt_id": 404783,
@@ -9450,7 +9478,7 @@
     "type": "movies"
   },
   {
-    "title": "Zombie Land Saga: Yumeginga Paradise",
+    "title": "Zombieland Saga Movie: Yumeginga Paradise",
     "mal_id": 50159,
     "trakt_id": 771436,
     "guessed_slug": "zombie-land-saga-yumeginga-paradise",
