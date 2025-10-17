@@ -1488,6 +1488,14 @@
     "type": "shows"
   },
   {
+    "title": "Ao no Orchestra Season 2",
+    "mal_id": 56877,
+    "trakt_id": 200272,
+    "guessed_slug": "blue-orchestra",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Ao Oni The Animation",
     "mal_id": 33814,
     "trakt_id": 111489,
@@ -3229,6 +3237,14 @@
     "trakt_id": 104311,
     "guessed_slug": "my-hero-academia",
     "season": 7,
+    "type": "shows"
+  },
+  {
+    "title": "Boku no Hero Academia: Final Season",
+    "mal_id": 60098,
+    "trakt_id": 104311,
+    "guessed_slug": "my-hero-academia",
+    "season": 8,
     "type": "shows"
   },
   {
@@ -6989,6 +7005,14 @@
     "trakt_id": 159569,
     "guessed_slug": "to-your-eternity",
     "season": 2,
+    "type": "shows"
+  },
+  {
+    "title": "Fumetsu no Anata e Season 3",
+    "mal_id": 54703,
+    "trakt_id": 159569,
+    "guessed_slug": "to-your-eternity",
+    "season": 3,
     "type": "shows"
   },
   {
@@ -11152,7 +11176,7 @@
     "type": "shows"
   },
   {
-    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+    "title": "Isekai Yururi Kikou: Kosodate shinagara Boukensha shimasu",
     "mal_id": 57380,
     "trakt_id": 215690,
     "guessed_slug": "a-journey-through-another-world-raising-kids-while-adventuring",
@@ -11984,6 +12008,14 @@
     "type": "shows"
   },
   {
+    "title": "Kagaku x Bouken Survival! 2nd Season",
+    "mal_id": 60983,
+    "trakt_id": 249449,
+    "guessed_slug": "surviving-science",
+    "season": 2,
+    "type": "shows"
+  },
+  {
     "title": "Kage no Jitsuryokusha ni Naritakute!",
     "mal_id": 48316,
     "trakt_id": 188929,
@@ -12285,6 +12317,14 @@
     "trakt_id": 126424,
     "guessed_slug": "kakuriyo-bed-breakfast-for-spirits",
     "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Kakuriyo no Yadomeshi Ni",
+    "mal_id": 58772,
+    "trakt_id": 126424,
+    "guessed_slug": "kakuriyo-bed-breakfast-for-spirits",
+    "season": 2,
     "type": "shows"
   },
   {
@@ -13749,6 +13789,14 @@
     "trakt_id": 66737,
     "guessed_slug": "kingdom",
     "season": 5,
+    "type": "shows"
+  },
+  {
+    "title": "Kingdom 6th Season",
+    "mal_id": 61517,
+    "trakt_id": 66737,
+    "guessed_slug": "kingdom",
+    "season": 6,
     "type": "shows"
   },
   {
@@ -19472,6 +19520,14 @@
     "type": "shows"
   },
   {
+    "title": "One Punch Man 3",
+    "mal_id": 52807,
+    "trakt_id": 97548,
+    "guessed_slug": "one-punch-man",
+    "season": 3,
+    "type": "shows"
+  },
+  {
     "title": "One Room",
     "mal_id": 34392,
     "trakt_id": 113262,
@@ -24368,6 +24424,14 @@
     "type": "shows"
   },
   {
+    "title": "Shuumatsu no Walküre III",
+    "mal_id": 61200,
+    "trakt_id": 171086,
+    "guessed_slug": "record-of-ragnarok",
+    "season": 4,
+    "type": "shows"
+  },
+  {
     "title": "Shuumatsu Touring",
     "mal_id": 61072,
     "trakt_id": 276099,
@@ -25008,6 +25072,14 @@
     "type": "shows"
   },
   {
+    "title": "Spy x Family Season 3",
+    "mal_id": 59027,
+    "trakt_id": 190742,
+    "guessed_slug": "spy-x-family",
+    "season": 4,
+    "type": "shows"
+  },
+  {
     "title": "SSSS.Dynazenon",
     "mal_id": 40870,
     "trakt_id": 170397,
@@ -25045,6 +25117,14 @@
     "trakt_id": 170569,
     "guessed_slug": "star-wars-visions",
     "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Star Wars: Visions Volume 3",
+    "mal_id": 60336,
+    "trakt_id": 170569,
+    "guessed_slug": "star-wars-visions",
+    "season": 3,
     "type": "shows"
   },
   {
@@ -27813,6 +27893,14 @@
     "trakt_id": 253261,
     "guessed_slug": "umamusume-cinderella-gray",
     "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Uma Musume: Cinderella Gray Part 2",
+    "mal_id": 61930,
+    "trakt_id": 253261,
+    "guessed_slug": "umamusume-cinderella-gray",
+    "season": 2,
     "type": "shows"
   },
   {
