@@ -8792,19 +8792,19 @@
     "type": "shows"
   },
   {
+    "title": "Haikyuu!! To the Top",
+    "mal_id": 38883,
+    "trakt_id": 60417,
+    "guessed_slug": "haikyu",
+    "season": 4,
+    "type": "shows"
+  },
+  {
     "title": "Haikyuu!! To the Top Part 2",
     "mal_id": 40776,
     "trakt_id": 60417,
     "guessed_slug": "haikyu",
     "season": 5,
-    "type": "shows"
-  },
-  {
-    "title": "Haikyuu!!: To the Top",
-    "mal_id": 38883,
-    "trakt_id": 60417,
-    "guessed_slug": "haikyu",
-    "season": 4,
     "type": "shows"
   },
   {
@@ -10963,7 +10963,7 @@
     "title": "Iriya no Sora, UFO no Natsu",
     "mal_id": 358,
     "trakt_id": 63593,
-    "guessed_slug": "iriya-no-sora-ufo-no-natsu",
+    "guessed_slug": "iriya-s-sky-summer-of-ufos",
     "season": 1,
     "type": "shows"
   },
@@ -17352,7 +17352,7 @@
     "type": "shows"
   },
   {
-    "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+    "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu",
     "mal_id": 61276,
     "trakt_id": 280044,
     "guessed_slug": "the-banished-court-magician-aims-to-become-the-strongest",
@@ -22563,7 +22563,7 @@
     "title": "Sawaranaide Kotesashi-kun",
     "mal_id": 61142,
     "trakt_id": 276041,
-    "guessed_slug": "don-t-touch-kotesashi",
+    "guessed_slug": "hands-off-sawaranaide-kotesashi-kun",
     "season": 1,
     "type": "shows"
   },
@@ -27851,7 +27851,7 @@
     "title": "Ugoku! Neko Mukashibanashi",
     "mal_id": 61254,
     "trakt_id": 294224,
-    "guessed_slug": "ugoku-neko-mukashibanashi",
+    "guessed_slug": "cat-tales",
     "season": 1,
     "type": "shows"
   },
