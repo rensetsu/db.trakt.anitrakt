@@ -196,13 +196,6 @@
     "type": "movies"
   },
   {
-    "title": "Aki-Sora",
-    "mal_id": 6987,
-    "trakt_id": 294037,
-    "guessed_slug": "aki-sora",
-    "type": "movies"
-  },
-  {
     "title": "Akira",
     "mal_id": 47,
     "trakt_id": 115,
@@ -214,6 +207,13 @@
     "mal_id": 49303,
     "trakt_id": 675276,
     "guessed_slug": "maboroshi",
+    "type": "movies"
+  },
+  {
+    "title": "All You Need Is Kill",
+    "mal_id": 61192,
+    "trakt_id": 1171874,
+    "guessed_slug": "all-you-need-is-kill",
     "type": "movies"
   },
   {
@@ -249,6 +249,13 @@
     "mal_id": 15039,
     "trakt_id": 155529,
     "guessed_slug": "anohana-the-flower-we-saw-that-day-the-movie",
+    "type": "movies"
+  },
+  {
+    "title": "Ansatsu Kyoushitsu Movie: Minna no Jikan",
+    "mal_id": 62421,
+    "trakt_id": 1266022,
+    "guessed_slug": "assassination-classroom-the-movie-everyone-s-time",
     "type": "movies"
   },
   {
@@ -387,7 +394,7 @@
   {
     "title": "Asa made Jugyou Chu!",
     "mal_id": 12581,
-    "trakt_id": 185745,
+    "trakt_id": 948359,
     "guessed_slug": "see-me-after-class",
     "type": "movies"
   },
@@ -541,13 +548,6 @@
   {
     "title": "Bannou Yasai Ninninman",
     "mal_id": 10501,
-    "trakt_id": 286342,
-    "guessed_slug": "bannou-yasai-ninninman",
-    "type": "movies"
-  },
-  {
-    "title": "Bannou Yasai Ninninman",
-    "mal_id": 10501,
     "trakt_id": 158784,
     "guessed_slug": "super-veggie-torracman",
     "type": "movies"
@@ -606,13 +606,6 @@
     "mal_id": 12115,
     "trakt_id": 95797,
     "guessed_slug": "berserk-the-golden-age-arc-iii-the-advent",
-    "type": "movies"
-  },
-  {
-    "title": "Big Order",
-    "mal_id": 30137,
-    "trakt_id": 225299,
-    "guessed_slug": "big-order",
     "type": "movies"
   },
   {
@@ -882,6 +875,13 @@
     "type": "movies"
   },
   {
+    "title": "Boku no Kokoro no Yabai Yatsu Movie",
+    "mal_id": 59985,
+    "trakt_id": 1113461,
+    "guessed_slug": "the-dangers-in-my-heart-the-movie",
+    "type": "movies"
+  },
+  {
     "title": "Boku to Roboko Movie",
     "mal_id": 55709,
     "trakt_id": 970307,
@@ -994,6 +994,13 @@
     "type": "movies"
   },
   {
+    "title": "Busou Shinki: Install x Dream",
+    "mal_id": 16614,
+    "trakt_id": 310308,
+    "guessed_slug": "busou-shinki-moon-angel",
+    "type": "movies"
+  },
+  {
     "title": "Buta",
     "mal_id": 13169,
     "trakt_id": 158789,
@@ -1012,13 +1019,6 @@
     "mal_id": 16606,
     "trakt_id": 531950,
     "guessed_slug": "c-l-a-y",
-    "type": "movies"
-  },
-  {
-    "title": "Calm",
-    "mal_id": 29772,
-    "trakt_id": 276771,
-    "guessed_slug": "calm",
     "type": "movies"
   },
   {
@@ -1155,17 +1155,17 @@
     "type": "movies"
   },
   {
+    "title": "Chou Kaguya-hime!",
+    "mal_id": 62896,
+    "trakt_id": 1306958,
+    "guessed_slug": "cosmic-princess-kaguya",
+    "type": "movies"
+  },
+  {
     "title": "Choujin Densetsu Urotsukidouji 2",
     "mal_id": 2360,
     "trakt_id": 33725,
     "guessed_slug": "urotsukidoji-ii-legend-of-the-demon-womb",
-    "type": "movies"
-  },
-  {
-    "title": "Choujin Densetsu Urotsukidouji 5: Kanketsu-hen",
-    "mal_id": 2345,
-    "trakt_id": 33730,
-    "guessed_slug": "urotsukidoji-v-the-final-chapter",
     "type": "movies"
   },
   {
@@ -1584,13 +1584,6 @@
   {
     "title": "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
     "mal_id": 57499,
-    "trakt_id": 1027683,
-    "guessed_slug": "crayon-shin-chan-movie-32-ora-tachi-no-kyouyuu-nikki",
-    "type": "movies"
-  },
-  {
-    "title": "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
-    "mal_id": 57499,
     "trakt_id": 985885,
     "guessed_slug": "crayon-shin-chan-the-movie-our-dinosaur-diary",
     "type": "movies"
@@ -1683,7 +1676,7 @@
     "title": "Date A Live Movie: Mayuri Judgment",
     "mal_id": 24655,
     "trakt_id": 211938,
-    "guessed_slug": "date-a-live-mayuri-judgment",
+    "guessed_slug": "date-a-live-mayuri-judgement",
     "type": "movies"
   },
   {
@@ -2163,13 +2156,6 @@
     "type": "movies"
   },
   {
-    "title": "Doraemon Movie 42: Nobita to Sora no Utopia",
-    "mal_id": 52318,
-    "trakt_id": 828797,
-    "guessed_slug": "doraemon-nobita-to-sora-no-utopia",
-    "type": "movies"
-  },
-  {
     "title": "Doraemon Movie 43: Nobita no Chikyuu Symphony",
     "mal_id": 55874,
     "trakt_id": 925288,
@@ -2181,6 +2167,13 @@
     "mal_id": 59980,
     "trakt_id": 1120922,
     "guessed_slug": "doraemon-the-movie-nobita-s-art-world-tales",
+    "type": "movies"
+  },
+  {
+    "title": "Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou",
+    "mal_id": 62508,
+    "trakt_id": 1265643,
+    "guessed_slug": "doraemon-the-movie-new-nobita-and-the-castle-of-the-undersea-devil",
     "type": "movies"
   },
   {
@@ -2443,10 +2436,10 @@
     "type": "movies"
   },
   {
-    "title": "ef: A Tale of Memories. - Prologue",
-    "mal_id": 6361,
-    "trakt_id": 262548,
-    "guessed_slug": "ef-a-tale-of-memories-prologue",
+    "title": "ef: A Tale of Melodies. - Prologue",
+    "mal_id": 6401,
+    "trakt_id": 415610,
+    "guessed_slug": "ef-a-tale-of-melodies-prologue",
     "type": "movies"
   },
   {
@@ -2636,6 +2629,13 @@
     "mal_id": 6922,
     "trakt_id": 31739,
     "guessed_slug": "fate-stay-night-unlimited-blade-works",
+    "type": "movies"
+  },
+  {
+    "title": "Fate/strange Fake: Whispers of Dawn",
+    "mal_id": 53127,
+    "trakt_id": 922717,
+    "guessed_slug": "fate-strange-fake-whispers-of-dawn",
     "type": "movies"
   },
   {
@@ -2998,13 +2998,6 @@
   {
     "title": "Ginga Tetsudou 999: Eien no Tabibito Emeraldas",
     "mal_id": 6734,
-    "trakt_id": 93494,
-    "guessed_slug": "galaxy-express-999-eternal-traveler-emeraldas",
-    "type": "movies"
-  },
-  {
-    "title": "Ginga Tetsudou 999: Eien no Tabibito Emeraldas",
-    "mal_id": 6734,
     "trakt_id": 538669,
     "guessed_slug": "galaxy-express-999-eternal-traveler-emeraldas",
     "type": "movies"
@@ -3062,7 +3055,14 @@
     "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
     "mal_id": 15335,
     "trakt_id": 149651,
-    "guessed_slug": "gintama-the-movie-the-final-chapter-be-forever-yorozuya",
+    "guessed_slug": "gintama-the-final-chapter-be-forever-yorozuya",
+    "type": "movies"
+  },
+  {
+    "title": "Gintama Movie 3: Yoshiwara Daienjou",
+    "mal_id": 62277,
+    "trakt_id": 1256133,
+    "guessed_slug": "shin-gekijoban-gintama-yoshiwara-daienjo",
     "type": "movies"
   },
   {
@@ -3255,13 +3255,6 @@
     "type": "movies"
   },
   {
-    "title": "Grisaia: Phantom Trigger The Animation - Stargazer",
-    "mal_id": 42392,
-    "trakt_id": 616295,
-    "guessed_slug": "grisaia-phantom-trigger-the-animation-stargazer",
-    "type": "movies"
-  },
-  {
     "title": "Gundam: G no Reconguista Movie I - Ike! Core Fighter",
     "mal_id": 38714,
     "trakt_id": 485251,
@@ -3441,6 +3434,13 @@
     "mal_id": 28093,
     "trakt_id": 223450,
     "guessed_slug": "flowers-will-bloom-in-tohoku",
+    "type": "movies"
+  },
+  {
+    "title": "Hanarokushou ga Akeru Hi ni",
+    "mal_id": 58735,
+    "trakt_id": 1040257,
+    "guessed_slug": "a-new-dawn",
     "type": "movies"
   },
   {
@@ -3880,7 +3880,7 @@
   {
     "title": "Initial D Battle Stage 2",
     "mal_id": 3931,
-    "trakt_id": 11865,
+    "trakt_id": 1136818,
     "guessed_slug": "initial-d-battle-stage-2",
     "type": "movies"
   },
@@ -4494,6 +4494,13 @@
     "type": "movies"
   },
   {
+    "title": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+    "mal_id": 38716,
+    "trakt_id": 729401,
+    "guessed_slug": "mobile-suit-gundam-hathaway-the-sorcery-of-nymph-circe",
+    "type": "movies"
+  },
+  {
     "title": "Kikumana",
     "mal_id": 4460,
     "trakt_id": 296034,
@@ -4539,7 +4546,7 @@
     "title": "Kimi no Koe wo Todoketai",
     "mal_id": 33218,
     "trakt_id": 308134,
-    "guessed_slug": "your-voice-kimikoe",
+    "guessed_slug": "i-want-to-deliver-your-voice",
     "type": "movies"
   },
   {
@@ -5040,6 +5047,13 @@
     "type": "movies"
   },
   {
+    "title": "Kusunoki no Bannin",
+    "mal_id": 61418,
+    "trakt_id": 1196113,
+    "guessed_slug": "the-keeper-of-the-camphor-tree",
+    "type": "movies"
+  },
+  {
     "title": "Kyochuu Rettou",
     "mal_id": 38915,
     "trakt_id": 426919,
@@ -5274,7 +5288,7 @@
     "title": "Lupin III: Cagliostro no Shiro",
     "mal_id": 1430,
     "trakt_id": 9327,
-    "guessed_slug": "lupin-the-third-the-castle-of-cagliostro",
+    "guessed_slug": "the-castle-of-cagliostro",
     "type": "movies"
   },
   {
@@ -5553,13 +5567,6 @@
   {
     "title": "Macross II: Lovers Again",
     "mal_id": 1262,
-    "trakt_id": 29961,
-    "guessed_slug": "macross-ii-lovers-again",
-    "type": "movies"
-  },
-  {
-    "title": "Macross II: Lovers Again",
-    "mal_id": 1262,
     "trakt_id": 883585,
     "guessed_slug": "macross-ii-lovers-again",
     "type": "movies"
@@ -5761,13 +5768,6 @@
     "type": "movies"
   },
   {
-    "title": "Make a Girl",
-    "mal_id": 54740,
-    "trakt_id": 1010143,
-    "guessed_slug": "メイクアガール",
-    "type": "movies"
-  },
-  {
     "title": "Mardock Scramble: The First Compression",
     "mal_id": 8100,
     "trakt_id": 54034,
@@ -5810,10 +5810,10 @@
     "type": "movies"
   },
   {
-    "title": "Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?",
-    "mal_id": 14049,
-    "trakt_id": 430835,
-    "guessed_slug": "mashiro-iro-symphony-airi-ga-anata-no-kanojo-ni",
+    "title": "Mask Danshi wa Koishitakunai noni",
+    "mal_id": 54792,
+    "trakt_id": 988407,
+    "guessed_slug": "mask-danshi-wa-koishitakunai-noni",
     "type": "movies"
   },
   {
@@ -5828,6 +5828,13 @@
     "mal_id": 2488,
     "trakt_id": 102742,
     "guessed_slug": "mei-and-the-kittenbus",
+    "type": "movies"
+  },
+  {
+    "title": "Meikyuu no Shiori",
+    "mal_id": 61964,
+    "trakt_id": 1236619,
+    "guessed_slug": "labyrinth",
     "type": "movies"
   },
   {
@@ -6192,6 +6199,13 @@
     "mal_id": 38021,
     "trakt_id": 399808,
     "guessed_slug": "monster-strike-the-movie-sora-no-kanata",
+    "type": "movies"
+  },
+  {
+    "title": "Monsters: Ippyaku Sanjou Hiryuu Jigoku",
+    "mal_id": 56055,
+    "trakt_id": 994908,
+    "guessed_slug": "monsters-103-mercies-dragon-damnation",
     "type": "movies"
   },
   {
@@ -6863,21 +6877,21 @@
     "title": "Oshiri Tantei Movie 1: Curry Naru Jiken",
     "mal_id": 39435,
     "trakt_id": 456621,
-    "guessed_slug": "butt-detective-the-movie",
+    "guessed_slug": "butt-detective-the-movie-the-curry-incident",
     "type": "movies"
   },
   {
     "title": "Oshiri Tantei Movie 2: Tentoumushi Iseki no Nazo",
     "mal_id": 40863,
     "trakt_id": 661948,
-    "guessed_slug": "butt-detective-mystery-of-the-ruins-of-tentoumu",
+    "guessed_slug": "butt-detective-the-movie-mystery-of-the-ruins-of-tentomushi",
     "type": "movies"
   },
   {
     "title": "Oshiri Tantei Movie 3: Sufure-tou no Himitsu",
     "mal_id": 48784,
     "trakt_id": 673344,
-    "guessed_slug": "oshiri-tantei-sufuure-tou-no-himitsu",
+    "guessed_slug": "butt-detective-the-movie-the-secret-of-souffule-island",
     "type": "movies"
   },
   {
@@ -6891,14 +6905,14 @@
     "title": "Oshiri Tantei Movie 5: Saraba Itoshiki Aibou (Oshiri) yo",
     "mal_id": 57590,
     "trakt_id": 1011662,
-    "guessed_slug": "eiga-oshiri-tantei-saraba-itoshiki-aibo-oshiri-yo",
+    "guessed_slug": "butt-detective-the-movie-farewell-oh-my-beloved-butty",
     "type": "movies"
   },
   {
     "title": "Oshiri Tantei Movie 6: Star and Moon",
     "mal_id": 60613,
     "trakt_id": 1150429,
-    "guessed_slug": "eiga-oshiri-tantei-star-and-moon",
+    "guessed_slug": "butt-detective-the-movie-star-and-moon",
     "type": "movies"
   },
   {
@@ -7011,6 +7025,13 @@
     "mal_id": 57369,
     "trakt_id": 976879,
     "guessed_slug": "ya-boy-kongming-road-to-summer-sonia",
+    "type": "movies"
+  },
+  {
+    "title": "Paris ni Saku Etoile",
+    "mal_id": 62193,
+    "trakt_id": 1252258,
+    "guessed_slug": "paris-ni-saku-etoile",
     "type": "movies"
   },
   {
@@ -7630,13 +7651,6 @@
     "type": "movies"
   },
   {
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
-    "mal_id": 401,
-    "trakt_id": 438376,
-    "guessed_slug": "rurouni-kenshin-reflection",
-    "type": "movies"
-  },
-  {
     "title": "Ryo",
     "mal_id": 14347,
     "trakt_id": 136035,
@@ -7648,13 +7662,6 @@
     "mal_id": 38882,
     "trakt_id": 534844,
     "guessed_slug": "ryoma-the-prince-of-tennis",
-    "type": "movies"
-  },
-  {
-    "title": "Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Oujisama",
-    "mal_id": 38882,
-    "trakt_id": 673348,
-    "guessed_slug": "ryouma-the-prince-of-tennis-shinsei-movie-tennis-no-ouji-sama",
     "type": "movies"
   },
   {
@@ -7739,13 +7746,6 @@
     "mal_id": 12477,
     "trakt_id": 131230,
     "guessed_slug": "patema-inverted",
-    "type": "movies"
-  },
-  {
-    "title": "Sakasama no Patema: Beginning of the Day",
-    "mal_id": 13429,
-    "trakt_id": 368394,
-    "guessed_slug": "sakasama-no-patema-beginning-of-the-day",
     "type": "movies"
   },
   {
@@ -8603,6 +8603,13 @@
     "type": "movies"
   },
   {
+    "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+    "mal_id": 59971,
+    "trakt_id": 1113460,
+    "guessed_slug": "that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea",
+    "type": "movies"
+  },
+  {
     "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
     "mal_id": 49877,
     "trakt_id": 701676,
@@ -8677,13 +8684,6 @@
     "mal_id": 3089,
     "trakt_id": 9704,
     "guessed_slug": "the-sky-crawlers",
-    "type": "movies"
-  },
-  {
-    "title": "The Urotsuki",
-    "mal_id": 1353,
-    "trakt_id": 33731,
-    "guessed_slug": "urotsukidoji-new-saga",
     "type": "movies"
   },
   {
@@ -9396,8 +9396,8 @@
   {
     "title": "Yuru Yuri Nachuyachumi!",
     "mal_id": 23225,
-    "trakt_id": 222943,
-    "guessed_slug": "yuruyuri-summer-vacation",
+    "trakt_id": 904477,
+    "guessed_slug": "yuruyuri-nachuyachumi",
     "type": "movies"
   },
   {
