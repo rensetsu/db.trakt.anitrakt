@@ -1072,14 +1072,6 @@
     "type": "shows"
   },
   {
-    "title": "All Purpose Cultural Cat Girl Nuku Nuku",
-    "mal_id": 373,
-    "trakt_id": 195182,
-    "guessed_slug": "all-purpose-cultural-cat-girl-nuku-nuku",
-    "season": 1,
-    "type": "shows"
-  },
-  {
     "title": "Allison to Lillia",
     "mal_id": 3549,
     "trakt_id": 42344,
@@ -2524,6 +2516,14 @@
     "mal_id": 54959,
     "trakt_id": 206460,
     "guessed_slug": "bang-dream-it-s-mygo",
+    "season": 1,
+    "type": "shows"
+  },
+  {
+    "title": "Bannou Bunka Neko-Musume",
+    "mal_id": 373,
+    "trakt_id": 195182,
+    "guessed_slug": "all-purpose-cultural-cat-girl-nuku-nuku",
     "season": 1,
     "type": "shows"
   },
@@ -7584,7 +7584,7 @@
     "type": "shows"
   },
   {
-    "title": "Ganso! Bandori-chan",
+    "title": "GANSO! BanG Dream Chan",
     "mal_id": 61107,
     "trakt_id": 300517,
     "guessed_slug": "ganso-bang-dream-chan",
