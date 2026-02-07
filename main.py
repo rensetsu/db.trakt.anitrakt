@@ -245,7 +245,7 @@ class FilterEngine:
             
             if rule_type in ["ALL", "AND"]:
                 # ALL conditions must match (AND logic)
-                if all(self._condition_matches(item, condition) for condition in conditions):
+                if conditions and all(self._condition_matches(item, condition) for condition in conditions):
                     logger.info(f"Ignoring '{item.title}' - {rule['description']}")
                     return True
             
@@ -439,24 +439,30 @@ class AniTraktParser:
         logger.info(f"Processing {media_type}")
         
         try:
-            # Parse HTML data
+            # Parse HTML data from remote source
             data = self.html_parser.parse_media(media_type)
             
-            # Apply remote source filtering
+            # STEP 1: Apply remote source filtering (before overwrites)
             data = self.filter_engine.filter_items(data, media_type, "remote")
             
-            # Apply overwrites
+            # STEP 2: Apply overwrites (takes precedent - adds/replaces items)
             data = self.data_manager.apply_overwrites(data, media_type)
             
-            # Apply all source filtering (but protect overwrite items)
+            # STEP 3: Separate overwritten items from remote items
             overwrite_items = self.fman.load_overwrite_data(media_type)
             overwrite_mal_ids = {item.mal_id for item in overwrite_items}
             
-            protected_items = [item for item in data if item.mal_id in overwrite_mal_ids]
-            filterable_items = [item for item in data if item.mal_id not in overwrite_mal_ids]
+            overwritten_items = [item for item in data if item.mal_id in overwrite_mal_ids]
+            remote_items = [item for item in data if item.mal_id not in overwrite_mal_ids]
             
-            filtered_items = self.filter_engine.filter_items(filterable_items, media_type, "all")
-            final_data = protected_items + filtered_items
+            # STEP 4: Apply "all" source filtering (only to remote items)
+            remote_items = self.filter_engine.filter_items(remote_items, media_type, "all")
+            
+            # STEP 5: Apply "local" source filtering (only to overwritten items)
+            overwritten_items = self.filter_engine.filter_items(overwritten_items, media_type, "local")
+            
+            # Combine: overwritten items + filtered remote items
+            final_data = overwritten_items + remote_items
             
             # Save to file
             self.fman.save_media_data(final_data, media_type)

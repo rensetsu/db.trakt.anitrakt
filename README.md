@@ -114,7 +114,7 @@ various criteria.
 ```jsonc
 [
   {
-    "source": "remote|all",
+    "source": "remote|local|all",
     "type": "OR|AND|ANY|ALL", 
     "conditions": [
       {
@@ -128,8 +128,9 @@ various criteria.
 
 #### Source Types
 
-- **`remote`**: Applied immediately after parsing the AniTrakt database
-- **`all`**: Applied after overwrite processing (but overwrite items are protected)
+- **`remote`**: Applied to items from AniTrakt before overwrite merging
+- **`local`**: Applied only to overwrite items (after merging)
+- **`all`**: Applied to all remaining items after overwrite processing
 
 #### Rule Types
 
@@ -194,8 +195,8 @@ If multiple fields exists inside one condition statement, it will behave as
 ### Overwrite Files (`db/overwrite_movies.json` & `db/overwrite_tv.json`)
 
 These files contain manual additions or corrections to the scraped data. Items
-in overwrite files are **protected from "all" source ignore rules** but still
-subject to "remote" source filtering.
+in overwrite files take precedent and can only be filtered by `"source": "local"`
+ignore rules. They are fully protected from "remote" and "all" source filtering.
 
 #### Use Cases
 
@@ -229,13 +230,14 @@ subject to "remote" source filtering.
 
 ## Processing Pipeline
 
-The parser follows this sequence to ensure data integrity:
+The parser follows this sequence to ensure data integrity and clear override precedent:
 
 1. **Fetch & Parse**: Scrape data from AniTrakt website
-2. **Remote Filtering**: Apply ignore rules with `"source": "remote"`
-3. **Overwrite Processing**: Merge/replace items from overwrite files
-4. **Final Filtering**: Apply ignore rules with `"source": "all"` (overwrite items are protected)
-5. **Sorting & Output**: Sort alphabetically by title (case-insensitive) and save to JSON files
+2. **Remote Filtering**: Apply ignore rules with `"source": "remote"` to remote data
+3. **Overwrite Processing**: Merge/replace items from overwrite files (takes precedent)
+4. **Final Filtering**: Apply ignore rules with `"source": "all"` to remaining remote items
+5. **Local Filtering**: Apply ignore rules with `"source": "local"` to overwrite items only
+6. **Sorting & Output**: Merge results and save to JSON files sorted alphabetically by title
 
 ### Data Flow Diagram
 
@@ -244,13 +246,14 @@ graph TD
     A[AniTrakt Website] --> B[HTML Parser]
     B --> C[Remote Filtering]
     C --> D[Overwrite Processing]
-    D --> E[Protected Items]
-    D --> F[Regular Items]
-    F --> G[Final Filtering]
-    E --> H[Merge Protected + Filtered]
-    G --> H
-    H --> I[Sort Alphabetically]
-    I --> J[Save to JSON]
+    D --> E[Overwrite Items]
+    D --> F[Remote Items]
+    F --> G[All Source Filtering]
+    E --> H[Local Source Filtering]
+    G --> I[Combine Results]
+    H --> I
+    I --> J[Sort Alphabetically]
+    J --> K[Save to JSON]
 ```
 
 ## Usage
