@@ -237,7 +237,7 @@ The parser follows this sequence to ensure data integrity and clear override pre
 3. **Overwrite Processing**: Merge/replace items from overwrite files (takes precedent)
 4. **Final Filtering**: Apply ignore rules with `"source": "all"` to remaining remote items
 5. **Local Filtering**: Apply ignore rules with `"source": "local"` to overwrite items only
-6. **Sorting & Output**: Merge results and save to JSON files sorted alphabetically by title
+6. **Sorting & Output**: Merge results and save to JSON files sorted by MAL ID
 
 ### Data Flow Diagram
 
@@ -252,7 +252,7 @@ graph TD
     E --> H[Local Source Filtering]
     G --> I[Combine Results]
     H --> I
-    I --> J[Sort Alphabetically]
+    I --> J[Sort by MAL ID]
     J --> K[Save to JSON]
 ```
 

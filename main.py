@@ -201,8 +201,8 @@ class FileManager:
     def save_media_data(self, data: List[MediaType], media_type: MediaLiteral) -> None:
         """Save media data to file"""
         filename = f"{self._get_media_filename(media_type)}.json"
-        # Sort alphabetically by title (case-insensitive)
-        sorted_data = sorted(data, key=lambda x: x.title.lower())
+        # Sort by MAL ID
+        sorted_data = sorted(data, key=lambda x: x.mal_id)
         serialized_data = [asdict(item) for item in sorted_data]
         self.write_json(serialized_data, filename)
 
