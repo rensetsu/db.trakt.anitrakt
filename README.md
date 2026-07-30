@@ -1,3 +1,8 @@
+> [!CAUTION]
+> Due to Trakt's shitty move in July 30 by removing custom API access for non-VIP user, unfortunately I had to archive the project.
+>
+> Use WeTrakr y'all.
+
 # db.trakt.anitrakt
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/rensetsu/db.trakt.anitrakt?style=social)](https://github.com/rensetsu/db.trakt.anitrakt)
